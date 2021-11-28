@@ -30,7 +30,7 @@
 |  | [PREFER: Point-of-interest REcommendation with efficiency and privacy-preservation via Federated Edge leaRning](https://dl.acm.org/doi/10.1145/3448099) | Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. |  |
 |  | [FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation](https://arxiv.org/abs/2102.04925) | arxiv |  |
 |  | [A Privacy-Preserving Distributed Contextual Federated Online Learning Framework with Big Data Support in Social Recommender Systems](https://ieeexplore.ieee.org/document/8807242) | TKDE |  |
-|  | [FedeRank: User Controlled Feedback with Federated Recommender Systems](http://arxiv.org/abs/2012.11328) | arxiv |  |
+|  | [FedeRank: User Controlled Feedback with Federated Recommender Systems](http://arxiv.org/abs/2012.11328) | ECIR |  |
 |  | [Robustness of Meta Matrix Factorization Against Strict Privacy Constraints](http://arxiv.org/abs/2101.06927) | arxiv | [Link](https://github.com/pmuellner/RobustnessOfMetaMF) |
 |  | [A Novel Privacy-Preserved Recommender System Framework Based On Federated Learning](https://dl.acm.org/doi/10.1145/3451471.3451485) | ICSIM |  |
 |  | [FCMF: Federated collective matrix factorization for heterogeneous collaborative filtering](https://www.sciencedirect.com/science/article/pii/S0950705121002094) | Knowledge-Based Systems | [Link](http://csse.szu.edu.cn/staff/panwk/publications/FCMF/) |
@@ -42,7 +42,7 @@
 |  | [Privacy-Preserving News Recommendation Model Learning](http://arxiv.org/abs/2003.09592) | EMNLP-Findings | [Link](https://github.com/taoqi98/FedNewsRec) |
 |  | [A Federated Recommender System for Online Services](https://dl.acm.org/doi/10.1145/3383313.3411528) | RecSys |  |
 |  | [On the Detection of Shilling Attacks in Federated Collaborative Filtering](https://ieeexplore.ieee.org/document/9252070) | SRDS |  |
-|  | [A Federated Multi-View Deep Learning Framework for Privacy-Preserving Recommendations](http://arxiv.org/abs/2008.10808) | arxiv |  |
+|  | [A Federated Multi-View Deep Learning Framework for Privacy-Preserving Recommendations](http://arxiv.org/abs/2008.10808) |  ECML/PKDD |  |
 |  | [FedFast: Going Beyond Average for Faster Training of Federated Recommender Systems](https://dl.acm.org/doi/10.1145/3394486.3403176) | KDD |  |
 |  | [Privacy Threats Against Federated Matrix Factorization](http://arxiv.org/abs/2007.01587) | arxiv |  |
 |  | [Robust Federated Recommendation System](http://arxiv.org/abs/2006.08259) | arxiv |  |
@@ -53,7 +53,7 @@
 |  | [Federated Multi-view Matrix Factorization for Personalized Recommendations](http://arxiv.org/abs/2004.04256) | arxiv |  |
 |  | [Practical Privacy Preserving POI Recommendation](http://arxiv.org/abs/2003.02834) | arxiv |  |
 |  | [Federating Recommendations Using Differentially Private Prototypes](https://arxiv.org/pdf/2003.00602.pdf) | arxiv |  |
-|  | [Federated Recommendation Systems](https://link.springer.com/chapter/10.1007%2F978-3-030-63076-8_16) | springer | |
+|  | [Federated Recommendation Systems](https://link.springer.com/chapter/10.1007%2F978-3-030-63076-8_16) |  Federated Learning | |
 | 2019 | [Federated Meta-Learning with Fast Convergence and Efficient Communication](https://arxiv.org/abs/1802.07876v2) | arxiv |  | 
 |  | [Federated Collaborative Filtering for Privacy-Preserving Personalized Recommendation System](http://arxiv.org/abs/1901.09888) | arxiv |  |
 |  | [A Simple and Efficient Federated Recommender System](https://dl.acm.org/doi/10.1145/3365109.3368788) | BDCAT |  |
