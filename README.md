@@ -17,7 +17,7 @@
 |  | [Practical and Secure Federated Recommendation with Personalized Masks](http://arxiv.org/abs/2109.02464) | arxiv |  |
 |  | [Learning Federated Representations and Recommendations with Limited Negatives](http://arxiv.org/abs/2108.07931) | arxiv | [Link](https://git.io/federated_dual_encoder) |
 |  | [FMFParking: Federated Matrix Factorization For Parking Lot Recommendation](https://ieeexplore.ieee.org/document/9564376) | BigDataService |  |
-|  | [A Payload Optimization Method for Federated Recommender Systems](http://arxiv.org/abs/2107.13078) | arxiv |  |
+|  | [A Payload Optimization Method for Federated Recommender Systems](http://arxiv.org/abs/2107.13078) | RecSys |  |
 |  | [FedCT: Federated Collaborative Transfer for Recommendation](https://dl.acm.org/doi/10.1145/3404835.3462825) | SIGIR |  |
 |  | [Federated Variational Autoencoder for Collaborative Filtering](https://ieeexplore.ieee.org/document/9533358) | IJCNN | [Link](https://tinyurl.com/155zn06i) |
 |  | [Federated Neural Collaborative Filtering](http://arxiv.org/abs/2106.04405) | arxiv |  |
