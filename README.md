@@ -1,12 +1,12 @@
 # FederatedRS
 | Year   | Title  | Venue | Code  |
 |-------|--------|--------|-----------|
-| 2021 | [FedRec++: Lossless Federated Recommendation with Explicit Feedback](https://ojs.aaai.org/index.php/AAAI/article/view/16546) | AAAI |  |
-|  | [Federated Recommender Systems with Learning to Rank](http://ceur-ws.org/Vol-2994/paper7.pdf) | SEBD |  |
-|  | [Federated Social Recommendation with Graph Neural Network](http://arxiv.org/abs/2111.10778) | arxiv |  |
+| 2021 | [Federated Social Recommendation with Graph Neural Network](http://arxiv.org/abs/2111.10778) | arxiv |  |
+|  | [Efficient-FedRec: Efficient Federated Learning Framework for Privacy-Preserving News Recommendation](https://aclanthology.org/2021.emnlp-main.223.pdf) | EMNLP | [Link](https://github.com/yjw1029/Efficient-FedRec) |
 |  | [PipAttack: Poisoning Federated Recommender Systems forManipulating Item Promotion](http://arxiv.org/abs/2110.10926) | arxiv |  |
 |  | [A Federated Recommendation System Based on Local Differential Privacy Clustering](https://ieeexplore.ieee.org/document/9604416) | SmartWorld/SCALCOM/UIC/ATC/IOP/SCI |  |
-|  | [Efficient-FedRec: Efficient Federated Learning Framework for Privacy-Preserving News Recommendation](http://arxiv.org/abs/2109.05446) | EMNLP | [Link](https://github.com/yjw1029/Efficient-FedRec) |
+|  | [FedRec++: Lossless Federated Recommendation with Explicit Feedback](https://ojs.aaai.org/index.php/AAAI/article/view/16546) | AAAI |  |
+|  | [Federated Recommender Systems with Learning to Rank](http://ceur-ws.org/Vol-2994/paper7.pdf) | SEBD |  |
 |  | [Stronger Privacy for Federated Collaborative Filtering With Implicit Feedback](https://dl.acm.org/doi/10.1145/3460231.3474262) | RecSys |  |
 |  | [FR-FMSS: Federated Recommendation via Fake Marks and Secret Sharing](https://dl.acm.org/doi/10.1145/3460231.3478855) | RecSys |  |
 |  | [Horizontal Cross-Silo Federated Recommender Systems](https://dl.acm.org/doi/10.1145/3460231.3478863) | RecSys |  |
