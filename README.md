@@ -1,7 +1,8 @@
 # FederatedRS
 | Year   | Title  | Venue | Code  |
 |-------|--------|--------|-----------|
-| 2021 | [Federated Singular Vector Decomposition](https://arxiv.org/pdf/2105.08925.pdf) | arxiv | [Link](https://github.com/Di-Chai/FedSVD) |
+| 2021 | [FedPOIRec: Privacy Preserving Federated POI Recommendation with Social Influence](https://arxiv.org/pdf/2112.11134v1.pdf) | arxiv |  |
+| | [Federated Singular Vector Decomposition](https://arxiv.org/pdf/2105.08925.pdf) | arxiv | [Link](https://github.com/Di-Chai/FedSVD) |
 |  | [Federated Social Recommendation with Graph Neural Network](http://arxiv.org/abs/2111.10778) | arxiv |  |
 |  | [Efficient-FedRec: Efficient Federated Learning Framework for Privacy-Preserving News Recommendation](https://aclanthology.org/2021.emnlp-main.223.pdf) | EMNLP | [Link](https://github.com/yjw1029/Efficient-FedRec) |
 |  | [PipAttack: Poisoning Federated Recommender Systems forManipulating Item Promotion](http://arxiv.org/abs/2110.10926) | arxiv |  |
