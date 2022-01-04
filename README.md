@@ -44,7 +44,7 @@
 |  | [Privacy-Preserving News Recommendation Model Learning](http://arxiv.org/abs/2003.09592) | EMNLP-Findings | [Link](https://github.com/taoqi98/FedNewsRec) |
 |  | [A Federated Recommender System for Online Services](https://dl.acm.org/doi/10.1145/3383313.3411528) | RecSys |  |
 |  | [On the Detection of Shilling Attacks in Federated Collaborative Filtering](https://ieeexplore.ieee.org/document/9252070) | SRDS |  |
-|  | [A Federated Multi-View Deep Learning Framework for Privacy-Preserving Recommendations](http://arxiv.org/abs/2008.10808) |  ECML/PKDD |  |
+|  | [A Federated Multi-View Deep Learning Framework for Privacy-Preserving Recommendations](http://arxiv.org/abs/2008.10808) |  arxiv |  |
 |  | [FedFast: Going Beyond Average for Faster Training of Federated Recommender Systems](https://dl.acm.org/doi/10.1145/3394486.3403176) | KDD |  |
 |  | [Privacy Threats Against Federated Matrix Factorization](http://arxiv.org/abs/2007.01587) | arxiv |  |
 |  | [Robust Federated Recommendation System](http://arxiv.org/abs/2006.08259) | arxiv |  |
@@ -52,7 +52,7 @@
 |  | [Federated CF: Privacy-Preserving Collaborative Filtering Cross Multiple Datasets](https://ieeexplore.ieee.org/document/9148791) | ICC |  |
 |  | [Federated Recommendation System via Differential Privacy](https://ieeexplore.ieee.org/document/9174297/) | ISIT |  |
 |  | [A Locality Sensitive Hashing Based Approach for Federated Recommender System](https://ieeexplore.ieee.org/document/9139741/) | CCGRID |  |
-|  | [Federated Multi-view Matrix Factorization for Personalized Recommendations](http://arxiv.org/abs/2004.04256) | arxiv |  |
+|  | [Federated Multi-view Matrix Factorization for Personalized Recommendations](http://arxiv.org/abs/2004.04256) | ECML/PKDD |  |
 |  | [Practical Privacy Preserving POI Recommendation](http://arxiv.org/abs/2003.02834) | arxiv |  |
 |  | [Federating Recommendations Using Differentially Private Prototypes](https://arxiv.org/pdf/2003.00602.pdf) | arxiv |  |
 |  | [Federated Recommendation Systems](https://link.springer.com/chapter/10.1007%2F978-3-030-63076-8_16) |  Federated Learning | |
