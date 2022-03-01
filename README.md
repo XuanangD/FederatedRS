@@ -55,7 +55,7 @@
 |  | [Federated Recommendation System via Differential Privacy](https://ieeexplore.ieee.org/document/9174297/) | ISIT |  |
 |  | [A Locality Sensitive Hashing Based Approach for Federated Recommender System](https://ieeexplore.ieee.org/document/9139741/) | CCGRID |  |
 |  | [Federated Multi-view Matrix Factorization for Personalized Recommendations](http://arxiv.org/abs/2004.04256) | ECML/PKDD |  |
-|  | [Practical Privacy Preserving POI Recommendation](http://arxiv.org/abs/2003.02834) | arxiv |  |
+|  | [Practical Privacy Preserving POI Recommendation](http://arxiv.org/abs/2003.02834) | ACM TIST |  |
 |  | [Federating Recommendations Using Differentially Private Prototypes](https://arxiv.org/pdf/2003.00602.pdf) | arxiv |  |
 |  | [Federated Recommendation Systems](https://link.springer.com/chapter/10.1007%2F978-3-030-63076-8_16) |  Federated Learning | |
 | 2019 | [Federated Meta-Learning with Fast Convergence and Efficient Communication](https://arxiv.org/abs/1802.07876v2) | arxiv |  | 
