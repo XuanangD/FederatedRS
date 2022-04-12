@@ -3,14 +3,16 @@
 |-------|--------|--------|-----------|
 | 2022 | [Towards Privacy-Preserving and Verifiable Federated Matrix Factorization](http://arxiv.org/abs/2204.01601) | arxiv |  |
 |  | [Memory Efficient Federated Recommendation Model](https://ieeexplore.ieee.org/document/9736321) | ICSC |  |
+|  | [Federated Neural Collaborative Filtering](https://www.sciencedirect.com/science/article/pii/S0950705122001812) | Knowledge-Based Systems |  |
 |  | [FedRecAttack: Model Poisoning Attack to Federated Recommendation](http://arxiv.org/abs/2204.01499)| arxiv |  |
 |  | [FedAttack: Effective and Covert Poisoning Attack on Federated Recommendation via Hard Sampling](https://arxiv.org/pdf/2202.04975.pdf) | arxiv | [Link](https://github.com/wuch15/FedAttack) |
 |  | [UA-FedRec: Untargeted Attack on Federated News Recommendation](https://arxiv.org/pdf/2202.06701.pdf) | arxiv | [Link](https://github.com/yjw1029/UA-FedRec) |
+|  | [PipAttack: Poisoning Federated Recommender Systems forManipulating Item Promotion](http://arxiv.org/abs/2110.10926) | WSDM |  |
+|  | [Federated Matrix Factorization: Algorithm Design and Application to Data Clustering](http://arxiv.org/abs/2002.04930) | IEEE Transactions on Signal Processing | [Link](https://github.com/wshuai317/FedMF) |
 | 2021 | [FedPOIRec: Privacy Preserving Federated POI Recommendation with Social Influence](https://arxiv.org/pdf/2112.11134v1.pdf) | arxiv |  |
 |  | [Federated Singular Vector Decomposition](https://arxiv.org/pdf/2105.08925.pdf) | arxiv | [Link](https://github.com/Di-Chai/FedSVD) |
 |  | [Federated Social Recommendation with Graph Neural Network](http://arxiv.org/abs/2111.10778) | arxiv |  |
 |  | [Efficient-FedRec: Efficient Federated Learning Framework for Privacy-Preserving News Recommendation](https://aclanthology.org/2021.emnlp-main.223.pdf) | EMNLP | [Link](https://github.com/yjw1029/Efficient-FedRec) |
-|  | [PipAttack: Poisoning Federated Recommender Systems forManipulating Item Promotion](http://arxiv.org/abs/2110.10926) | WSDM |  |
 |  | [A Federated Recommendation System Based on Local Differential Privacy Clustering](https://ieeexplore.ieee.org/document/9604416) | SmartWorld/SCALCOM/UIC/ATC/IOP/SCI |  |
 |  | [FedRec++: Lossless Federated Recommendation with Explicit Feedback](https://ojs.aaai.org/index.php/AAAI/article/view/16546) | AAAI |  |
 |  | [Federated Recommender Systems with Learning to Rank](http://ceur-ws.org/Vol-2994/paper7.pdf) | SEBD |  |
@@ -27,7 +29,6 @@
 |  | [A Payload Optimization Method for Federated Recommender Systems](http://arxiv.org/abs/2107.13078) | RecSys |  |
 |  | [FedCT: Federated Collaborative Transfer for Recommendation](https://dl.acm.org/doi/10.1145/3404835.3462825) | SIGIR |  |
 |  | [Federated Variational Autoencoder for Collaborative Filtering](https://ieeexplore.ieee.org/document/9533358) | IJCNN | [Link](https://tinyurl.com/155zn06i) |
-|  | [Federated Neural Collaborative Filtering](http://arxiv.org/abs/2106.04405) | Knowledge-Based Systems |  |
 |  | [Demystifying Model Averaging for Communication-Efficient Federated Matrix Factorization](https://ieeexplore.ieee.org/document/9413927) | ICASSP |  |
 |  | [POI Recommendation with Federated Learning and Privacy Preserving in Cross Domain Recommendation](https://ieeexplore.ieee.org/document/9484510) | INFOCOM WKSHPS |  |
 |  | [Hierarchical Personalized Federated Learning for User Modeling](https://dl.acm.org/doi/10.1145/3442381.3449926) | WWW | [Link](https://github.com/hxwujinze/hierarchical-personalized-federated-learning) |
@@ -45,7 +46,6 @@
 | 2020 | [A trusted recommendation scheme for privacy protection based on federated learning](https://link.springer.com/content/pdf/10.1007/s42045-020-00045-8.pdf) | CCF Transactions on Networking |  |
 |  | [Privacy-Aware Federated Learning for Page Recommendation](https://ieeexplore.ieee.org/document/9377942) | BigData |  |
 |  | [Vehicular Edge Computing Based Driver Recommendation System Using Federated Learning](https://ieeexplore.ieee.org/document/9356014/) | MASS |  |
-|  | [Federated Matrix Factorization: Algorithm Design and Application to Data Clustering](http://arxiv.org/abs/2002.04930) | IEEE Transactions on Signal Processing | [Link](https://github.com/wshuai317/FedMF) |
 |  | [Privacy-Preserving News Recommendation Model Learning](http://arxiv.org/abs/2003.09592) | EMNLP-Findings | [Link](https://github.com/taoqi98/FedNewsRec) |
 |  | [A Federated Recommender System for Online Services](https://dl.acm.org/doi/10.1145/3383313.3411528) | RecSys |  |
 |  | [On the Detection of Shilling Attacks in Federated Collaborative Filtering](https://ieeexplore.ieee.org/document/9252070) | SRDS |  |
