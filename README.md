@@ -1,7 +1,8 @@
 # FederatedRS
 | Year   | Title  | Venue | Code  |
 |-------|--------|--------|-----------|
-| 2022 | [Towards Privacy-Preserving and Verifiable Federated Matrix Factorization](http://arxiv.org/abs/2204.01601) | arxiv |  |
+| 2022 | [FedCL: Federated Contrastive Learning for Privacy-Preserving Recommendation](https://arxiv.org/abs/2204.09850) | arxiv |  |
+|  | [Towards Privacy-Preserving and Verifiable Federated Matrix Factorization](http://arxiv.org/abs/2204.01601) | arxiv |  |
 |  | [Memory Efficient Federated Recommendation Model](https://ieeexplore.ieee.org/document/9736321) | ICSC |  |
 |  | [Federated Neural Collaborative Filtering](https://www.sciencedirect.com/science/article/pii/S0950705122001812) | Knowledge-Based Systems |  |
 |  | [FedRecAttack: Model Poisoning Attack to Federated Recommendation](http://arxiv.org/abs/2204.01499)| arxiv |  |
