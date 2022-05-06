@@ -1,7 +1,8 @@
 # FederatedRS
 | Year   | Title  | Venue | Code  |
 |-------|--------|--------|-----------|
-| 2022 | [Poisoning Deep Learning based Recommender Model in Federated Learning Scenarios](https://arxiv.org/abs/2204.13594) | arxiv | [Link](https://github.com/rdz98/PoisonFedDLRS) |
+| 2022 | [FedSPLIT: One-Shot Federated Recommendation System Based on Non-negative Joint Matrix Factorization and Knowledge Distillation](https://arxiv.org/abs/2205.02359) | arxiv |  |
+|  | [Poisoning Deep Learning based Recommender Model in Federated Learning Scenarios](https://arxiv.org/abs/2204.13594) | arxiv | [Link](https://github.com/rdz98/PoisonFedDLRS) |
 |  | [PrivateRec: Differentially Private Training and Serving for Federated News Recommendation](https://arxiv.org/abs/2204.08146) | arxiv |  |
 |  | [User-controlled federated matrix factorization for recommender systems](https://link.springer.com/article/10.1007/s10844-021-00688-z) | Journal of Intelligent Information Systems | [Link](https://github.com/sisinflab/FedBPR) |
 |  | [FedCL: Federated Contrastive Learning for Privacy-Preserving Recommendation](https://arxiv.org/abs/2204.09850) | arxiv |  |
