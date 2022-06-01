@@ -2,6 +2,7 @@
 | Year   | Title  | Venue | Code  |
 |-------|--------|--------|-----------|
 | 2022 | [Cali3F: Calibrated Fast Fair Federated Recommendation System](http://arxiv.org/abs/2205.13121) | IJCNN |  |
+|  | [Comprehensive Privacy Analysis on Federated Recommender System against Attribute Inference Attacks](https://arxiv.org/pdf/2205.11857.pdf) | arxiv  |  |
 |  | [FedSPLIT: One-Shot Federated Recommendation System Based on Non-negative Joint Matrix Factorization and Knowledge Distillation](https://arxiv.org/abs/2205.02359) | arxiv |  |
 |  | [Poisoning Deep Learning based Recommender Model in Federated Learning Scenarios](https://arxiv.org/abs/2204.13594) | arxiv | [Link](https://github.com/rdz98/PoisonFedDLRS) |
 |  | [PrivateRec: Differentially Private Training and Serving for Federated News Recommendation](https://arxiv.org/abs/2204.08146) | arxiv |  |
