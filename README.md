@@ -1,7 +1,7 @@
 # FederatedRS
 | Year   | Title  | Venue | Code  |
 |-------|--------|--------|-----------|
-| 2022 | [TOWARDS FAIR FEDERATED RECOMMENDATION LEARNING: CHARACTERIZING THE INTER-DEPENDENCE OF SYSTEM AND DATA HETEROGENEITY](https://arxiv.org/pdf/2206.02633v1.pdf) | arxiv |  |
+| 2022 | [Towards Fair Federated Recommendation Learning: Characterizing the Inter-Dependence of System and Data Heterogeneity](https://arxiv.org/pdf/2206.02633v1.pdf) | arxiv |  |
 |  | [Cali3F: Calibrated Fast Fair Federated Recommendation System](http://arxiv.org/abs/2205.13121) | IJCNN |  |
 |  | [Comprehensive Privacy Analysis on Federated Recommender System against Attribute Inference Attacks](https://arxiv.org/pdf/2205.11857.pdf) | arxiv  |  |
 |  | [FedSPLIT: One-Shot Federated Recommendation System Based on Non-negative Joint Matrix Factorization and Knowledge Distillation](https://arxiv.org/abs/2205.02359) | arxiv |  |
