@@ -1,7 +1,8 @@
 # FederatedRS
 | Year   | Title  | Venue | Code  |
 |-------|--------|--------|-----------|
-| 2022 | [FEL: High Capacity Learning for Recommendation and Ranking via Federated Ensemble Learning](http://arxiv.org/abs/2206.03852) | arxiv |  |
+| 2022 | [FD-GATDR: A Federated-Decentralized-Learning Graph Attention Network for Doctor Recommendation Using EHR](http://arxiv.org/abs/2207.05750) | arxiv |  |
+|  | [FEL: High Capacity Learning for Recommendation and Ranking via Federated Ensemble Learning](http://arxiv.org/abs/2206.03852) | arxiv |  |
 |  | [A Privacy-Preserving Subgraph-Level Federated Graph Neural Network via Differential Privacy](http://arxiv.org/abs/2206.03492) | arxiv |  |
 |  | [Towards Fair Federated Recommendation Learning: Characterizing the Inter-Dependence of System and Data Heterogeneity](https://arxiv.org/pdf/2206.02633v1.pdf) | arxiv |  |
 |  | [Cali3F: Calibrated Fast Fair Federated Recommendation System](http://arxiv.org/abs/2205.13121) | IJCNN |  |
