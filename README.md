@@ -8,15 +8,15 @@
 |  | [Cali3F: Calibrated Fast Fair Federated Recommendation System](http://arxiv.org/abs/2205.13121) | IJCNN |  |
 |  | [Comprehensive Privacy Analysis on Federated Recommender System against Attribute Inference Attacks](https://arxiv.org/pdf/2205.11857.pdf) | arxiv  |  |
 |  | [FedSPLIT: One-Shot Federated Recommendation System Based on Non-negative Joint Matrix Factorization and Knowledge Distillation](https://arxiv.org/abs/2205.02359) | arxiv |  |
-|  | [Poisoning Deep Learning based Recommender Model in Federated Learning Scenarios](https://arxiv.org/abs/2204.13594) | arxiv | [Link](https://github.com/rdz98/PoisonFedDLRS) |
+|  | [Poisoning Deep Learning based Recommender Model in Federated Learning Scenarios](https://www.ijcai.org/proceedings/2022/306) | IJCAI | [Link](https://github.com/rdz98/PoisonFedDLRS) |
 |  | [PrivateRec: Differentially Private Training and Serving for Federated News Recommendation](https://arxiv.org/abs/2204.08146) | arxiv |  |
 |  | [User-controlled federated matrix factorization for recommender systems](https://link.springer.com/article/10.1007/s10844-021-00688-z) | Journal of Intelligent Information Systems | [Link](https://github.com/sisinflab/FedBPR) |
 |  | [FedCL: Federated Contrastive Learning for Privacy-Preserving Recommendation](https://arxiv.org/abs/2204.09850) | arxiv |  |
 |  | [Towards Privacy-Preserving and Verifiable Federated Matrix Factorization](http://arxiv.org/abs/2204.01601) | arxiv |  |
 |  | [Memory Efficient Federated Recommendation Model](https://ieeexplore.ieee.org/document/9736321) | ICSC |  |
 |  | [Federated Neural Collaborative Filtering](https://www.sciencedirect.com/science/article/pii/S0950705122001812) | Knowledge-Based Systems |  |
-|  | [FedRecAttack: Model Poisoning Attack to Federated Recommendation](http://arxiv.org/abs/2204.01499)| arxiv |  |
-|  | [FedAttack: Effective and Covert Poisoning Attack on Federated Recommendation via Hard Sampling](https://arxiv.org/pdf/2202.04975.pdf) | arxiv | [Link](https://github.com/wuch15/FedAttack) |
+|  | [FedRecAttack: Model Poisoning Attack to Federated Recommendation](https://ieeexplore.ieee.org/document/9835228)| ICDE |  |
+|  | [FedAttack: Effective and Covert Poisoning Attack on Federated Recommendation via Hard Sampling](https://dl.acm.org/doi/10.1145/3534678.3539119) | KDD | [Link](https://github.com/wuch15/FedAttack) |
 |  | [UA-FedRec: Untargeted Attack on Federated News Recommendation](https://arxiv.org/pdf/2202.06701.pdf) | arxiv | [Link](https://github.com/yjw1029/UA-FedRec) |
 |  | [PipAttack: Poisoning Federated Recommender Systems forManipulating Item Promotion](http://arxiv.org/abs/2110.10926) | WSDM |  |
 |  | [Federated Matrix Factorization: Algorithm Design and Application to Data Clustering](http://arxiv.org/abs/2002.04930) | IEEE Transactions on Signal Processing | [Link](https://github.com/wshuai317/FedMF) |
