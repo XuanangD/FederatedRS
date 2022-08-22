@@ -1,7 +1,16 @@
 # FederatedRS
 | Year   | Title  | Venue | Code  |
 |-------|--------|--------|-----------|
-| 2022 | [FD-GATDR: A Federated-Decentralized-Learning Graph Attention Network for Doctor Recommendation Using EHR](http://arxiv.org/abs/2207.05750) | arxiv |  |
+| 2022 | [Communication-efficient federated recommendation model based on many-objective evolutionary algorithm](https://www.sciencedirect.com/science/article/pii/S095741742200389X) | Expert Systems with Applications |  | 
+|  | [Recommendations in Smart Devices Using Federated Tensor Learning](https://ieeexplore.ieee.org/document/9555828) | IEEE Internet of Things Journal  | [Link](https://github.com/ycachy/Federated-tensor-learning) | 
+|  | [ReFRS: Resource-efficient Federated Recommender System for Dynamic and Diversified User Preferences](https://arxiv.org/abs/2207.13897) | arxiv |  | 
+|  | [Horizontal Federated Learning and Secure Distributed Training for Recommendation System with Intel SGX](https://arxiv.org/abs/2207.05079) | arxiv |  | 
+|  | [LightFR: Lightweight Federated Recommendation with Privacy-preserving Matrix Factorization](https://arxiv.org/abs/2206.11743) | arxiv |  |
+|  | [Split Two-Tower Model for Efficient and Privacy-Preserving Cross-device Federated Recommendation](https://arxiv.org/abs/2206.13715) | arxiv |  |
+|  | [Federated against the cold: A trust-based federated learning approach to counter the cold start problem in recommendation systems](https://www.sciencedirect.com/science/article/pii/S0020025522003632?via%3Dihub) | Information Sciences |  |
+|  | [A Secure Cloudlet-Based Charging Station Recommendation for Electric Vehicles Empowered by Federated Learning](https://ieeexplore.ieee.org/document/9706293) | IEEE Transactions on Industrial Informatics  |  |
+|  | [Fourier Enhanced MLP with Adaptive Model Pruning for Efficient Federated Recommendation](https://link.springer.com/chapter/10.1007/978-3-031-10989-8_28) | KSEM |  |
+|  | [FD-GATDR: A Federated-Decentralized-Learning Graph Attention Network for Doctor Recommendation Using EHR](http://arxiv.org/abs/2207.05750) | arxiv |  |
 |  | [FEL: High Capacity Learning for Recommendation and Ranking via Federated Ensemble Learning](http://arxiv.org/abs/2206.03852) | arxiv |  |
 |  | [A Privacy-Preserving Subgraph-Level Federated Graph Neural Network via Differential Privacy](http://arxiv.org/abs/2206.03492) | arxiv |  |
 |  | [Towards Fair Federated Recommendation Learning: Characterizing the Inter-Dependence of System and Data Heterogeneity](https://arxiv.org/pdf/2206.02633v1.pdf) | arxiv |  |
