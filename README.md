@@ -1,4 +1,6 @@
 # FederatedRS
+A collection of research papers on Federated Recommender System.
+
 ## 2022
 | Title  | Venue | Code  |
 |--------|--------|-----------|
