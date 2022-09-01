@@ -31,6 +31,8 @@
 | [PipAttack: Poisoning Federated Recommender Systems forManipulating Item Promotion](http://arxiv.org/abs/2110.10926) | WSDM |  |
 | [Federated Matrix Factorization: Algorithm Design and Application to Data Clustering](http://arxiv.org/abs/2002.04930) | IEEE Transactions on Signal Processing | [Link](https://github.com/wshuai317/FedMF) |
 ## 2021 
+| Title  | Venue | Code  |
+|--------|--------|-----------|
 | [FedPOIRec: Privacy Preserving Federated POI Recommendation with Social Influence](https://arxiv.org/pdf/2112.11134v1.pdf) | arxiv |  |
 | [Federated Singular Vector Decomposition](https://arxiv.org/pdf/2105.08925.pdf) | arxiv | [Link](https://github.com/Di-Chai/FedSVD) |
 | [Federated Social Recommendation with Graph Neural Network](http://arxiv.org/abs/2111.10778) | arxiv |  |
@@ -66,6 +68,8 @@
 | [FCMF: Federated collective matrix factorization for heterogeneous collaborative filtering](https://www.sciencedirect.com/science/article/pii/S0950705121002094) | Knowledge-Based Systems | [Link](http://csse.szu.edu.cn/staff/panwk/publications/FCMF/) |
 | [Federated matrix factorization for privacy-preserving recommender systems](https://www.sciencedirect.com/science/article/pii/S1568494621006219) | Applied Soft Computing |  |
 ## 2020 
+| Title  | Venue | Code  |
+|--------|--------|-----------|
 | [A trusted recommendation scheme for privacy protection based on federated learning](https://link.springer.com/content/pdf/10.1007/s42045-020-00045-8.pdf) | CCF Transactions on Networking |  |
 | [Privacy-Aware Federated Learning for Page Recommendation](https://ieeexplore.ieee.org/document/9377942) | BigData |  |
 | [Vehicular Edge Computing Based Driver Recommendation System Using Federated Learning](https://ieeexplore.ieee.org/document/9356014/) | MASS |  |
@@ -85,6 +89,8 @@
 | [Federating Recommendations Using Differentially Private Prototypes](https://arxiv.org/pdf/2003.00602.pdf) | arxiv |  |
 | [Federated Recommendation Systems](https://link.springer.com/chapter/10.1007%2F978-3-030-63076-8_16) |  Federated Learning | |
 ## 2019 
+| Title  | Venue | Code  |
+|--------|--------|-----------|
 | [Federated Meta-Learning with Fast Convergence and Efficient Communication](https://arxiv.org/abs/1802.07876v2) | arxiv |  | 
 | [Federated Collaborative Filtering for Privacy-Preserving Personalized Recommendation System](http://arxiv.org/abs/1901.09888) | arxiv |  |
 | [A Simple and Efficient Federated Recommender System](https://dl.acm.org/doi/10.1145/3365109.3368788) | BDCAT |  |
