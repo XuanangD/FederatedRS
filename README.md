@@ -4,6 +4,7 @@ A collection of research papers on Federated Recommender System.
 ## 2022
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [Online Meta-Learning for Model Update Aggregation in Federated Learning for Click-Through Rate Prediction](https://arxiv.org/pdf/2209.00629v1.pdf) | arxiv |  |
 | [Communication-efficient federated recommendation model based on many-objective evolutionary algorithm](https://www.sciencedirect.com/science/article/pii/S095741742200389X) | Expert Systems with Applications |  | 
 | [Recommendations in Smart Devices Using Federated Tensor Learning](https://ieeexplore.ieee.org/document/9555828) | IEEE Internet of Things Journal  | [Link](https://github.com/ycachy/Federated-tensor-learning) | 
 | [ReFRS: Resource-efficient Federated Recommender System for Dynamic and Diversified User Preferences](https://arxiv.org/abs/2207.13897) | arxiv |  | 
