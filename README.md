@@ -4,6 +4,9 @@ A collection of research papers on Federated Recommender System.
 ## 2022
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [Towards Better Personalization: A Meta-Learning Approach for Federated Recommender Systems](https://link.springer.com/content/pdf/10.1007/978-3-031-10986-7_42.pdf) | KSEM |  |
+| [Towards Communication Efficient and Fair Federated Personalized Sequential Recommendation](http://arxiv.org/abs/2208.10692) | arxiv |  |
+| [Personalized Federated Recommendation via Joint Representation Learning, User Clustering, and Model Adaptation](http://arxiv.org/abs/2208.09375) | arxiv |  |
 | [Online Meta-Learning for Model Update Aggregation in Federated Learning for Click-Through Rate Prediction](https://arxiv.org/pdf/2209.00629v1.pdf) | arxiv |  |
 | [Communication-efficient federated recommendation model based on many-objective evolutionary algorithm](https://www.sciencedirect.com/science/article/pii/S095741742200389X) | Expert Systems with Applications |  | 
 | [Recommendations in Smart Devices Using Federated Tensor Learning](https://ieeexplore.ieee.org/document/9555828) | IEEE Internet of Things Journal  | [Link](https://github.com/ycachy/Federated-tensor-learning) | 
