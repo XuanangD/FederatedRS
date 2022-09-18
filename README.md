@@ -4,6 +4,8 @@ A collection of research papers on Federated Recommender System.
 ## 2022
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [FedCDR: Privacy-preserving federated cross-domain recommendation](https://www.sciencedirect.com/science/article/pii/S2352864822000839?via%3Dihub) | Digital Communications and Networks |  |
+| [FLOR: A Federated Learning-based Music Recommendation Engine](https://ieeexplore.ieee.org/document/9868921) | ICCCN |  |
 | [Towards Better Personalization: A Meta-Learning Approach for Federated Recommender Systems](https://link.springer.com/content/pdf/10.1007/978-3-031-10986-7_42.pdf) | KSEM |  |
 | [Towards Communication Efficient and Fair Federated Personalized Sequential Recommendation](http://arxiv.org/abs/2208.10692) | arxiv |  |
 | [Personalized Federated Recommendation via Joint Representation Learning, User Clustering, and Model Adaptation](http://arxiv.org/abs/2208.09375) | arxiv |  |
