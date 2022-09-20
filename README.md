@@ -72,7 +72,7 @@ A collection of research papers on Federated Recommender System.
 | [How to put users in control of their data in federated top-N recommendation with learning to rank](https://dl.acm.org/doi/10.1145/3412841.3442010) | SAC | [Link](https://github.com/sisinflab/FedBPR) |
 | [PREFER: Point-of-interest REcommendation with efficiency and privacy-preservation via Federated Edge leaRning](https://dl.acm.org/doi/10.1145/3448099) | Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. |  |
 | [FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation](https://arxiv.org/abs/2102.04925) | ICML workshop |  |
-| [A Privacy-Preserving Distributed Contextual Federated Online Learning Framework with Big Data Support in Social Recommender Systems](https://ieeexplore.ieee.org/document/8807242) | TKDE |  |
+| [A Privacy-Preserving Distributed Contextual Federated Online Learning Framework with Big Data Support in Social Recommender Systems](https://ieeexplore.ieee.org/document/8807242) | IEEE TKDE |  |
 | [FedeRank: User Controlled Feedback with Federated Recommender Systems](http://arxiv.org/abs/2012.11328) | ECIR |  |
 | [Robustness of Meta Matrix Factorization Against Strict Privacy Constraints](http://arxiv.org/abs/2101.06927) | ECIR | [Link](https://github.com/pmuellner/RobustnessOfMetaMF) |
 | [A Novel Privacy-Preserved Recommender System Framework Based On Federated Learning](https://dl.acm.org/doi/10.1145/3451471.3451485) | ICSIM |  |
