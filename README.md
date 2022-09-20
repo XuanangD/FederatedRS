@@ -21,6 +21,7 @@ A collection of research papers on Federated Recommender System.
 | [Split Two-Tower Model for Efficient and Privacy-Preserving Cross-device Federated Recommendation](https://arxiv.org/abs/2206.13715) | arxiv |  |
 | [Federated against the cold: A trust-based federated learning approach to counter the cold start problem in recommendation systems](https://www.sciencedirect.com/science/article/pii/S0020025522003632?via%3Dihub) | Information Sciences |  |
 | [A Secure Cloudlet-Based Charging Station Recommendation for Electric Vehicles Empowered by Federated Learning](https://ieeexplore.ieee.org/document/9706293) | IEEE Transactions on Industrial Informatics  |  |
+| [Practical Lossless Federated Singular Vector Decomposition over Billion-Scale Data](https://arxiv.org/pdf/2105.08925.pdf) | arxiv | [Link](https://github.com/Di-Chai/FedSVD) |
 | [Fourier Enhanced MLP with Adaptive Model Pruning for Efficient Federated Recommendation](https://link.springer.com/chapter/10.1007/978-3-031-10989-8_28) | KSEM |  |
 | [FD-GATDR: A Federated-Decentralized-Learning Graph Attention Network for Doctor Recommendation Using EHR](http://arxiv.org/abs/2207.05750) | arxiv |  |
 | [FEL: High Capacity Learning for Recommendation and Ranking via Federated Ensemble Learning](http://arxiv.org/abs/2206.03852) | arxiv |  |
@@ -45,7 +46,6 @@ A collection of research papers on Federated Recommender System.
 | Title  | Venue | Code  |
 |--------|--------|-----------|
 | [FedPOIRec: Privacy Preserving Federated POI Recommendation with Social Influence](https://arxiv.org/pdf/2112.11134v1.pdf) | arxiv |  |
-| [Federated Singular Vector Decomposition](https://arxiv.org/pdf/2105.08925.pdf) | arxiv | [Link](https://github.com/Di-Chai/FedSVD) |
 | [Federated Social Recommendation with Graph Neural Network](https://doi.org/10.1145/3501815) | ACM TIST | [Link](https://github.com/YangLiangwei/FeSoG) |
 | [Efficient-FedRec: Efficient Federated Learning Framework for Privacy-Preserving News Recommendation](https://aclanthology.org/2021.emnlp-main.223.pdf) | EMNLP | [Link](https://github.com/yjw1029/Efficient-FedRec) |
 | [A Federated Recommendation System Based on Local Differential Privacy Clustering](https://ieeexplore.ieee.org/document/9604416) | SmartWorld/SCALCOM/UIC/ATC/IOP/SCI |  |
