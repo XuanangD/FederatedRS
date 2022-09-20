@@ -4,6 +4,8 @@ A collection of research papers on Federated Recommender System.
 ## 2022
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [A Generic Federated Recommendation Framework via Fake Marks and Secret Sharing](https://dl.acm.org/doi/10.1145/3548456) | ACM TOIS | [Link](https://github.com/LachlanLin/FMSS) |
+| [Federated one-class collaborative filtering via privacy-aware non-sampling matrix factorization](https://www.sciencedirect.com/science/article/pii/S0950705122007201#sec5) | Knowledge-Based Systems | [Link](https://github.com/PengQ94/P-NSMF) |
 | [FedCDR: Privacy-preserving federated cross-domain recommendation](https://www.sciencedirect.com/science/article/pii/S2352864822000839?via%3Dihub) | Digital Communications and Networks |  |
 | [FLOR: A Federated Learning-based Music Recommendation Engine](https://ieeexplore.ieee.org/document/9868921) | ICCCN |  |
 | [Towards Better Personalization: A Meta-Learning Approach for Federated Recommender Systems](https://link.springer.com/content/pdf/10.1007/978-3-031-10986-7_42.pdf) | KSEM |  |
@@ -47,7 +49,7 @@ A collection of research papers on Federated Recommender System.
 | [Federated Social Recommendation with Graph Neural Network](https://doi.org/10.1145/3501815) | ACM TIST | [Link](https://github.com/YangLiangwei/FeSoG) |
 | [Efficient-FedRec: Efficient Federated Learning Framework for Privacy-Preserving News Recommendation](https://aclanthology.org/2021.emnlp-main.223.pdf) | EMNLP | [Link](https://github.com/yjw1029/Efficient-FedRec) |
 | [A Federated Recommendation System Based on Local Differential Privacy Clustering](https://ieeexplore.ieee.org/document/9604416) | SmartWorld/SCALCOM/UIC/ATC/IOP/SCI |  |
-| [FedRec++: Lossless Federated Recommendation with Explicit Feedback](https://ojs.aaai.org/index.php/AAAI/article/view/16546) | AAAI |  |
+| [FedRec++: Lossless Federated Recommendation with Explicit Feedback](https://ojs.aaai.org/index.php/AAAI/article/view/16546) | AAAI | [Link](https://csse.szu.edu.cn/staff/panwk/publications/FedRecPlusPlus/) |
 | [Federated Recommender Systems with Learning to Rank](http://ceur-ws.org/Vol-2994/paper7.pdf) | SEBD |  |
 | [Stronger Privacy for Federated Collaborative Filtering With Implicit Feedback](https://dl.acm.org/doi/10.1145/3460231.3474262) | RecSys |  |
 | [FR-FMSS: Federated Recommendation via Fake Marks and Secret Sharing](https://dl.acm.org/doi/10.1145/3460231.3478855) | RecSys |  |
