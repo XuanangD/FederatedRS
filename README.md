@@ -34,7 +34,7 @@ A collection of research papers on Federated Recommender System.
 | [Towards Privacy-Preserving and Verifiable Federated Matrix Factorization](http://arxiv.org/abs/2204.01601) | arxiv |  |
 | [Memory Efficient Federated Recommendation Model](https://ieeexplore.ieee.org/document/9736321) | ICSC |  |
 | [Federated Neural Collaborative Filtering](https://www.sciencedirect.com/science/article/pii/S0950705122001812) | Knowledge-Based Systems |  |
-| [FedRecAttack: Model Poisoning Attack to Federated Recommendation](https://ieeexplore.ieee.org/document/9835228)| ICDE |  |
+| [FedRecAttack: Model Poisoning Attack to Federated Recommendation](https://ieeexplore.ieee.org/document/9835228)| ICDE | [Link](https://github.com/rdz98/FedRecAttack) |
 | [FedAttack: Effective and Covert Poisoning Attack on Federated Recommendation via Hard Sampling](https://dl.acm.org/doi/10.1145/3534678.3539119) | KDD | [Link](https://github.com/wuch15/FedAttack) |
 | [UA-FedRec: Untargeted Attack on Federated News Recommendation](https://arxiv.org/pdf/2202.06701.pdf) | arxiv | [Link](https://github.com/yjw1029/UA-FedRec) |
 | [PipAttack: Poisoning Federated Recommender Systems forManipulating Item Promotion](http://arxiv.org/abs/2110.10926) | WSDM |  |
