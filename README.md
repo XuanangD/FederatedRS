@@ -4,6 +4,8 @@ A collection of research papers on Federated Recommender System.
 ## 2022
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [Fairness-aware Federated Matrix Factorization](https://dl.acm.org/doi/abs/10.1145/3523227.3546771) | RecSys | [Link](https://github.com/CharlieMat/FedFairRec) |
+| [Federated low-rank tensor projections for sequential recommendation](https://www.sciencedirect.com/science/article/pii/S0950705122007432#b16) | Knowledge-Based Systems | [Link](https://github.com/MuziLee-x/FedSeqRec) |
 | [A Generic Federated Recommendation Framework via Fake Marks and Secret Sharing](https://dl.acm.org/doi/10.1145/3548456) | ACM TOIS | [Link](https://github.com/LachlanLin/FMSS) |
 | [Federated one-class collaborative filtering via privacy-aware non-sampling matrix factorization](https://www.sciencedirect.com/science/article/pii/S0950705122007201#sec5) | Knowledge-Based Systems | [Link](https://github.com/PengQ94/P-NSMF) |
 | [FedCDR: Privacy-preserving federated cross-domain recommendation](https://www.sciencedirect.com/science/article/pii/S2352864822000839?via%3Dihub) | Digital Communications and Networks |  |
