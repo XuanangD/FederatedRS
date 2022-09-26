@@ -7,6 +7,8 @@ A collection of research papers on Federated Recommender System.
 | [Fairness-aware Federated Matrix Factorization](https://dl.acm.org/doi/abs/10.1145/3523227.3546771) | RecSys | [Link](https://github.com/CharlieMat/FedFairRec) |
 | [Towards Fair Federated Recommendation Learning: Characterizing the Inter-Dependence of System and Data Heterogeneity](https://dl.acm.org/doi/10.1145/3523227.3546759) | RecSys | [Link](https://github.com/facebookresearch/RF2) |
 | [Federated low-rank tensor projections for sequential recommendation](https://www.sciencedirect.com/science/article/pii/S0950705122007432#b16) | Knowledge-Based Systems | [Link](https://github.com/MuziLee-x/FedSeqRec) |
+| [Federated Social Recommendation with Graph Neural Network](https://doi.org/10.1145/3501815) | ACM TIST | [Link](https://github.com/YangLiangwei/FeSoG) |
+| [Efficient Federated Matrix Factorization Against Inference Attacks](https://dl.acm.org/doi/10.1145/3501812) | ACM TIST |  |
 | [A Generic Federated Recommendation Framework via Fake Marks and Secret Sharing](https://dl.acm.org/doi/10.1145/3548456) | ACM TOIS | [Link](https://github.com/LachlanLin/FMSS) |
 | [Federated one-class collaborative filtering via privacy-aware non-sampling matrix factorization](https://www.sciencedirect.com/science/article/pii/S0950705122007201#sec5) | Knowledge-Based Systems | [Link](https://github.com/PengQ94/P-NSMF) |
 | [FedCDR: Privacy-preserving federated cross-domain recommendation](https://www.sciencedirect.com/science/article/pii/S2352864822000839?via%3Dihub) | Digital Communications and Networks |  |
@@ -48,7 +50,6 @@ A collection of research papers on Federated Recommender System.
 | Title  | Venue | Code  |
 |--------|--------|-----------|
 | [FedPOIRec: Privacy Preserving Federated POI Recommendation with Social Influence](https://arxiv.org/pdf/2112.11134v1.pdf) | arxiv |  |
-| [Federated Social Recommendation with Graph Neural Network](https://doi.org/10.1145/3501815) | ACM TIST | [Link](https://github.com/YangLiangwei/FeSoG) |
 | [Efficient-FedRec: Efficient Federated Learning Framework for Privacy-Preserving News Recommendation](https://aclanthology.org/2021.emnlp-main.223.pdf) | EMNLP | [Link](https://github.com/yjw1029/Efficient-FedRec) |
 | [A Federated Recommendation System Based on Local Differential Privacy Clustering](https://ieeexplore.ieee.org/document/9604416) | SmartWorld/SCALCOM/UIC/ATC/IOP/SCI |  |
 | [FedRec++: Lossless Federated Recommendation with Explicit Feedback](https://ojs.aaai.org/index.php/AAAI/article/view/16546) | AAAI | [Link](https://csse.szu.edu.cn/staff/panwk/publications/FedRecPlusPlus/) |
