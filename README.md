@@ -5,6 +5,11 @@ A collection of research papers on Federated Recommender System.
 | Title  | Venue | Code  |
 |--------|--------|-----------|
 | [PrivMVMF: Privacy-Preserving Multi-View Matrix Factorization for Recommender Systems](https://arxiv.org/pdf/2210.07775v1.pdf) | arxiv |  |
+| [Cali3F: Calibrated Fast Fair Federated Recommendation System](http://arxiv.org/abs/2205.13121) | IJCNN |  |
+| [Ranking-based Federated POI Recommendation with Geographic Effect](https://ieeexplore.ieee.org/document/9892943) | IJCNN |  |
+| [FedNCF: Federated Neural Collaborative Filtering for Privacy-preserving Recommender System]()https://ieeexplore.ieee.org/document/9892909 | IJCNN |  |
+| [Dual-Contrastive for Federated Social Recommendation])(https://ieeexplore.ieee.org/document/9892278) | IJCNN |  |
+| [A Privacy-Preserving Oriented Service Recommendation Approach based on Personal Data Cloud and Federated Learning](https://ieeexplore.ieee.org/document/9885792) | ICWS |  | 
 | [Fairness-aware Federated Matrix Factorization](https://dl.acm.org/doi/abs/10.1145/3523227.3546771) | RecSys | [Link](https://github.com/CharlieMat/FedFairRec) |
 | [Towards Fair Federated Recommendation Learning: Characterizing the Inter-Dependence of System and Data Heterogeneity](https://dl.acm.org/doi/10.1145/3523227.3546759) | RecSys | [Link](https://github.com/facebookresearch/RF2) |
 | [Federated low-rank tensor projections for sequential recommendation](https://www.sciencedirect.com/science/article/pii/S0950705122007432#b16) | Knowledge-Based Systems | [Link](https://github.com/MuziLee-x/FedSeqRec) |
@@ -32,7 +37,6 @@ A collection of research papers on Federated Recommender System.
 | [FD-GATDR: A Federated-Decentralized-Learning Graph Attention Network for Doctor Recommendation Using EHR](http://arxiv.org/abs/2207.05750) | arxiv |  |
 | [FEL: High Capacity Learning for Recommendation and Ranking via Federated Ensemble Learning](http://arxiv.org/abs/2206.03852) | arxiv |  |
 | [A Privacy-Preserving Subgraph-Level Federated Graph Neural Network via Differential Privacy](http://arxiv.org/abs/2206.03492) | arxiv |  |
-| [Cali3F: Calibrated Fast Fair Federated Recommendation System](http://arxiv.org/abs/2205.13121) | IJCNN |  |
 | [Comprehensive Privacy Analysis on Federated Recommender System against Attribute Inference Attacks](https://arxiv.org/pdf/2205.11857.pdf) | arxiv  |  |
 | [FedSPLIT: One-Shot Federated Recommendation System Based on Non-negative Joint Matrix Factorization and Knowledge Distillation](https://arxiv.org/abs/2205.02359) | arxiv |  |
 | [Poisoning Deep Learning based Recommender Model in Federated Learning Scenarios](https://www.ijcai.org/proceedings/2022/306) | IJCAI | [Link](https://github.com/rdz98/PoisonFedDLRS) |
