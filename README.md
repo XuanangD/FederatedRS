@@ -4,6 +4,7 @@ A collection of research papers on Federated Recommender System.
 ## 2022
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [PrivMVMF: Privacy-Preserving Multi-View Matrix Factorization for Recommender Systems](https://arxiv.org/pdf/2210.07775v1.pdf) | arxiv |  |
 | [Fairness-aware Federated Matrix Factorization](https://dl.acm.org/doi/abs/10.1145/3523227.3546771) | RecSys | [Link](https://github.com/CharlieMat/FedFairRec) |
 | [Towards Fair Federated Recommendation Learning: Characterizing the Inter-Dependence of System and Data Heterogeneity](https://dl.acm.org/doi/10.1145/3523227.3546759) | RecSys | [Link](https://github.com/facebookresearch/RF2) |
 | [Federated low-rank tensor projections for sequential recommendation](https://www.sciencedirect.com/science/article/pii/S0950705122007432#b16) | Knowledge-Based Systems | [Link](https://github.com/MuziLee-x/FedSeqRec) |
