@@ -8,7 +8,7 @@ A collection of research papers on Federated Recommender System.
 | [Cali3F: Calibrated Fast Fair Federated Recommendation System](http://arxiv.org/abs/2205.13121) | IJCNN |  |
 | [Ranking-based Federated POI Recommendation with Geographic Effect](https://ieeexplore.ieee.org/document/9892943) | IJCNN |  |
 | [FedNCF: Federated Neural Collaborative Filtering for Privacy-preserving Recommender System]()https://ieeexplore.ieee.org/document/9892909 | IJCNN |  |
-| [Dual-Contrastive for Federated Social Recommendation])(https://ieeexplore.ieee.org/document/9892278) | IJCNN |  |
+| [Dual-Contrastive for Federated Social Recommendation](https://ieeexplore.ieee.org/document/9892278) | IJCNN |  |
 | [A Privacy-Preserving Oriented Service Recommendation Approach based on Personal Data Cloud and Federated Learning](https://ieeexplore.ieee.org/document/9885792) | ICWS |  | 
 | [Fairness-aware Federated Matrix Factorization](https://dl.acm.org/doi/abs/10.1145/3523227.3546771) | RecSys | [Link](https://github.com/CharlieMat/FedFairRec) |
 | [Towards Fair Federated Recommendation Learning: Characterizing the Inter-Dependence of System and Data Heterogeneity](https://dl.acm.org/doi/10.1145/3523227.3546759) | RecSys | [Link](https://github.com/facebookresearch/RF2) |
