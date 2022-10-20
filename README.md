@@ -4,6 +4,8 @@ A collection of research papers on Federated Recommender System.
 ## 2022
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [FedCDR: Federated Cross-Domain Recommendation for Privacy-Preserving Rating Prediction](https://dl.acm.org/doi/10.1145/3511808.3557320) | CIKM |  |
+| [Personalized Federated Recommendation via Joint Representation Learning, User Clustering, and Model Adaptation](https://dl.acm.org/doi/10.1145/3511808.3557668) | CIKM |  |
 | [PrivMVMF: Privacy-Preserving Multi-View Matrix Factorization for Recommender Systems](https://arxiv.org/pdf/2210.07775v1.pdf) | arxiv |  |
 | [Cali3F: Calibrated Fast Fair Federated Recommendation System](http://arxiv.org/abs/2205.13121) | IJCNN |  |
 | [Ranking-based Federated POI Recommendation with Geographic Effect](https://ieeexplore.ieee.org/document/9892943) | IJCNN |  |
@@ -21,7 +23,6 @@ A collection of research papers on Federated Recommender System.
 | [FLOR: A Federated Learning-based Music Recommendation Engine](https://ieeexplore.ieee.org/document/9868921) | ICCCN |  |
 | [Towards Better Personalization: A Meta-Learning Approach for Federated Recommender Systems](https://link.springer.com/content/pdf/10.1007/978-3-031-10986-7_42.pdf) | KSEM |  |
 | [Towards Communication Efficient and Fair Federated Personalized Sequential Recommendation](http://arxiv.org/abs/2208.10692) | arxiv |  |
-| [Personalized Federated Recommendation via Joint Representation Learning, User Clustering, and Model Adaptation](http://arxiv.org/abs/2208.09375) | arxiv |  |
 | [Online Meta-Learning for Model Update Aggregation in Federated Learning for Click-Through Rate Prediction](https://arxiv.org/pdf/2209.00629v1.pdf) | arxiv |  |
 | [PEPPER: Empowering User-Centric Recommender Systems over Gossip Learning](http://arxiv.org/abs/2208.05320) | arxiv |  |
 | [Communication-efficient federated recommendation model based on many-objective evolutionary algorithm](https://www.sciencedirect.com/science/article/pii/S095741742200389X) | Expert Systems with Applications |  | 
