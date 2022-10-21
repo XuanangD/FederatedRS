@@ -34,7 +34,6 @@ A collection of research papers on Federated Recommender System.
 | [Split Two-Tower Model for Efficient and Privacy-Preserving Cross-device Federated Recommendation](https://arxiv.org/abs/2206.13715) | arxiv |  |
 | [Federated against the cold: A trust-based federated learning approach to counter the cold start problem in recommendation systems](https://www.sciencedirect.com/science/article/pii/S0020025522003632?via%3Dihub) | Information Sciences |  |
 | [A Secure Cloudlet-Based Charging Station Recommendation for Electric Vehicles Empowered by Federated Learning](https://ieeexplore.ieee.org/document/9706293) | IEEE Transactions on Industrial Informatics  |  |
-| [Practical Lossless Federated Singular Vector Decomposition over Billion-Scale Data](https://arxiv.org/pdf/2105.08925.pdf) | arxiv | [Link](https://github.com/Di-Chai/FedSVD) |
 | [Fourier Enhanced MLP with Adaptive Model Pruning for Efficient Federated Recommendation](https://link.springer.com/chapter/10.1007/978-3-031-10989-8_28) | KSEM |  |
 | [FD-GATDR: A Federated-Decentralized-Learning Graph Attention Network for Doctor Recommendation Using EHR](http://arxiv.org/abs/2207.05750) | arxiv |  |
 | [FEL: High Capacity Learning for Recommendation and Ranking via Federated Ensemble Learning](http://arxiv.org/abs/2206.03852) | arxiv |  |
@@ -49,6 +48,7 @@ A collection of research papers on Federated Recommender System.
 | [Memory Efficient Federated Recommendation Model](https://ieeexplore.ieee.org/document/9736321) | ICSC |  |
 | [Federated Neural Collaborative Filtering](https://www.sciencedirect.com/science/article/pii/S0950705122001812) | Knowledge-Based Systems |  |
 | [FedRecAttack: Model Poisoning Attack to Federated Recommendation](https://ieeexplore.ieee.org/document/9835228)| ICDE | [Link](https://github.com/rdz98/FedRecAttack) |
+| [Practical Lossless Federated Singular Vector Decomposition over Billion-Scale Data](https://dl.acm.org/doi/10.1145/3534678.3539402) | KDD | [Link](https://github.com/Di-Chai/FedSVD) |
 | [FedAttack: Effective and Covert Poisoning Attack on Federated Recommendation via Hard Sampling](https://dl.acm.org/doi/10.1145/3534678.3539119) | KDD | [Link](https://github.com/wuch15/FedAttack) |
 | [UA-FedRec: Untargeted Attack on Federated News Recommendation](https://arxiv.org/pdf/2202.06701.pdf) | arxiv | [Link](https://github.com/yjw1029/UA-FedRec) |
 | [PipAttack: Poisoning Federated Recommender Systems forManipulating Item Promotion](http://arxiv.org/abs/2110.10926) | WSDM |  |
