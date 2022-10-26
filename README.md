@@ -4,6 +4,7 @@ A collection of research papers on Federated Recommender System.
 ## 2022
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [FedGRec: Federated Graph Recommender System with Lazy Update of Latent Embeddings](http://arxiv.org/abs/2210.13686) | FL-NeurIPS'22 Workshop |  |
 | [Vertical Federated Linear Contextual Bandits](https://arxiv.org/pdf/2210.11050v1.pdf) | arxiv  |  |
 | [FedCDR: Federated Cross-Domain Recommendation for Privacy-Preserving Rating Prediction](https://dl.acm.org/doi/10.1145/3511808.3557320) | CIKM |  |
 | [Personalized Federated Recommendation via Joint Representation Learning, User Clustering, and Model Adaptation](https://dl.acm.org/doi/10.1145/3511808.3557668) | CIKM |  |
