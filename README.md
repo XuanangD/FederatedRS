@@ -2,13 +2,29 @@
 A collection of research papers on Federated Recommender System.
 
 ## 2022
+### Journal Articles
+| Title  | Venue | Code  |
+|--------|--------|-----------|
+| [Federated low-rank tensor projections for sequential recommendation](https://www.sciencedirect.com/science/article/pii/S0950705122007432#b16) | Knowledge-Based Systems | [Link](https://github.com/MuziLee-x/FedSeqRec) |
+| [Federated Social Recommendation with Graph Neural Network](https://doi.org/10.1145/3501815) | ACM TIST | [Link](https://github.com/YangLiangwei/FeSoG) |
+| [Efficient Federated Matrix Factorization Against Inference Attacks](https://dl.acm.org/doi/10.1145/3501812) | ACM TIST |  |
+| [A Generic Federated Recommendation Framework via Fake Marks and Secret Sharing](https://dl.acm.org/doi/10.1145/3548456) | ACM TOIS | [Link](https://github.com/LachlanLin/FMSS) |
+| [Federated one-class collaborative filtering via privacy-aware non-sampling matrix factorization](https://www.sciencedirect.com/science/article/pii/S0950705122007201#sec5) | Knowledge-Based Systems | [Link](https://github.com/PengQ94/P-NSMF) |
+| [FedCDR: Privacy-preserving federated cross-domain recommendation](https://www.sciencedirect.com/science/article/pii/S2352864822000839?via%3Dihub) | Digital Communications and Networks |  |
+| [Communication-efficient federated recommendation model based on many-objective evolutionary algorithm](https://www.sciencedirect.com/science/article/pii/S095741742200389X) | Expert Systems with Applications |  | 
+| [Recommendations in Smart Devices Using Federated Tensor Learning](https://ieeexplore.ieee.org/document/9555828) | IEEE Internet of Things Journal  | [Link](https://github.com/ycachy/Federated-tensor-learning) | 
+| [Federated against the cold: A trust-based federated learning approach to counter the cold start problem in recommendation systems](https://www.sciencedirect.com/science/article/pii/S0020025522003632?via%3Dihub) | Information Sciences |  |
+| [A Secure Cloudlet-Based Charging Station Recommendation for Electric Vehicles Empowered by Federated Learning](https://ieeexplore.ieee.org/document/9706293) | IEEE Transactions on Industrial Informatics  |  |
+| [User-controlled federated matrix factorization for recommender systems](https://link.springer.com/article/10.1007/s10844-021-00688-z) | Journal of Intelligent Information Systems | [Link](https://github.com/sisinflab/FedBPR) |
+| [Federated Neural Collaborative Filtering](https://www.sciencedirect.com/science/article/pii/S0950705122001812) | Knowledge-Based Systems |  |
+| [Federated Matrix Factorization: Algorithm Design and Application to Data Clustering](http://arxiv.org/abs/2002.04930) | IEEE Transactions on Signal Processing | [Link](https://github.com/wshuai317/FedMF) |
+
+### Conference and Workshop Papers 
 | Title  | Venue | Code  |
 |--------|--------|-----------|
 | [FedGRec: Federated Graph Recommender System with Lazy Update of Latent Embeddings](http://arxiv.org/abs/2210.13686) | FL-NeurIPS'22 Workshop |  |
-| [Vertical Federated Linear Contextual Bandits](https://arxiv.org/pdf/2210.11050v1.pdf) | arxiv  |  |
 | [FedCDR: Federated Cross-Domain Recommendation for Privacy-Preserving Rating Prediction](https://dl.acm.org/doi/10.1145/3511808.3557320) | CIKM |  |
 | [Personalized Federated Recommendation via Joint Representation Learning, User Clustering, and Model Adaptation](https://dl.acm.org/doi/10.1145/3511808.3557668) | CIKM |  |
-| [PrivMVMF: Privacy-Preserving Multi-View Matrix Factorization for Recommender Systems](https://arxiv.org/pdf/2210.07775v1.pdf) | arxiv |  |
 | [Cali3F: Calibrated Fast Fair Federated Recommendation System](http://arxiv.org/abs/2205.13121) | IJCNN |  |
 | [Ranking-based Federated POI Recommendation with Geographic Effect](https://ieeexplore.ieee.org/document/9892943) | IJCNN |  |
 | [FedNCF: Federated Neural Collaborative Filtering for Privacy-preserving Recommender System]()https://ieeexplore.ieee.org/document/9892909 | IJCNN |  |
@@ -16,45 +32,52 @@ A collection of research papers on Federated Recommender System.
 | [A Privacy-Preserving Oriented Service Recommendation Approach based on Personal Data Cloud and Federated Learning](https://ieeexplore.ieee.org/document/9885792) | ICWS |  | 
 | [Fairness-aware Federated Matrix Factorization](https://dl.acm.org/doi/abs/10.1145/3523227.3546771) | RecSys | [Link](https://github.com/CharlieMat/FedFairRec) |
 | [Towards Fair Federated Recommendation Learning: Characterizing the Inter-Dependence of System and Data Heterogeneity](https://dl.acm.org/doi/10.1145/3523227.3546759) | RecSys | [Link](https://github.com/facebookresearch/RF2) |
-| [Federated low-rank tensor projections for sequential recommendation](https://www.sciencedirect.com/science/article/pii/S0950705122007432#b16) | Knowledge-Based Systems | [Link](https://github.com/MuziLee-x/FedSeqRec) |
-| [Federated Social Recommendation with Graph Neural Network](https://doi.org/10.1145/3501815) | ACM TIST | [Link](https://github.com/YangLiangwei/FeSoG) |
-| [Efficient Federated Matrix Factorization Against Inference Attacks](https://dl.acm.org/doi/10.1145/3501812) | ACM TIST |  |
-| [A Generic Federated Recommendation Framework via Fake Marks and Secret Sharing](https://dl.acm.org/doi/10.1145/3548456) | ACM TOIS | [Link](https://github.com/LachlanLin/FMSS) |
-| [Federated one-class collaborative filtering via privacy-aware non-sampling matrix factorization](https://www.sciencedirect.com/science/article/pii/S0950705122007201#sec5) | Knowledge-Based Systems | [Link](https://github.com/PengQ94/P-NSMF) |
-| [FedCDR: Privacy-preserving federated cross-domain recommendation](https://www.sciencedirect.com/science/article/pii/S2352864822000839?via%3Dihub) | Digital Communications and Networks |  |
 | [FLOR: A Federated Learning-based Music Recommendation Engine](https://ieeexplore.ieee.org/document/9868921) | ICCCN |  |
 | [Towards Better Personalization: A Meta-Learning Approach for Federated Recommender Systems](https://link.springer.com/content/pdf/10.1007/978-3-031-10986-7_42.pdf) | KSEM |  |
+| [Fourier Enhanced MLP with Adaptive Model Pruning for Efficient Federated Recommendation](https://link.springer.com/chapter/10.1007/978-3-031-10989-8_28) | KSEM |  |
+| [Poisoning Deep Learning based Recommender Model in Federated Learning Scenarios](https://www.ijcai.org/proceedings/2022/306) | IJCAI | [Link](https://github.com/rdz98/PoisonFedDLRS) |
+| [Memory Efficient Federated Recommendation Model](https://ieeexplore.ieee.org/document/9736321) | ICSC |  |
+| [FedRecAttack: Model Poisoning Attack to Federated Recommendation](https://ieeexplore.ieee.org/document/9835228)| ICDE | [Link](https://github.com/rdz98/FedRecAttack) |
+| [Practical Lossless Federated Singular Vector Decomposition over Billion-Scale Data](https://dl.acm.org/doi/10.1145/3534678.3539402) | KDD | [Link](https://github.com/Di-Chai/FedSVD) |
+| [FedAttack: Effective and Covert Poisoning Attack on Federated Recommendation via Hard Sampling](https://dl.acm.org/doi/10.1145/3534678.3539119) | KDD | [Link](https://github.com/wuch15/FedAttack) |
+| [PipAttack: Poisoning Federated Recommender Systems forManipulating Item Promotion](http://arxiv.org/abs/2110.10926) | WSDM |  |
+
+### Informal Publications
+| Title  | Venue | Code  |
+|--------|--------|-----------|
+| [Federated Unlearning for On-Device Recommendation](https://arxiv.org/pdf/2210.10958.pdf) | arxiv |  |
+| [Vertical Federated Linear Contextual Bandits](https://arxiv.org/pdf/2210.11050v1.pdf) | arxiv  |  |
+| [PrivMVMF: Privacy-Preserving Multi-View Matrix Factorization for Recommender Systems](https://arxiv.org/pdf/2210.07775v1.pdf) | arxiv |  |
 | [Towards Communication Efficient and Fair Federated Personalized Sequential Recommendation](http://arxiv.org/abs/2208.10692) | arxiv |  |
 | [Online Meta-Learning for Model Update Aggregation in Federated Learning for Click-Through Rate Prediction](https://arxiv.org/pdf/2209.00629v1.pdf) | arxiv |  |
 | [PEPPER: Empowering User-Centric Recommender Systems over Gossip Learning](http://arxiv.org/abs/2208.05320) | arxiv |  |
-| [Communication-efficient federated recommendation model based on many-objective evolutionary algorithm](https://www.sciencedirect.com/science/article/pii/S095741742200389X) | Expert Systems with Applications |  | 
-| [Recommendations in Smart Devices Using Federated Tensor Learning](https://ieeexplore.ieee.org/document/9555828) | IEEE Internet of Things Journal  | [Link](https://github.com/ycachy/Federated-tensor-learning) | 
 | [ReFRS: Resource-efficient Federated Recommender System for Dynamic and Diversified User Preferences](https://arxiv.org/abs/2207.13897) | arxiv |  | 
 | [Horizontal Federated Learning and Secure Distributed Training for Recommendation System with Intel SGX](https://arxiv.org/abs/2207.05079) | arxiv |  | 
 | [LightFR: Lightweight Federated Recommendation with Privacy-preserving Matrix Factorization](https://arxiv.org/abs/2206.11743) | arxiv |  |
 | [Split Two-Tower Model for Efficient and Privacy-Preserving Cross-device Federated Recommendation](https://arxiv.org/abs/2206.13715) | arxiv |  |
-| [Federated against the cold: A trust-based federated learning approach to counter the cold start problem in recommendation systems](https://www.sciencedirect.com/science/article/pii/S0020025522003632?via%3Dihub) | Information Sciences |  |
-| [A Secure Cloudlet-Based Charging Station Recommendation for Electric Vehicles Empowered by Federated Learning](https://ieeexplore.ieee.org/document/9706293) | IEEE Transactions on Industrial Informatics  |  |
-| [Fourier Enhanced MLP with Adaptive Model Pruning for Efficient Federated Recommendation](https://link.springer.com/chapter/10.1007/978-3-031-10989-8_28) | KSEM |  |
 | [FD-GATDR: A Federated-Decentralized-Learning Graph Attention Network for Doctor Recommendation Using EHR](http://arxiv.org/abs/2207.05750) | arxiv |  |
 | [FEL: High Capacity Learning for Recommendation and Ranking via Federated Ensemble Learning](http://arxiv.org/abs/2206.03852) | arxiv |  |
 | [A Privacy-Preserving Subgraph-Level Federated Graph Neural Network via Differential Privacy](http://arxiv.org/abs/2206.03492) | arxiv |  |
 | [Comprehensive Privacy Analysis on Federated Recommender System against Attribute Inference Attacks](https://arxiv.org/pdf/2205.11857.pdf) | arxiv  |  |
 | [FedSPLIT: One-Shot Federated Recommendation System Based on Non-negative Joint Matrix Factorization and Knowledge Distillation](https://arxiv.org/abs/2205.02359) | arxiv |  |
-| [Poisoning Deep Learning based Recommender Model in Federated Learning Scenarios](https://www.ijcai.org/proceedings/2022/306) | IJCAI | [Link](https://github.com/rdz98/PoisonFedDLRS) |
 | [PrivateRec: Differentially Private Training and Serving for Federated News Recommendation](https://arxiv.org/abs/2204.08146) | arxiv |  |
-| [User-controlled federated matrix factorization for recommender systems](https://link.springer.com/article/10.1007/s10844-021-00688-z) | Journal of Intelligent Information Systems | [Link](https://github.com/sisinflab/FedBPR) |
 | [FedCL: Federated Contrastive Learning for Privacy-Preserving Recommendation](https://arxiv.org/abs/2204.09850) | arxiv |  |
 | [Towards Privacy-Preserving and Verifiable Federated Matrix Factorization](http://arxiv.org/abs/2204.01601) | arxiv |  |
-| [Memory Efficient Federated Recommendation Model](https://ieeexplore.ieee.org/document/9736321) | ICSC |  |
-| [Federated Neural Collaborative Filtering](https://www.sciencedirect.com/science/article/pii/S0950705122001812) | Knowledge-Based Systems |  |
-| [FedRecAttack: Model Poisoning Attack to Federated Recommendation](https://ieeexplore.ieee.org/document/9835228)| ICDE | [Link](https://github.com/rdz98/FedRecAttack) |
-| [Practical Lossless Federated Singular Vector Decomposition over Billion-Scale Data](https://dl.acm.org/doi/10.1145/3534678.3539402) | KDD | [Link](https://github.com/Di-Chai/FedSVD) |
-| [FedAttack: Effective and Covert Poisoning Attack on Federated Recommendation via Hard Sampling](https://dl.acm.org/doi/10.1145/3534678.3539119) | KDD | [Link](https://github.com/wuch15/FedAttack) |
 | [UA-FedRec: Untargeted Attack on Federated News Recommendation](https://arxiv.org/pdf/2202.06701.pdf) | arxiv | [Link](https://github.com/yjw1029/UA-FedRec) |
-| [PipAttack: Poisoning Federated Recommender Systems forManipulating Item Promotion](http://arxiv.org/abs/2110.10926) | WSDM |  |
-| [Federated Matrix Factorization: Algorithm Design and Application to Data Clustering](http://arxiv.org/abs/2002.04930) | IEEE Transactions on Signal Processing | [Link](https://github.com/wshuai317/FedMF) |
+
 ## 2021 
+### Journal Articles
+| Title  | Venue | Code  |
+|--------|--------|-----------|
+| [FedRec: Federated Recommendation With Explicit Feedback](https://ieeexplore.ieee.org/document/9170754) | IEEE Intelligent Systems  | [Link](http://csse.szu.edu.cn/staff/panwk/publications/FedRec/) |
+| [Secure Federated Matrix Factorization](https://ieeexplore.ieee.org/document/9162459) | IEEE Intelligent Systems | [Link](https://github.com/Di-Chai/FedMF) |
+| [A Federated Learning Approach for Privacy Protection in Context-Aware Recommender Systems](https://academic.oup.com/comjnl/article/64/7/1016/6259634) | The Computer Journal |  |
+| [Fast-adapting and Privacy-preserving Federated Recommender System](http://arxiv.org/abs/2104.00919) | VLDB Journal |  |
+| [A Privacy-Preserving Distributed Contextual Federated Online Learning Framework with Big Data Support in Social Recommender Systems](https://ieeexplore.ieee.org/document/8807242) | IEEE TKDE |  |
+| [FCMF: Federated collective matrix factorization for heterogeneous collaborative filtering](https://www.sciencedirect.com/science/article/pii/S0950705121002094) | Knowledge-Based Systems | [Link](http://csse.szu.edu.cn/staff/panwk/publications/FCMF/) |
+| [Federated matrix factorization for privacy-preserving recommender systems](https://www.sciencedirect.com/science/article/pii/S1568494621006219) | Applied Soft Computing |  |
+
+### Conference and Workshop Papers 
 | Title  | Venue | Code  |
 |--------|--------|-----------|
 | [FedPOIRec: Privacy Preserving Federated POI Recommendation with Social Influence](https://arxiv.org/pdf/2112.11134v1.pdf) | arxiv |  |
@@ -66,9 +89,6 @@ A collection of research papers on Federated Recommender System.
 | [FR-FMSS: Federated Recommendation via Fake Marks and Secret Sharing](https://dl.acm.org/doi/10.1145/3460231.3478855) | RecSys |  |
 | [Horizontal Cross-Silo Federated Recommender Systems](https://dl.acm.org/doi/10.1145/3460231.3478863) | RecSys |  |
 | [A vertical federation recommendation method based on clustering and latent factor model](https://ieeexplore.ieee.org/document/9587935) | EIECS |  |
-| [FedRec: Federated Recommendation With Explicit Feedback](https://ieeexplore.ieee.org/document/9170754) | IEEE Intelligent Systems  | [Link](http://csse.szu.edu.cn/staff/panwk/publications/FedRec/) |
-| [Secure Federated Matrix Factorization](https://ieeexplore.ieee.org/document/9162459) | IEEE Intelligent Systems | [Link](https://github.com/Di-Chai/FedMF) |
-| [A Federated Learning Approach for Privacy Protection in Context-Aware Recommender Systems](https://academic.oup.com/comjnl/article/64/7/1016/6259634) | The Computer Journal |  |
 | [Practical and Secure Federated Recommendation with Personalized Masks](http://arxiv.org/abs/2109.02464) | arxiv |  |
 | [Learning Federated Representations and Recommendations with Limited Negatives](http://arxiv.org/abs/2108.07931) | arxiv | [Link](https://git.io/federated_dual_encoder) |
 | [FMFParking: Federated Matrix Factorization For Parking Lot Recommendation](https://ieeexplore.ieee.org/document/9564376) | BigDataService |  |
@@ -79,16 +99,13 @@ A collection of research papers on Federated Recommender System.
 | [POI Recommendation with Federated Learning and Privacy Preserving in Cross Domain Recommendation](https://ieeexplore.ieee.org/document/9484510) | INFOCOM WKSHPS |  |
 | [Hierarchical Personalized Federated Learning for User Modeling](https://dl.acm.org/doi/10.1145/3442381.3449926) | WWW | [Link](https://github.com/hxwujinze/hierarchical-personalized-federated-learning) |
 | [DeepRec: On-device Deep Learning for Privacy-Preserving Sequential Recommendation in Mobile Commerce](https://dl.acm.org/doi/10.1145/3442381.3449942) | WWW |  |
-| [Fast-adapting and Privacy-preserving Federated Recommender System](http://arxiv.org/abs/2104.00919) | VLDB Journal |  |
 | [How to put users in control of their data in federated top-N recommendation with learning to rank](https://dl.acm.org/doi/10.1145/3412841.3442010) | SAC | [Link](https://github.com/sisinflab/FedBPR) |
 | [PREFER: Point-of-interest REcommendation with efficiency and privacy-preservation via Federated Edge leaRning](https://dl.acm.org/doi/10.1145/3448099) | Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. |  |
 | [FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation](https://arxiv.org/abs/2102.04925) | ICML workshop |  |
-| [A Privacy-Preserving Distributed Contextual Federated Online Learning Framework with Big Data Support in Social Recommender Systems](https://ieeexplore.ieee.org/document/8807242) | IEEE TKDE |  |
 | [FedeRank: User Controlled Feedback with Federated Recommender Systems](http://arxiv.org/abs/2012.11328) | ECIR |  |
 | [Robustness of Meta Matrix Factorization Against Strict Privacy Constraints](http://arxiv.org/abs/2101.06927) | ECIR | [Link](https://github.com/pmuellner/RobustnessOfMetaMF) |
 | [A Novel Privacy-Preserved Recommender System Framework Based On Federated Learning](https://dl.acm.org/doi/10.1145/3451471.3451485) | ICSIM |  |
-| [FCMF: Federated collective matrix factorization for heterogeneous collaborative filtering](https://www.sciencedirect.com/science/article/pii/S0950705121002094) | Knowledge-Based Systems | [Link](http://csse.szu.edu.cn/staff/panwk/publications/FCMF/) |
-| [Federated matrix factorization for privacy-preserving recommender systems](https://www.sciencedirect.com/science/article/pii/S1568494621006219) | Applied Soft Computing |  |
+
 ## 2020 
 | Title  | Venue | Code  |
 |--------|--------|-----------|
