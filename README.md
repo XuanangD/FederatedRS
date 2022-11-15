@@ -27,7 +27,7 @@ A collection of research papers on Federated Recommender System.
 | [Personalized Federated Recommendation via Joint Representation Learning, User Clustering, and Model Adaptation](https://dl.acm.org/doi/10.1145/3511808.3557668) | CIKM |  |
 | [Cali3F: Calibrated Fast Fair Federated Recommendation System](http://arxiv.org/abs/2205.13121) | IJCNN |  |
 | [Ranking-based Federated POI Recommendation with Geographic Effect](https://ieeexplore.ieee.org/document/9892943) | IJCNN |  |
-| [FedNCF: Federated Neural Collaborative Filtering for Privacy-preserving Recommender System]()https://ieeexplore.ieee.org/document/9892909 | IJCNN |  |
+| [FedNCF: Federated Neural Collaborative Filtering for Privacy-preserving Recommender System](https://ieeexplore.ieee.org/document/9892909) | IJCNN |  |
 | [Dual-Contrastive for Federated Social Recommendation](https://ieeexplore.ieee.org/document/9892278) | IJCNN |  |
 | [A Privacy-Preserving Oriented Service Recommendation Approach based on Personal Data Cloud and Federated Learning](https://ieeexplore.ieee.org/document/9885792) | ICWS |  | 
 | [Fairness-aware Federated Matrix Factorization](https://dl.acm.org/doi/abs/10.1145/3523227.3546771) | RecSys | [Link](https://github.com/CharlieMat/FedFairRec) |
