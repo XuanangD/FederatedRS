@@ -45,6 +45,7 @@ A collection of research papers on Federated Recommender System.
 ### Informal Publications
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [FedRule: Federated Rule Recommendation System with Graph Neural Networks](https://arxiv.org/pdf/2211.06812v1.pdf) | arxiv |  |
 | [Federated Unlearning for On-Device Recommendation](https://arxiv.org/pdf/2210.10958.pdf) | arxiv |  |
 | [Vertical Federated Linear Contextual Bandits](https://arxiv.org/pdf/2210.11050v1.pdf) | arxiv  |  |
 | [PrivMVMF: Privacy-Preserving Multi-View Matrix Factorization for Recommender Systems](https://arxiv.org/pdf/2210.07775v1.pdf) | arxiv |  |
