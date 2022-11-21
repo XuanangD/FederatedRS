@@ -13,9 +13,9 @@ A collection of research papers on Federated Recommender System.
 |--------|--------|-----------|
 | [Federated recommenders: methods, challenges and future](https://link.springer.com/article/10.1007/s10586-022-03644-w) | Cluster Computing |  |
 | [Federated low-rank tensor projections for sequential recommendation](https://www.sciencedirect.com/science/article/pii/S0950705122007432#b16) | Knowledge-Based Systems | [Link](https://github.com/MuziLee-x/FedSeqRec) |
-| [Federated Social Recommendation with Graph Neural Network](https://doi.org/10.1145/3501815) | ACM TIST | [Link](https://github.com/YangLiangwei/FeSoG) |
-| [Efficient Federated Matrix Factorization Against Inference Attacks](https://dl.acm.org/doi/10.1145/3501812) | ACM TIST |  |
-| [A Generic Federated Recommendation Framework via Fake Marks and Secret Sharing](https://dl.acm.org/doi/10.1145/3548456) | ACM TOIS | [Link](https://github.com/LachlanLin/FMSS) |
+| [Federated Social Recommendation with Graph Neural Network](https://doi.org/10.1145/3501815) | ACM Transactions on Intelligent Systems and Technology | [Link](https://github.com/YangLiangwei/FeSoG) |
+| [Efficient Federated Matrix Factorization Against Inference Attacks](https://dl.acm.org/doi/10.1145/3501812) | ACM Transactions on Intelligent Systems and Technology |  |
+| [A Generic Federated Recommendation Framework via Fake Marks and Secret Sharing](https://dl.acm.org/doi/10.1145/3548456) | ACM Transactions on Information Systems | [Link](https://github.com/LachlanLin/FMSS) |
 | [Federated one-class collaborative filtering via privacy-aware non-sampling matrix factorization](https://www.sciencedirect.com/science/article/pii/S0950705122007201#sec5) | Knowledge-Based Systems | [Link](https://github.com/PengQ94/P-NSMF) |
 | [FedCDR: Privacy-preserving federated cross-domain recommendation](https://www.sciencedirect.com/science/article/pii/S2352864822000839?via%3Dihub) | Digital Communications and Networks |  |
 | [Communication-efficient federated recommendation model based on many-objective evolutionary algorithm](https://www.sciencedirect.com/science/article/pii/S095741742200389X) | Expert Systems with Applications |  | 
