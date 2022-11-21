@@ -1,10 +1,17 @@
 # FederatedRS
 A collection of research papers on Federated Recommender System.
 
+## 2023
+### Journal Articles
+| Title  | Venue | Code  |
+|--------|--------|-----------|
+| [Federated Learning-Based Cross-Enterprise Recommendation With Graph Neural Networks](https://ieeexplore.ieee.org/document/9873989) | IEEE Transactions on Industrial Informatics |  |
+
 ## 2022
 ### Journal Articles
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [Federated recommenders: methods, challenges and future](https://link.springer.com/article/10.1007/s10586-022-03644-w) | Cluster Computing |  |
 | [Federated low-rank tensor projections for sequential recommendation](https://www.sciencedirect.com/science/article/pii/S0950705122007432#b16) | Knowledge-Based Systems | [Link](https://github.com/MuziLee-x/FedSeqRec) |
 | [Federated Social Recommendation with Graph Neural Network](https://doi.org/10.1145/3501815) | ACM TIST | [Link](https://github.com/YangLiangwei/FeSoG) |
 | [Efficient Federated Matrix Factorization Against Inference Attacks](https://dl.acm.org/doi/10.1145/3501812) | ACM TIST |  |
