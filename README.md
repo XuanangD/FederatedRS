@@ -7,6 +7,11 @@ A collection of research papers on Federated Recommender System.
 |--------|--------|-----------|
 | [Federated Learning-Based Cross-Enterprise Recommendation With Graph Neural Networks](https://ieeexplore.ieee.org/document/9873989) | IEEE Transactions on Industrial Informatics |  |
 
+### Conference and Workshop Papers 
+| Title  | Venue | Code  |
+|--------|--------|-----------|
+| [Untargeted Attack against Federated Recommendation Systems via Poisonous Item Embeddings and the Defense](https://arxiv.org/pdf/2212.05399.pdf) | AAAI | [Link](https://github.com/yflyl613/FedRec) |
+
 ## 2022
 ### Journal Articles
 | Title  | Venue | Code  |
