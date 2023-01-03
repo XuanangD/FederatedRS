@@ -5,6 +5,7 @@ A collection of research papers on Federated Recommender System.
 ### Journal Articles
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [A Survey on Federated Recommendation Systems](https://arxiv.org/pdf/2301.00767v1.pdf) |  IEEE Transactions on Neural Networks and Learning Systems |  |
 | [Federated Learning-Based Cross-Enterprise Recommendation With Graph Neural Networks](https://ieeexplore.ieee.org/document/9873989) | IEEE Transactions on Industrial Informatics |  |
 
 ### Conference and Workshop Papers 
