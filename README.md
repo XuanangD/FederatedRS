@@ -13,6 +13,11 @@ A collection of research papers on Federated Recommender System.
 |--------|--------|-----------|
 | [Untargeted Attack against Federated Recommendation Systems via Poisonous Item Embeddings and the Defense](https://arxiv.org/pdf/2212.05399.pdf) | AAAI | [Link](https://github.com/yflyl613/FedRec) |
 
+### Informal Publications
+| Title  | Venue | Code  |
+|--------|--------|-----------|
+| (Dual Personalization on Federated Recommendation)[https://arxiv.org/pdf/2301.08143v1.pdf] | arxiv |  |
+
 ## 2022
 ### Journal Articles
 | Title  | Venue | Code  |
