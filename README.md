@@ -16,6 +16,7 @@ A collection of research papers on Federated Recommender System.
 ### Informal Publications
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [Federated Recommendation with Additive Personalization](https://arxiv.org/pdf/2301.09109v1.pdf) | arxiv |  |
 | [Dual Personalization on Federated Recommendation](https://arxiv.org/pdf/2301.08143v1.pdf) | arxiv |  |
 
 ## 2022
