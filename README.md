@@ -1,7 +1,13 @@
 # FederatedRS
-A collection of research papers on Federated Recommender System.
+A collection of research papers on Federated Recommender System.  
+- [2023](#2023)
+- [2022](#2022)
+- [2021](#2021)
+- [2020](#2020)
+- [2019](#2019)
 
-## 2023
+
+## 2023 <a id="2023"></a>
 ### Journal Articles
 | Title  | Venue | Code  |
 |--------|--------|-----------|
@@ -20,7 +26,7 @@ A collection of research papers on Federated Recommender System.
 | [Federated Recommendation with Additive Personalization](https://arxiv.org/pdf/2301.09109v1.pdf) | arxiv |  |
 | [Dual Personalization on Federated Recommendation](https://arxiv.org/pdf/2301.08143v1.pdf) | arxiv |  |
 
-## 2022
+## 2022 <a id="2022"></a>
 ### Journal Articles
 | Title  | Venue | Code  |
 |--------|--------|-----------|
@@ -87,7 +93,7 @@ A collection of research papers on Federated Recommender System.
 | [Towards Privacy-Preserving and Verifiable Federated Matrix Factorization](http://arxiv.org/abs/2204.01601) | arxiv |  |
 | [UA-FedRec: Untargeted Attack on Federated News Recommendation](https://arxiv.org/pdf/2202.06701.pdf) | arxiv | [Link](https://github.com/yjw1029/UA-FedRec) |
 
-## 2021 
+## 2021 <a id="2021"></a>
 ### Journal Articles
 | Title  | Venue | Code  |
 |--------|--------|-----------|
@@ -128,7 +134,7 @@ A collection of research papers on Federated Recommender System.
 | [Robustness of Meta Matrix Factorization Against Strict Privacy Constraints](http://arxiv.org/abs/2101.06927) | ECIR | [Link](https://github.com/pmuellner/RobustnessOfMetaMF) |
 | [A Novel Privacy-Preserved Recommender System Framework Based On Federated Learning](https://dl.acm.org/doi/10.1145/3451471.3451485) | ICSIM |  |
 
-## 2020 
+## 2020 <a id="2020"></a>
 | Title  | Venue | Code  |
 |--------|--------|-----------|
 | [A trusted recommendation scheme for privacy protection based on federated learning](https://link.springer.com/content/pdf/10.1007/s42045-020-00045-8.pdf) | CCF Transactions on Networking |  |
@@ -149,7 +155,7 @@ A collection of research papers on Federated Recommender System.
 | [Practical Privacy Preserving POI Recommendation](http://arxiv.org/abs/2003.02834) | ACM TIST |  |
 | [Federating Recommendations Using Differentially Private Prototypes](https://arxiv.org/pdf/2003.00602.pdf) | arxiv |  |
 | [Federated Recommendation Systems](https://link.springer.com/chapter/10.1007%2F978-3-030-63076-8_16) |  Federated Learning | |
-## 2019 
+## 2019 <a id="2019"></a>
 | Title  | Venue | Code  |
 |--------|--------|-----------|
 | [Federated Meta-Learning with Fast Convergence and Efficient Communication](https://arxiv.org/abs/1802.07876v2) | arxiv |  | 
