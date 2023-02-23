@@ -17,6 +17,7 @@ A collection of research papers on Federated Recommender System.
 ### Conference and Workshop Papers 
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [Semi-decentralized Federated Ego Graph Learning for Recommendation](https://arxiv.org/pdf/2302.10900v1.pdf) | WWW |  |
 | [Interaction-level Membership Inference Attack Against Federated Recommender Systems](https://arxiv.org/pdf/2301.10964.pdf) | WWW |  |
 | [Untargeted Attack against Federated Recommendation Systems via Poisonous Item Embeddings and the Defense](https://arxiv.org/pdf/2212.05399.pdf) | AAAI | [Link](https://github.com/yflyl613/FedRec) |
 
