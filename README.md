@@ -17,6 +17,7 @@ A collection of research papers on Federated Recommender System.
 ### Conference and Workshop Papers 
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [Federated Unlearning for On-Device Recommendation](https://dl.acm.org/doi/10.1145/3539597.3570463) | WSDM |  |
 | [Semi-decentralized Federated Ego Graph Learning for Recommendation](https://arxiv.org/pdf/2302.10900v1.pdf) | WWW |  |
 | [Interaction-level Membership Inference Attack Against Federated Recommender Systems](https://arxiv.org/pdf/2301.10964.pdf) | WWW |  |
 | [Untargeted Attack against Federated Recommendation Systems via Poisonous Item Embeddings and the Defense](https://arxiv.org/pdf/2212.05399.pdf) | AAAI | [Link](https://github.com/yflyl613/FedRec) |
@@ -74,7 +75,6 @@ A collection of research papers on Federated Recommender System.
 |--------|--------|-----------|
 | [Personalized Federated Recommender Systems with Private and Partially Federated AutoEncoders](https://arxiv.org/pdf/2212.08779.pdf) | arxiv |  |
 | [FedRule: Federated Rule Recommendation System with Graph Neural Networks](https://arxiv.org/pdf/2211.06812v1.pdf) | arxiv |  |
-| [Federated Unlearning for On-Device Recommendation](https://arxiv.org/pdf/2210.10958.pdf) | arxiv |  |
 | [Vertical Federated Linear Contextual Bandits](https://arxiv.org/pdf/2210.11050v1.pdf) | arxiv  |  |
 | [PrivMVMF: Privacy-Preserving Multi-View Matrix Factorization for Recommender Systems](https://arxiv.org/pdf/2210.07775v1.pdf) | arxiv |  |
 | [Towards Communication Efficient and Fair Federated Personalized Sequential Recommendation](http://arxiv.org/abs/2208.10692) | arxiv |  |
