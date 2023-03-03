@@ -76,7 +76,7 @@ A collection of research papers on Federated Recommender System.
 | [FedRecAttack: Model Poisoning Attack to Federated Recommendation](https://ieeexplore.ieee.org/document/9835228)| ICDE | [Link](https://github.com/rdz98/FedRecAttack) |
 | [Practical Lossless Federated Singular Vector Decomposition over Billion-Scale Data](https://dl.acm.org/doi/10.1145/3534678.3539402) | KDD | [Link](https://github.com/Di-Chai/FedSVD) |
 | [FedAttack: Effective and Covert Poisoning Attack on Federated Recommendation via Hard Sampling](https://dl.acm.org/doi/10.1145/3534678.3539119) | KDD | [Link](https://github.com/wuch15/FedAttack) |
-| [PipAttack: Poisoning Federated Recommender Systems forManipulating Item Promotion](http://arxiv.org/abs/2110.10926) | WSDM |  |
+| [PipAttack: Poisoning Federated Recommender Systems for Manipulating Item Promotion](http://arxiv.org/abs/2110.10926) | WSDM |  |
 
 ### Informal Publications
 | Title  | Venue | Code  |
