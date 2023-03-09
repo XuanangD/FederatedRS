@@ -28,6 +28,8 @@ A collection of research papers on Federated Recommender System.
 ### Informal Publications
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [A Privacy Preserving System for Movie Recommendations using Federated Learning](https://arxiv.org/abs/2303.04689v1) | arxiv |  |
+| [Federated Privacy-preserving Collaborative Filtering for On-Device Next App Prediction](https://arxiv.org/abs/2303.04744v1) | arxiv |  |
 | [Federated Recommendation with Additive Personalization](https://arxiv.org/pdf/2301.09109v1.pdf) | arxiv |  |
 | [Dual Personalization on Federated Recommendation](https://arxiv.org/pdf/2301.08143v1.pdf) | arxiv |  |
 
