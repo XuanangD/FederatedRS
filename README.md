@@ -11,6 +11,7 @@ A collection of research papers on Federated Recommender System.
 ### Journal Articles
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [FedDSR: Daily Schedule Recommendation in a Federated Deep Reinforcement Learning Framework](https://ieeexplore.ieee.org/document/9626622) | IEEE Transactions on Knowledge and Data Engineering |  |
 | [FedPOIRec: Privacy Preserving Federated POI Recommendation with Social Influence](https://www.sciencedirect.com/science/article/pii/S0020025522015171) | Information Sciences |  |
 | [ReFRS: Resource-efficient Federated Recommender System for Dynamic and Diversified User Preferences](https://dl.acm.org/doi/abs/10.1145/3560486) | ACM Transactions on Information Systems |  |
 | [A Survey on Federated Recommendation Systems](https://arxiv.org/pdf/2301.00767v1.pdf) |  IEEE Transactions on Neural Networks and Learning Systems |  |
@@ -28,6 +29,7 @@ A collection of research papers on Federated Recommender System.
 ### Informal Publications
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [Vertical Federated Graph Neural Network for Recommender System](https://arxiv.org/pdf/2303.05786.pdf) | arxiv |  |
 | [A Privacy Preserving System for Movie Recommendations using Federated Learning](https://arxiv.org/abs/2303.04689v1) | arxiv |  |
 | [Federated Privacy-preserving Collaborative Filtering for On-Device Next App Prediction](https://arxiv.org/abs/2303.04744v1) | arxiv |  |
 | [Federated Recommendation with Additive Personalization](https://arxiv.org/pdf/2301.09109v1.pdf) | arxiv |  |
