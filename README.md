@@ -11,6 +11,8 @@ A collection of research papers on Federated Recommender System.
 ### Journal Articles
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [A federated collaborative recommendation model for privacy-preserving distributed recommender applications based on microservice framework](https://www.sciencedirect.com/science/article/abs/pii/S0743731522002477) | Journal of Parallel and Distributed Computing |  |
+| [A split-federated learning and edge-cloud based efficient and privacy-preserving large-scale item recommendation model](https://journalofcloudcomputing.springeropen.com/articles/10.1186/s13677-023-00435-5) | Journal of Cloud Computing |  |
 | [FedDSR: Daily Schedule Recommendation in a Federated Deep Reinforcement Learning Framework](https://ieeexplore.ieee.org/document/9626622) | IEEE Transactions on Knowledge and Data Engineering |  |
 | [FedPOIRec: Privacy Preserving Federated POI Recommendation with Social Influence](https://www.sciencedirect.com/science/article/pii/S0020025522015171) | Information Sciences |  |
 | [FGC: GCN-Based Federated Learning Approach for Trust Industrial Service Recommendation](https://ieeexplore.ieee.org/document/9918030) | IEEE Transactions on Industrial Informatics |  |
