@@ -45,6 +45,7 @@ A collection of research papers on Federated Recommender System.
 ### Journal Articles
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [A federated graph neural network framework for privacy-preserving personalization](https://www.nature.com/articles/s41467-022-30714-9#Sec8) | Nature Communications | [Link](https://github.com/wuch15/FedPerGNN) |
 | [LightFR: Lightweight Federated Recommendation with Privacy-preserving Matrix Factorization](https://dl.acm.org/doi/abs/10.1145/3578361) | ACM Transactions on Information Systems |  |
 | [Federated recommenders: methods, challenges and future](https://link.springer.com/article/10.1007/s10586-022-03644-w) | Cluster Computing |  |
 | [Federated low-rank tensor projections for sequential recommendation](https://www.sciencedirect.com/science/article/pii/S0950705122007432#b16) | Knowledge-Based Systems | [Link](https://github.com/MuziLee-x/FedSeqRec) |
