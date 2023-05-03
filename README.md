@@ -28,8 +28,8 @@ A collection of research papers on Federated Recommender System.
 | [Combining Autoencoder with Adaptive Differential Privacy for Federated Collaborative Filtering](https://link.springer.com/chapter/10.1007/978-3-031-30637-2_44) | DASFAA |  |
 | [A New Reconstruction Attack: User Latent Vector Leakage in Federated Recommendation](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_7) | DASFAA |  |
 | [Federated Unlearning for On-Device Recommendation](https://dl.acm.org/doi/10.1145/3539597.3570463) | WSDM |  |
-| [Semi-decentralized Federated Ego Graph Learning for Recommendation](https://arxiv.org/pdf/2302.10900v1.pdf) | WWW |  |
-| [Interaction-level Membership Inference Attack Against Federated Recommender Systems](https://arxiv.org/pdf/2301.10964.pdf) | WWW |  |
+| [Semi-decentralized Federated Ego Graph Learning for Recommendation](https://dl.acm.org/doi/10.1145/3543507.3583337) | WWW |  |
+| [Interaction-level Membership Inference Attack Against Federated Recommender Systems](https://dl.acm.org/doi/10.1145/3543507.3583359) | WWW |  |
 | [Untargeted Attack against Federated Recommendation Systems via Poisonous Item Embeddings and the Defense](https://arxiv.org/pdf/2212.05399.pdf) | AAAI | [Link](https://github.com/yflyl613/FedRec) |
 
 ### Informal Publications
