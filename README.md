@@ -98,7 +98,6 @@ A collection of research papers on Federated Recommender System.
 | [Towards Communication Efficient and Fair Federated Personalized Sequential Recommendation](http://arxiv.org/abs/2208.10692) | arxiv |  |
 | [Online Meta-Learning for Model Update Aggregation in Federated Learning for Click-Through Rate Prediction](https://arxiv.org/pdf/2209.00629v1.pdf) | arxiv |  |
 | [Horizontal Federated Learning and Secure Distributed Training for Recommendation System with Intel SGX](https://arxiv.org/abs/2207.05079) | arxiv |  | 
-| [Split Two-Tower Model for Efficient and Privacy-Preserving Cross-device Federated Recommendation](https://arxiv.org/abs/2206.13715) | arxiv |  |
 | [FD-GATDR: A Federated-Decentralized-Learning Graph Attention Network for Doctor Recommendation Using EHR](http://arxiv.org/abs/2207.05750) | arxiv |  |
 | [FEL: High Capacity Learning for Recommendation and Ranking via Federated Ensemble Learning](http://arxiv.org/abs/2206.03852) | arxiv |  |
 | [Comprehensive Privacy Analysis on Federated Recommender System against Attribute Inference Attacks](https://arxiv.org/pdf/2205.11857.pdf) | arxiv  |  |
