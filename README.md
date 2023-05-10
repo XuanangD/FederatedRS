@@ -24,6 +24,7 @@ A collection of research papers on Federated Recommender System.
 ### Conference and Workshop Papers 
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [FedRule: Federated Rule Recommendation System with Graph Neural Networks](https://dl.acm.org/doi/10.1145/3576842.3582328) | IOTDI |  |
 | [Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures](https://arxiv.org/abs/2304.03054) | SIGIR |  |
 | [Combining Autoencoder with Adaptive Differential Privacy for Federated Collaborative Filtering](https://link.springer.com/chapter/10.1007/978-3-031-30637-2_44) | DASFAA |  |
 | [A New Reconstruction Attack: User Latent Vector Leakage in Federated Recommendation](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_7) | DASFAA |  |
@@ -35,6 +36,7 @@ A collection of research papers on Federated Recommender System.
 ### Informal Publications
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [Turning Privacy-preserving Mechanisms against Federated Learning](https://arxiv.org/pdf/2305.05355v1.pdf) | arxiv |  |
 | [Vertical Federated Graph Neural Network for Recommender System](https://arxiv.org/pdf/2303.05786.pdf) | arxiv |  |
 | [A Privacy Preserving System for Movie Recommendations using Federated Learning](https://arxiv.org/abs/2303.04689v1) | arxiv |  |
 | [Federated Privacy-preserving Collaborative Filtering for On-Device Next App Prediction](https://arxiv.org/abs/2303.04744v1) | arxiv |  |
@@ -93,7 +95,6 @@ A collection of research papers on Federated Recommender System.
 | Title  | Venue | Code  |
 |--------|--------|-----------|
 | [Personalized Federated Recommender Systems with Private and Partially Federated AutoEncoders](https://arxiv.org/pdf/2212.08779.pdf) | arxiv |  |
-| [FedRule: Federated Rule Recommendation System with Graph Neural Networks](https://arxiv.org/pdf/2211.06812v1.pdf) | arxiv |  |
 | [Vertical Federated Linear Contextual Bandits](https://arxiv.org/pdf/2210.11050v1.pdf) | arxiv  |  |
 | [Towards Communication Efficient and Fair Federated Personalized Sequential Recommendation](http://arxiv.org/abs/2208.10692) | arxiv |  |
 | [Online Meta-Learning for Model Update Aggregation in Federated Learning for Click-Through Rate Prediction](https://arxiv.org/pdf/2209.00629v1.pdf) | arxiv |  |
