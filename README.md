@@ -26,6 +26,7 @@ A collection of research papers on Federated Recommender System.
 ### Conference and Workshop Papers 
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [FedPDD: A Privacy-preserving Double Distillation Framework for Cross-silo Federated Recommendation](https://arxiv.org/pdf/2305.06272v1.pdf) | IJCNN |   |
 | [FedRule: Federated Rule Recommendation System with Graph Neural Networks](https://dl.acm.org/doi/10.1145/3576842.3582328) | IOTDI |  |
 | [Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures](https://arxiv.org/abs/2304.03054) | SIGIR |  |
 | [Combining Autoencoder with Adaptive Differential Privacy for Federated Collaborative Filtering](https://link.springer.com/chapter/10.1007/978-3-031-30637-2_44) | DASFAA |  |
