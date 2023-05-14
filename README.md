@@ -11,10 +11,12 @@ A collection of research papers on Federated Recommender System.
 ### Journal Articles
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [Randomization is all you need: A privacy-preserving federated learning framework for news recommendation](https://www.sciencedirect.com/science/article/abs/pii/S0020025523005121) | Information Sciences |  |
 | [Privacy-preserving federated learning framework in multimedia courses recommendation](https://link.springer.com/article/10.1007/s11276-021-02854-1) | Wireless Networks |  |
 | [FedRec: Trusted rank-based recommender scheme for service provisioning in federated cloud environment](https://www.sciencedirect.com/science/article/pii/S2352864822001250) | Digital Communications and Networks |  |
 | [A federated collaborative recommendation model for privacy-preserving distributed recommender applications based on microservice framework](https://www.sciencedirect.com/science/article/abs/pii/S0743731522002477) | Journal of Parallel and Distributed Computing |  |
 | [A split-federated learning and edge-cloud based efficient and privacy-preserving large-scale item recommendation model](https://journalofcloudcomputing.springeropen.com/articles/10.1186/s13677-023-00435-5) | Journal of Cloud Computing |  |
+| [A verifiable and privacy-preserving framework for federated recommendation system](https://link.springer.com/article/10.1007/s12652-023-04531-x) | Journal of Ambient Intelligence and Humanized Computing  |  |
 | [FedDSR: Daily Schedule Recommendation in a Federated Deep Reinforcement Learning Framework](https://ieeexplore.ieee.org/document/9626622) | IEEE Transactions on Knowledge and Data Engineering |  |
 | [FedPOIRec: Privacy Preserving Federated POI Recommendation with Social Influence](https://www.sciencedirect.com/science/article/pii/S0020025522015171) | Information Sciences |  |
 | [FGC: GCN-Based Federated Learning Approach for Trust Industrial Service Recommendation](https://ieeexplore.ieee.org/document/9918030) | IEEE Transactions on Industrial Informatics |  |
