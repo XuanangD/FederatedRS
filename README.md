@@ -11,6 +11,7 @@ A collection of research papers on Federated Recommender System.
 ### Journal Articles
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [Enhancing Recommendation Capabilities Using Multi-Head Attention-Based Federated Knowledge Distillation](https://ieeexplore.ieee.org/document/10113220) | IEEE Access |  |
 | [Randomization is all you need: A privacy-preserving federated learning framework for news recommendation](https://www.sciencedirect.com/science/article/abs/pii/S0020025523005121) | Information Sciences |  |
 | [Privacy-preserving federated learning framework in multimedia courses recommendation](https://link.springer.com/article/10.1007/s11276-021-02854-1) | Wireless Networks |  |
 | [FedRec: Trusted rank-based recommender scheme for service provisioning in federated cloud environment](https://www.sciencedirect.com/science/article/pii/S2352864822001250) | Digital Communications and Networks |  |
