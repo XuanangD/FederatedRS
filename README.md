@@ -29,6 +29,7 @@ A collection of research papers on Federated Recommender System.
 ### Conference and Workshop Papers 
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [Fine-Grained Preference-Aware Personalized Federated POI Recommendation with Data Sparsity](https://dl.acm.org/doi/10.1145/3539618.3591688) | SIGIR | [Link](https://github.com/Leavesy/PrefFedPOI) | 
 | [MAFD: A Federated Distillation Approach with Multi-head Attention for Recommendation Tasks](https://dl.acm.org/doi/10.1145/3555776.3577849) | SAC |  |
 | [Personalized Federated Domain Adaptation for Item-to-Item Recommendation](https://arxiv.org/pdf/2306.03191v1.pdf) | UAI |  |
 | [FedPDD: A Privacy-preserving Double Distillation Framework for Cross-silo Federated Recommendation](https://arxiv.org/pdf/2305.06272v1.pdf) | IJCNN |   |
