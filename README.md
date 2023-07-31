@@ -11,6 +11,7 @@ A collection of research papers on Federated Recommender System.
 ### Journal Articles
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [FedDeepFM: A Factorization Machine-Based Neural Network for Recommendation in Federated Learning](https://ieeexplore.ieee.org/document/10184414) | IEEE Access |  |
 | [Enhancing Recommendation Capabilities Using Multi-Head Attention-Based Federated Knowledge Distillation](https://ieeexplore.ieee.org/document/10113220) | IEEE Access |  |
 | [Randomization is all you need: A privacy-preserving federated learning framework for news recommendation](https://www.sciencedirect.com/science/article/abs/pii/S0020025523005121) | Information Sciences |  |
 | [Privacy-preserving federated learning framework in multimedia courses recommendation](https://link.springer.com/article/10.1007/s11276-021-02854-1) | Wireless Networks |  |
@@ -29,18 +30,19 @@ A collection of research papers on Federated Recommender System.
 ### Conference and Workshop Papers 
 | Title  | Venue | Code  |
 |--------|--------|-----------|
-| [Fine-Grained Preference-Aware Personalized Federated POI Recommendation with Data Sparsity](https://dl.acm.org/doi/10.1145/3539618.3591688) | SIGIR | [Link](https://github.com/Leavesy/PrefFedPOI) | 
+| [Untargeted Attack against Federated Recommendation Systems via Poisonous Item Embeddings and the Defense](https://ojs.aaai.org/index.php/AAAI/article/view/25611)  | AAAI | [Link](https://github.com/yflyl613/FedRec) |
+| [Win-Win: A Privacy-Preserving Federated Framework for Dual-Target Cross-Domain Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/25531) | AAAI | |
 | [MAFD: A Federated Distillation Approach with Multi-head Attention for Recommendation Tasks](https://dl.acm.org/doi/10.1145/3555776.3577849) | SAC |  |
 | [Personalized Federated Domain Adaptation for Item-to-Item Recommendation](https://arxiv.org/pdf/2306.03191v1.pdf) | UAI |  |
 | [FedPDD: A Privacy-preserving Double Distillation Framework for Cross-silo Federated Recommendation](https://arxiv.org/pdf/2305.06272v1.pdf) | IJCNN |   |
 | [FedRule: Federated Rule Recommendation System with Graph Neural Networks](https://dl.acm.org/doi/10.1145/3576842.3582328) | IOTDI |  |
-| [Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures](https://arxiv.org/abs/2304.03054) | SIGIR |  |
+| [Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures](https://dl.acm.org/doi/10.1145/3539618.3591722) | SIGIR |  |
+| [Fine-Grained Preference-Aware Personalized Federated POI Recommendation with Data Sparsity](https://dl.acm.org/doi/10.1145/3539618.3591688) | SIGIR | [Link](https://github.com/Leavesy/PrefFedPOI) |
 | [Combining Autoencoder with Adaptive Differential Privacy for Federated Collaborative Filtering](https://link.springer.com/chapter/10.1007/978-3-031-30637-2_44) | DASFAA |  |
 | [A New Reconstruction Attack: User Latent Vector Leakage in Federated Recommendation](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_7) | DASFAA |  |
 | [Federated Unlearning for On-Device Recommendation](https://dl.acm.org/doi/10.1145/3539597.3570463) | WSDM |  |
 | [Semi-decentralized Federated Ego Graph Learning for Recommendation](https://dl.acm.org/doi/10.1145/3543507.3583337) | WWW |  |
 | [Interaction-level Membership Inference Attack Against Federated Recommender Systems](https://dl.acm.org/doi/10.1145/3543507.3583359) | WWW |  |
-| [Untargeted Attack against Federated Recommendation Systems via Poisonous Item Embeddings and the Defense](https://arxiv.org/pdf/2212.05399.pdf) | AAAI | [Link](https://github.com/yflyl613/FedRec) |
 
 ### Informal Publications
 | Title  | Venue | Code  |
