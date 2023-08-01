@@ -11,6 +11,7 @@ A collection of research papers on Federated Recommender System.
 ### Journal Articles
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [Efficient federated item similarity model for privacy-preserving recommendation](https://www.sciencedirect.com/science/article/pii/S0306457323002078) | Information Processing & Management | [Link](https://github.com/XuanangD/FedIS) |
 | [FedDeepFM: A Factorization Machine-Based Neural Network for Recommendation in Federated Learning](https://ieeexplore.ieee.org/document/10184414) | IEEE Access |  |
 | [Enhancing Recommendation Capabilities Using Multi-Head Attention-Based Federated Knowledge Distillation](https://ieeexplore.ieee.org/document/10113220) | IEEE Access |  |
 | [Randomization is all you need: A privacy-preserving federated learning framework for news recommendation](https://www.sciencedirect.com/science/article/abs/pii/S0020025523005121) | Information Sciences |  |
