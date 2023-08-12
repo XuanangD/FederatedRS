@@ -13,6 +13,7 @@ A collection of research papers on Federated Recommender System.
 |--------|--------|-----------|
 | [Efficient federated item similarity model for privacy-preserving recommendation](https://www.sciencedirect.com/science/article/pii/S0306457323002078) | Information Processing & Management | [Link](https://github.com/XuanangD/FedIS) |
 | [Comprehensive Privacy Analysis on Federated Recommender System against Attribute Inference Attacks](https://ieeexplore.ieee.org/abstract/document/10184063) |  IEEE Transactions on Knowledge and Data Engineering |  |
+| [Differentially private locality sensitive hashing based federated recommender system](https://onlinelibrary.wiley.com/doi/epdf/10.1002/cpe.6233) | Concurrency and Computation: Practice and Experience |  |
 | [FedDeepFM: A Factorization Machine-Based Neural Network for Recommendation in Federated Learning](https://ieeexplore.ieee.org/document/10184414) | IEEE Access |  |
 | [Personalized federated recommendation system with historical parameter clustering](https://link.springer.com/article/10.1007/s12652-022-03709-z) | Journal of Ambient Intelligence and Humanized Computing |  |
 | [Enhancing Recommendation Capabilities Using Multi-Head Attention-Based Federated Knowledge Distillation](https://ieeexplore.ieee.org/document/10113220) | IEEE Access |  |
@@ -33,6 +34,8 @@ A collection of research papers on Federated Recommender System.
 ### Conference and Workshop Papers 
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [Privacy Matters: Vertical Federated Linear Contextual Bandits for Privacy Protected Recommendation](https://dl.acm.org/doi/10.1145/3580305.3599475) | KDD |  | 
+| [PrivateRec: Differentially Private Model Training and Online Serving for Federated News Recommendation](https://dl.acm.org/doi/10.1145/3580305.3599889) | KDD |  |
 | [UA-FedRec: Untargeted Attack on Federated News Recommendation](https://dl.acm.org/doi/abs/10.1145/3580305.3599923) | KDD | [Link](https://github.com/yjw1029/UA-FedRec) |
 | [Untargeted Attack against Federated Recommendation Systems via Poisonous Item Embeddings and the Defense](https://ojs.aaai.org/index.php/AAAI/article/view/25611)  | AAAI | [Link](https://github.com/yflyl613/FedRec) |
 | [Win-Win: A Privacy-Preserving Federated Framework for Dual-Target Cross-Domain Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/25531) | AAAI | |
