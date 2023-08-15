@@ -11,6 +11,7 @@ A collection of research papers on Federated Recommender System.
 ### Journal Articles
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [Federated learning based driver recommendation for next generation transportation system](https://www.sciencedirect.com/science/article/pii/S0957417423004530) | Expert Systems with Applications |  |
 | [Efficient federated item similarity model for privacy-preserving recommendation](https://www.sciencedirect.com/science/article/pii/S0306457323002078) | Information Processing & Management | [Link](https://github.com/XuanangD/FedIS) |
 | [Comprehensive Privacy Analysis on Federated Recommender System against Attribute Inference Attacks](https://ieeexplore.ieee.org/abstract/document/10184063) |  IEEE Transactions on Knowledge and Data Engineering |  |
 | [Differentially private locality sensitive hashing based federated recommender system](https://onlinelibrary.wiley.com/doi/epdf/10.1002/cpe.6233) | Concurrency and Computation: Practice and Experience |  |
@@ -19,6 +20,7 @@ A collection of research papers on Federated Recommender System.
 | [Enhancing Recommendation Capabilities Using Multi-Head Attention-Based Federated Knowledge Distillation](https://ieeexplore.ieee.org/document/10113220) | IEEE Access |  |
 | [Randomization is all you need: A privacy-preserving federated learning framework for news recommendation](https://www.sciencedirect.com/science/article/abs/pii/S0020025523005121) | Information Sciences |  |
 | [Privacy-preserving federated learning framework in multimedia courses recommendation](https://link.springer.com/article/10.1007/s11276-021-02854-1) | Wireless Networks |  |
+| [Privacy-Preserving Hierarchical Federated Recommendation Systems](https://ieeexplore.ieee.org/document/10044657) | IEEE Communications Letters |  |
 | [FedRec: Trusted rank-based recommender scheme for service provisioning in federated cloud environment](https://www.sciencedirect.com/science/article/pii/S2352864822001250) | Digital Communications and Networks |  |
 | [A federated collaborative recommendation model for privacy-preserving distributed recommender applications based on microservice framework](https://www.sciencedirect.com/science/article/abs/pii/S0743731522002477) | Journal of Parallel and Distributed Computing |  |
 | [A split-federated learning and edge-cloud based efficient and privacy-preserving large-scale item recommendation model](https://journalofcloudcomputing.springeropen.com/articles/10.1186/s13677-023-00435-5) | Journal of Cloud Computing |  |
@@ -34,6 +36,8 @@ A collection of research papers on Federated Recommender System.
 ### Conference and Workshop Papers 
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [Dual Personalization on Federated Recommendation](https://www.ijcai.org/proceedings/2023/507) | IJCAI | [Link](https://github.com/Zhangcx19/IJCAI-23-PFedRec) |
+| [Federated Probabilistic Preference Distribution Modelling with Compactness Co-Clustering for Privacy-Preserving Multi-Domain Recommendation](https://www.ijcai.org/proceedings/2023/245) | IJCAI |  |
 | [Privacy Matters: Vertical Federated Linear Contextual Bandits for Privacy Protected Recommendation](https://dl.acm.org/doi/10.1145/3580305.3599475) | KDD |  | 
 | [PrivateRec: Differentially Private Model Training and Online Serving for Federated News Recommendation](https://dl.acm.org/doi/10.1145/3580305.3599889) | KDD |  |
 | [UA-FedRec: Untargeted Attack on Federated News Recommendation](https://dl.acm.org/doi/abs/10.1145/3580305.3599923) | KDD | [Link](https://github.com/yjw1029/UA-FedRec) |
@@ -47,7 +51,6 @@ A collection of research papers on Federated Recommender System.
 | [Fine-Grained Preference-Aware Personalized Federated POI Recommendation with Data Sparsity](https://dl.acm.org/doi/10.1145/3539618.3591688) | SIGIR | [Link](https://github.com/Leavesy/PrefFedPOI) |
 | [Combining Autoencoder with Adaptive Differential Privacy for Federated Collaborative Filtering](https://link.springer.com/chapter/10.1007/978-3-031-30637-2_44) | DASFAA |  |
 | [A New Reconstruction Attack: User Latent Vector Leakage in Federated Recommendation](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_7) | DASFAA |  |
-| [Practical and Secure Federated Recommendation with Personalized Mask](https://link.springer.com/chapter/10.1007/978-3-031-28996-5_3) |  FL@IJCAI 2022 |  |
 | [Federated Unlearning for On-Device Recommendation](https://dl.acm.org/doi/10.1145/3539597.3570463) | WSDM |  |
 | [Semi-decentralized Federated Ego Graph Learning for Recommendation](https://dl.acm.org/doi/10.1145/3543507.3583337) | WWW |  |
 | [Interaction-level Membership Inference Attack Against Federated Recommender Systems](https://dl.acm.org/doi/10.1145/3543507.3583359) | WWW |  |
@@ -66,7 +69,6 @@ A collection of research papers on Federated Recommender System.
 | [A Privacy Preserving System for Movie Recommendations using Federated Learning](https://arxiv.org/abs/2303.04689v1) | arxiv |  |
 | [Federated Privacy-preserving Collaborative Filtering for On-Device Next App Prediction](https://arxiv.org/abs/2303.04744v1) | arxiv |  |
 | [Federated Recommendation with Additive Personalization](https://arxiv.org/pdf/2301.09109v1.pdf) | arxiv |  |
-| [Dual Personalization on Federated Recommendation](https://arxiv.org/pdf/2301.08143v1.pdf) | arxiv |  |
 
 ## 2022 <a id="2022"></a>
 ### Journal Articles
@@ -95,6 +97,7 @@ A collection of research papers on Federated Recommender System.
 ### Conference and Workshop Papers 
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [Practical and Secure Federated Recommendation with Personalized Mask](https://link.springer.com/chapter/10.1007/978-3-031-28996-5_3) |  FL@IJCAI 2022 |  |
 | [Towards Communication Efficient and Fair Federated Personalized Sequential Recommendation](https://ieeexplore.ieee.org/abstract/document/10050588) | ICICSP |  |
 | [Personalized Federated Recommender Systems with Private and Partially Federated AutoEncoders](https://ieeexplore.ieee.org/abstract/document/10051918) | 2022 56th Asilomar Conference on Signals, Systems, and Computers |  |
 | [FedGRec: Federated Graph Recommender System with Lazy Update of Latent Embeddings](http://arxiv.org/abs/2210.13686) | FL-NeurIPS'22 Workshop |  |
