@@ -45,8 +45,8 @@ A collection of research papers on Federated Recommender System.
 | [Untargeted Attack against Federated Recommendation Systems via Poisonous Item Embeddings and the Defense](https://ojs.aaai.org/index.php/AAAI/article/view/25611)  | AAAI | [Link](https://github.com/yflyl613/FedRec) |
 | [Win-Win: A Privacy-Preserving Federated Framework for Dual-Target Cross-Domain Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/25531) | AAAI | |
 | [MAFD: A Federated Distillation Approach with Multi-head Attention for Recommendation Tasks](https://dl.acm.org/doi/10.1145/3555776.3577849) | SAC |  |
-| [Personalized Federated Domain Adaptation for Item-to-Item Recommendation](https://arxiv.org/pdf/2306.03191v1.pdf) | UAI |  |
-| [FedPDD: A Privacy-preserving Double Distillation Framework for Cross-silo Federated Recommendation](https://arxiv.org/pdf/2305.06272v1.pdf) | IJCNN |   |
+| [Personalized Federated Domain Adaptation for Item-to-Item Recommendation](https://proceedings.mlr.press/v216/fan23a.html) | UAI |  |
+| [FedPDD: A Privacy-preserving Double Distillation Framework for Cross-silo Federated Recommendation](https://ieeexplore.ieee.org/document/10191850) | IJCNN |   |
 | [FedRule: Federated Rule Recommendation System with Graph Neural Networks](https://dl.acm.org/doi/10.1145/3576842.3582328) | IOTDI |  |
 | [Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures](https://dl.acm.org/doi/10.1145/3539618.3591722) | SIGIR |  |
 | [Fine-Grained Preference-Aware Personalized Federated POI Recommendation with Data Sparsity](https://dl.acm.org/doi/10.1145/3539618.3591688) | SIGIR | [Link](https://github.com/Leavesy/PrefFedPOI) |
