@@ -56,6 +56,7 @@ A collection of research papers on Federated Recommender System.
 ### Informal Publications
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [FedFNN: Faster Training Convergence Through Update Predictions in Federated Recommender Systems](https://arxiv.org/pdf/2309.08635v1.pdf) | arxiv |  |
 | [FedDCSR: Federated Cross-domain Sequential Recommendation via Disentangled Representation Learning](https://arxiv.org/pdf/2309.08420v1.pdf) | arxiv |  |
 | [Decentralized Graph Neural Network for Privacy-Preserving Recommendation](https://arxiv.org/pdf/2308.08072v1.pdf) | arxiv |  |
 | [GNN4FR: A Lossless GNN-based Federated Recommendation Framework](https://arxiv.org/pdf/2308.01197v1.pdf) | arxiv |  |
