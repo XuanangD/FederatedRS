@@ -7,6 +7,8 @@ A collection of research papers on Federated Recommender System.
 ### Journal Articles
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [Privacy-preserving graph convolution network for federated item recommendation](https://www.sciencedirect.com/science/article/pii/S000437022300142X) | Artificial Intelligence |  |
+| [Feynman: Federated Learning-Based Advertising for Ecosystems-Oriented Mobile Apps Recommendation](https://ieeexplore.ieee.org/document/10154552) | IEEE Transactions on Services Computing |  |
 | [Federated learning based driver recommendation for next generation transportation system](https://www.sciencedirect.com/science/article/pii/S0957417423004530) | Expert Systems with Applications |  |
 | [Efficient federated item similarity model for privacy-preserving recommendation](https://www.sciencedirect.com/science/article/pii/S0306457323002078) | Information Processing & Management | [Link](https://github.com/XuanangD/FedIS) |
 | [Comprehensive Privacy Analysis on Federated Recommender System against Attribute Inference Attacks](https://ieeexplore.ieee.org/abstract/document/10184063) |  IEEE Transactions on Knowledge and Data Engineering |  |
