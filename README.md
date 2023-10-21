@@ -7,6 +7,7 @@ A collection of research papers on Federated Recommender System.
 ### Journal Articles
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [Federated Matrix Factorization Recommendation Based on Secret Sharing for Privacy Preserving](https://ieeexplore.ieee.org/abstract/document/10286450) | IEEE Transactions on Computational Social Systems |  |
 | [Privacy-preserving graph convolution network for federated item recommendation](https://www.sciencedirect.com/science/article/pii/S000437022300142X) | Artificial Intelligence |  |
 | [Feynman: Federated Learning-Based Advertising for Ecosystems-Oriented Mobile Apps Recommendation](https://ieeexplore.ieee.org/document/10154552) | IEEE Transactions on Services Computing |  |
 | [Federated learning based driver recommendation for next generation transportation system](https://www.sciencedirect.com/science/article/pii/S0957417423004530) | Expert Systems with Applications |  |
