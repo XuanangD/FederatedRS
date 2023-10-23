@@ -1,9 +1,9 @@
 # FederatedRS
-A collection of research papers on Federated Recommender System.  
-- [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019)
+A collection of research papers on Federated Recommender Systems.  
+| Publication Years | [2019](#2019) | [2020](#2020) | [2021](#2021) | [2022](#2022)| [2023](#2023) |
+|--------|--------|-----------|--------|--------|-----------|
 
-
-## 2023 <a id="2023"></a>
+## 2023 <a id="2023"></a> 
 ### Journal Articles
 | Title  | Venue | Code  |
 |--------|--------|-----------|
