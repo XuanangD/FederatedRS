@@ -35,6 +35,7 @@ A collection of research papers on Federated Recommender Systems.
 ### Conference and Workshop Papers 
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [Federated News Recommendation with Fine-grained Interpolation and Dynamic Clustering](https://dl.acm.org/doi/10.1145/3583780.3614881) | CIKM | [Link](https://github.com/yusanshi/FINDING) |
 | [Cluster-driven GNN-based Federated Recommendation with Biased Message Dropout](https://ieeexplore.ieee.org/document/10219619) | ICME |  |
 | [Vertical Federated Graph Neural Network for Recommender System](https://proceedings.mlr.press/v202/mai23b.html) | ICML |  |
 | [Dual Personalization on Federated Recommendation](https://www.ijcai.org/proceedings/2023/507) | IJCAI | [Link](https://github.com/Zhangcx19/IJCAI-23-PFedRec) |
