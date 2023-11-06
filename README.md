@@ -7,7 +7,9 @@ A collection of research papers on Federated Recommender Systems.
 ### Journal Articles
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures](https://dl.acm.org/doi/abs/10.1145/3630005) | ACM Transactions on Information Systems |  |
 | [Word2Vec-based efficient privacy-preserving shared representation learning for federated recommendation system in a cross-device setting](https://www.sciencedirect.com/science/article/pii/S0020025523013130) | Information Sciences |  |
+| [Federated Learning-based Personalized Recommendation Systems: An Overview on Security and Privacy Challenges](https://ieeexplore.ieee.org/abstract/document/10262054) | IEEE Transactions on Consumer Electronics |  |
 | [HFSA: A Semi-Asynchronous Hierarchical Federated Recommendation System in Smart City](https://ieeexplore.ieee.org/document/10149002) | IEEE Internet of Things Journal |  |
 | [Federated Matrix Factorization Recommendation Based on Secret Sharing for Privacy Preserving](https://ieeexplore.ieee.org/abstract/document/10286450) | IEEE Transactions on Computational Social Systems |  |
 | [Privacy-preserving graph convolution network for federated item recommendation](https://www.sciencedirect.com/science/article/pii/S000437022300142X) | Artificial Intelligence |  |
@@ -37,6 +39,7 @@ A collection of research papers on Federated Recommender Systems.
 ### Conference and Workshop Papers 
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [Decentralized Graph Neural Network for Privacy-Preserving Recommendation](https://dl.acm.org/doi/abs/10.1145/3583780.3614834) | CIKM |  |
 | [Federated News Recommendation with Fine-grained Interpolation and Dynamic Clustering](https://dl.acm.org/doi/10.1145/3583780.3614881) | CIKM | [Link](https://github.com/yusanshi/FINDING) |
 | [Cluster-driven GNN-based Federated Recommendation with Biased Message Dropout](https://ieeexplore.ieee.org/document/10219619) | ICME |  |
 | [Vertical Federated Graph Neural Network for Recommender System](https://proceedings.mlr.press/v202/mai23b.html) | ICML |  |
@@ -67,12 +70,10 @@ A collection of research papers on Federated Recommender Systems.
 | [Federated Heterogeneous Graph Neural Network for Privacy-preserving Recommendation](https://arxiv.org/pdf/2310.11730v1.pdf) | arxiv |  |
 | [FedFNN: Faster Training Convergence Through Update Predictions in Federated Recommender Systems](https://arxiv.org/pdf/2309.08635v1.pdf) | arxiv |  |
 | [FedDCSR: Federated Cross-domain Sequential Recommendation via Disentangled Representation Learning](https://arxiv.org/pdf/2309.08420v1.pdf) | arxiv |  |
-| [Decentralized Graph Neural Network for Privacy-Preserving Recommendation](https://arxiv.org/pdf/2308.08072v1.pdf) | arxiv |  |
 | [GNN4FR: A Lossless GNN-based Federated Recommendation Framework](https://arxiv.org/pdf/2308.01197v1.pdf) | arxiv |  |
 | [HeteFedRec: Federated Recommender Systems with Model Heterogeneity](http://arxiv.org/abs/2307.12810) | arxiv |  |
 | [Community Detection Attack against Collaborative Learning-based Recommender Systems](https://arxiv.org/pdf/2306.08929v1.pdf) | arxiv |  |
 | [IFedRec: Item-Guided Federated Aggregation for Cold-Start](http://arxiv.org/abs/2305.12650) | arxiv |  |
-| [Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures](https://arxiv.org/abs/2305.08183) | arxiv |  |
 | [Graph-guided Personalization for Federated Recommendation](https://arxiv.org/abs/2305.07866) | arxiv |  |
 | [PerFedRec++: Enhancing Personalized Federated Recommendation with Self-Supervised Pre-Training](https://arxiv.org/pdf/2305.06622.pdf) | arxiv |  |
 | [Turning Privacy-preserving Mechanisms against Federated Learning](https://arxiv.org/pdf/2305.05355v1.pdf) | arxiv |  |
