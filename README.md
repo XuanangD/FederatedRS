@@ -39,6 +39,7 @@ A collection of research papers on Federated Recommender Systems.
 ### Conference and Workshop Papers 
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [FedRec+: Enhancing Privacy and Addressing Heterogeneity in Federated Recommendation Systems](https://ieeexplore.ieee.org/document/10313513) | Allerton |  |
 | [Decentralized Graph Neural Network for Privacy-Preserving Recommendation](https://dl.acm.org/doi/abs/10.1145/3583780.3614834) | CIKM |  |
 | [Federated News Recommendation with Fine-grained Interpolation and Dynamic Clustering](https://dl.acm.org/doi/10.1145/3583780.3614881) | CIKM | [Link](https://github.com/yusanshi/FINDING) |
 | [Cluster-driven GNN-based Federated Recommendation with Biased Message Dropout](https://ieeexplore.ieee.org/document/10219619) | ICME |  |
@@ -66,7 +67,6 @@ A collection of research papers on Federated Recommender Systems.
 | Title  | Venue | Code  |
 |--------|--------|-----------|
 | [Heterogeneous federated collaborative filtering using FAIR: Federated Averaging in Random Subspaces](https://arxiv.org/pdf/2311.01722v1.pdf) | arxiv | [Link](https://github.com/apd10/FLCF) |
-| [FedRec+: Enhancing Privacy and Addressing Heterogeneity in Federated Recommendation Systems](https://arxiv.org/abs/2310.20193) | arxiv |  |
 | [Federated Heterogeneous Graph Neural Network for Privacy-preserving Recommendation](https://arxiv.org/pdf/2310.11730v1.pdf) | arxiv |  |
 | [FedFNN: Faster Training Convergence Through Update Predictions in Federated Recommender Systems](https://arxiv.org/pdf/2309.08635v1.pdf) | arxiv |  |
 | [FedDCSR: Federated Cross-domain Sequential Recommendation via Disentangled Representation Learning](https://arxiv.org/pdf/2309.08420v1.pdf) | arxiv |  |
