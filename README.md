@@ -66,6 +66,7 @@ A collection of research papers on Federated Recommender Systems.
 ### Informal Publications
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [Hide Your Model: A Parameter Transmission-free Federated Recommender System](https://arxiv.org/pdf/2311.14968.pdf) | arxiv |  |
 | [Heterogeneous federated collaborative filtering using FAIR: Federated Averaging in Random Subspaces](https://arxiv.org/pdf/2311.01722v1.pdf) | arxiv | [Link](https://github.com/apd10/FLCF) |
 | [Federated Heterogeneous Graph Neural Network for Privacy-preserving Recommendation](https://arxiv.org/pdf/2310.11730v1.pdf) | arxiv |  |
 | [FedFNN: Faster Training Convergence Through Update Predictions in Federated Recommender Systems](https://arxiv.org/pdf/2309.08635v1.pdf) | arxiv |  |
