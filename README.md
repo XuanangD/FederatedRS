@@ -7,6 +7,7 @@ A collection of research papers on Federated Recommender Systems.
 ### Journal Articles
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [A Privacy Preserving System for Movie Recommendations using Federated Learning](https://dl.acm.org/doi/abs/10.1145/3634686) | ACM Transactions on Recommender Systems |  |
 | [Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures](https://dl.acm.org/doi/abs/10.1145/3630005) | ACM Transactions on Information Systems |  |
 | [Word2Vec-based efficient privacy-preserving shared representation learning for federated recommendation system in a cross-device setting](https://www.sciencedirect.com/science/article/pii/S0020025523013130) | Information Sciences |  |
 | [Federated Learning-based Personalized Recommendation Systems: An Overview on Security and Privacy Challenges](https://ieeexplore.ieee.org/abstract/document/10262054) | IEEE Transactions on Consumer Electronics |  |
@@ -66,6 +67,7 @@ A collection of research papers on Federated Recommender Systems.
 ### Informal Publications
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [No prejudice! Fair Federated Graph Neural Networks for Personalized Recommendation](https://arxiv.org/pdf/2312.10080v1.pdf) | arxiv |   |
 | [Hide Your Model: A Parameter Transmission-free Federated Recommender System](https://arxiv.org/pdf/2311.14968.pdf) | arxiv |  |
 | [Heterogeneous federated collaborative filtering using FAIR: Federated Averaging in Random Subspaces](https://arxiv.org/pdf/2311.01722v1.pdf) | arxiv | [Link](https://github.com/apd10/FLCF) |
 | [Federated Heterogeneous Graph Neural Network for Privacy-preserving Recommendation](https://arxiv.org/pdf/2310.11730v1.pdf) | arxiv |  |
@@ -78,7 +80,6 @@ A collection of research papers on Federated Recommender Systems.
 | [Graph-guided Personalization for Federated Recommendation](https://arxiv.org/abs/2305.07866) | arxiv |  |
 | [PerFedRec++: Enhancing Personalized Federated Recommendation with Self-Supervised Pre-Training](https://arxiv.org/pdf/2305.06622.pdf) | arxiv |  |
 | [Turning Privacy-preserving Mechanisms against Federated Learning](https://arxiv.org/pdf/2305.05355v1.pdf) | arxiv |  |
-| [A Privacy Preserving System for Movie Recommendations using Federated Learning](https://arxiv.org/abs/2303.04689v1) | arxiv |  |
 | [Federated Privacy-preserving Collaborative Filtering for On-Device Next App Prediction](https://arxiv.org/abs/2303.04744v1) | arxiv |  |
 | [Federated Recommendation with Additive Personalization](https://arxiv.org/pdf/2301.09109v1.pdf) | arxiv |  |
 
