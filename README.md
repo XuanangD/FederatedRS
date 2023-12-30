@@ -1,7 +1,15 @@
 # FederatedRS
 A collection of research papers on Federated Recommender Systems.  
-| Publication Years | [2019](#2019) | [2020](#2020) | [2021](#2021) | [2022](#2022)| [2023](#2023) |
-|--------|--------|-----------|--------|--------|-----------|
+| Publication Years | [2019](#2019) | [2020](#2020) | [2021](#2021) | [2022](#2022)| [2023](#2023) | [2024](#2024) |
+|--------|--------|-----------|--------|--------|-----------|-----------|
+
+
+
+## 2024 <a id="2024"></a> 
+| Title  | Venue | Code  |
+|--------|--------|-----------|
+| [User Consented Federated Recommender System Against Personalized Attribute Inference Attack](https://arxiv.org/pdf/2312.16203.pdf) | WSDM | [Link](https://github.com/HKUST-KnowComp/UC-FedRec) |
+| [No prejudice! Fair Federated Graph Neural Networks for Personalized Recommendation](https://arxiv.org/pdf/2312.10080v1.pdf) | AAAI |   |
 
 ## 2023 <a id="2023"></a> 
 ### Journal Articles
@@ -67,7 +75,6 @@ A collection of research papers on Federated Recommender Systems.
 ### Informal Publications
 | Title  | Venue | Code  |
 |--------|--------|-----------|
-| [No prejudice! Fair Federated Graph Neural Networks for Personalized Recommendation](https://arxiv.org/pdf/2312.10080v1.pdf) | arxiv |   |
 | [Hide Your Model: A Parameter Transmission-free Federated Recommender System](https://arxiv.org/pdf/2311.14968.pdf) | arxiv |  |
 | [Heterogeneous federated collaborative filtering using FAIR: Federated Averaging in Random Subspaces](https://arxiv.org/pdf/2311.01722v1.pdf) | arxiv | [Link](https://github.com/apd10/FLCF) |
 | [Federated Heterogeneous Graph Neural Network for Privacy-preserving Recommendation](https://arxiv.org/pdf/2310.11730v1.pdf) | arxiv |  |
