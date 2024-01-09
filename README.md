@@ -6,10 +6,21 @@ A collection of research papers on Federated Recommender Systems.
 
 
 ## 2024 <a id="2024"></a> 
+### Journal Articles
+| Title  | Venue | Code  |
+|--------|--------|-----------|
+| [HN3S: A Federated AutoEncoder framework for Collaborative Filtering via Hybrid Negative Sampling and Secret Sharing](https://www.sciencedirect.com/science/article/abs/pii/S0306457323003175) | Information Processing & Management | [Link](https://github.com/LukeZane118/HN3S) |
+
+### Conference and Workshop Papers 
 | Title  | Venue | Code  |
 |--------|--------|-----------|
 | [User Consented Federated Recommender System Against Personalized Attribute Inference Attack](https://arxiv.org/pdf/2312.16203.pdf) | WSDM | [Link](https://github.com/HKUST-KnowComp/UC-FedRec) |
 | [No prejudice! Fair Federated Graph Neural Networks for Personalized Recommendation](https://arxiv.org/pdf/2312.10080v1.pdf) | AAAI |   |
+
+### Informal Publications
+| Title  | Venue | Code  |
+|--------|--------|-----------|
+| [Towards Efficient Communication Federated Recommendation System via Low-rank Training](https://arxiv.org/pdf/2401.03748v1.pdf) | arxiv | [Link](https://github.com/NNHieu/CoLR-FedRec) |
 
 ## 2023 <a id="2023"></a> 
 ### Journal Articles
