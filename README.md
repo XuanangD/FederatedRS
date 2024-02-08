@@ -14,12 +14,14 @@ A collection of research papers on Federated Recommender Systems.
 ### Conference and Workshop Papers 
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [Prompt-enhanced Federated Content Representation Learning for Cross-domain Recommendation](https://arxiv.org/pdf/2401.14678.pdf) | WWW | [Link](https://github.com/Ckano/PFCR) |
 | [User Consented Federated Recommender System Against Personalized Attribute Inference Attack](https://arxiv.org/pdf/2312.16203.pdf) | WSDM | [Link](https://github.com/HKUST-KnowComp/UC-FedRec) |
 | [No prejudice! Fair Federated Graph Neural Networks for Personalized Recommendation](https://arxiv.org/pdf/2312.10080v1.pdf) | AAAI |   |
 
 ### Informal Publications
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [Towards Personalized Privacy: User-Governed Data Contribution for Federated Recommendation](https://arxiv.org/pdf/2401.17630.pdf) | arxiv |  |
 | [FEDRKG: A Privacy-preserving Federated Recommendation Framework via Knowledge Graph Enhancement](https://arxiv.org/pdf/2401.11089v1.pdf) | arxiv | [Link](https://github.com/ttliu98/FedRKG) |
 | [Towards Efficient Communication Federated Recommendation System via Low-rank Training](https://arxiv.org/pdf/2401.03748v1.pdf) | arxiv | [Link](https://github.com/NNHieu/CoLR-FedRec) |
 
