@@ -21,6 +21,7 @@ A collection of research papers on Federated Recommender Systems.
 ### Informal Publications
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [TransFR: Transferable Federated Recommendation with Pre-trained Language Models](https://arxiv.org/pdf/2402.01124.pdf) | arxiv |  |
 | [Towards Personalized Privacy: User-Governed Data Contribution for Federated Recommendation](https://arxiv.org/pdf/2401.17630.pdf) | arxiv |  |
 | [FEDRKG: A Privacy-preserving Federated Recommendation Framework via Knowledge Graph Enhancement](https://arxiv.org/pdf/2401.11089v1.pdf) | arxiv | [Link](https://github.com/ttliu98/FedRKG) |
 | [Towards Efficient Communication Federated Recommendation System via Low-rank Training](https://arxiv.org/pdf/2401.03748v1.pdf) | arxiv | [Link](https://github.com/NNHieu/CoLR-FedRec) |
