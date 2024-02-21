@@ -14,6 +14,7 @@ A collection of research papers on Federated Recommender Systems.
 ### Conference and Workshop Papers 
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [Federated Recommendation with Additive Personalization](https://arxiv.org/pdf/2301.09109v4.pdf) | ICLR |  |
 | [Poisoning Federated Recommender Systems with Fake Users](https://arxiv.org/pdf/2402.11637v1.pdf) | WWW |  |
 | [Prompt-enhanced Federated Content Representation Learning for Cross-domain Recommendation](https://arxiv.org/pdf/2401.14678.pdf) | WWW | [Link](https://github.com/Ckano/PFCR) |
 | [User Consented Federated Recommender System Against Personalized Attribute Inference Attack](https://arxiv.org/pdf/2312.16203.pdf) | WSDM | [Link](https://github.com/HKUST-KnowComp/UC-FedRec) |
@@ -64,7 +65,7 @@ A collection of research papers on Federated Recommender Systems.
 ### Conference and Workshop Papers 
 | Title  | Venue | Code  |
 |--------|--------|-----------|
-| [Heterogeneity-aware Cross-school Electives Recommendation: a Hybrid Federated Approach](https://arxiv.org/pdf/2402.12202v1.pdf) | ICDMW |  |
+| [Heterogeneity-aware Cross-school Electives Recommendation: a Hybrid Federated Approach](https://ieeexplore.ieee.org/abstract/document/10411679) | ICDMW |  |
 | [FedRec+: Enhancing Privacy and Addressing Heterogeneity in Federated Recommendation Systems](https://ieeexplore.ieee.org/document/10313513) | Allerton |  |
 | [Decentralized Graph Neural Network for Privacy-Preserving Recommendation](https://dl.acm.org/doi/abs/10.1145/3583780.3614834) | CIKM |  |
 | [Federated News Recommendation with Fine-grained Interpolation and Dynamic Clustering](https://dl.acm.org/doi/10.1145/3583780.3614881) | CIKM | [Link](https://github.com/yusanshi/FINDING) |
@@ -105,7 +106,6 @@ A collection of research papers on Federated Recommender Systems.
 | [PerFedRec++: Enhancing Personalized Federated Recommendation with Self-Supervised Pre-Training](https://arxiv.org/pdf/2305.06622.pdf) | arxiv |  |
 | [Turning Privacy-preserving Mechanisms against Federated Learning](https://arxiv.org/pdf/2305.05355v1.pdf) | arxiv |  |
 | [Federated Privacy-preserving Collaborative Filtering for On-Device Next App Prediction](https://arxiv.org/abs/2303.04744v1) | arxiv |  |
-| [Federated Recommendation with Additive Personalization](https://arxiv.org/pdf/2301.09109v1.pdf) | arxiv |  |
 
 ## 2022 <a id="2022"></a>
 ### Journal Articles
