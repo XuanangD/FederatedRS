@@ -23,6 +23,7 @@ A collection of research papers on Federated Recommender Systems.
 ### Informal Publications
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [Federated Recommendation via Hybrid Retrieval Augmented Generation](https://arxiv.org/pdf/2403.04256v1.pdf) | arxiv | [Link](https://github.com/huiminzeng/GPT-FedRec) |
 | [Leveraging Federated Learning and Edge Computing for Recommendation Systems within Cloud Computing Networks](https://arxiv.org/pdf/2403.03165v1.pdf) | arxiv |  |
 | [LLM-based Federated Recommendation](https://arxiv.org/abs/2402.09959) | arxiv |  |
 | [TransFR: Transferable Federated Recommendation with Pre-trained Language Models](https://arxiv.org/pdf/2402.01124.pdf) | arxiv |  |
