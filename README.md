@@ -9,6 +9,7 @@ A collection of research papers on Federated Recommender Systems.
 ### Journal Articles
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [Marking the Pace: A Blockchain-Enhanced Privacy-Traceable Strategy for Federated Recommender Systems](https://ieeexplore.ieee.org/document/10308576)| IEEE Internet of Things Journal |  |
 | [HN3S: A Federated AutoEncoder framework for Collaborative Filtering via Hybrid Negative Sampling and Secret Sharing](https://www.sciencedirect.com/science/article/abs/pii/S0306457323003175) | Information Processing & Management | [Link](https://github.com/LukeZane118/HN3S) |
 
 ### Conference and Workshop Papers 
@@ -23,6 +24,7 @@ A collection of research papers on Federated Recommender Systems.
 ### Informal Publications
 | Title  | Venue | Code  |
 |--------|--------|-----------|
+| [Heterogeneity-aware Cross-school Electives Recommendation: a Hybrid Federated Approach](https://arxiv.org/abs/2402.12202) | arxiv |  |
 | [Federated Recommendation via Hybrid Retrieval Augmented Generation](https://arxiv.org/pdf/2403.04256v1.pdf) | arxiv | [Link](https://github.com/huiminzeng/GPT-FedRec) |
 | [Leveraging Federated Learning and Edge Computing for Recommendation Systems within Cloud Computing Networks](https://arxiv.org/pdf/2403.03165v1.pdf) | arxiv |  |
 | [LLM-based Federated Recommendation](https://arxiv.org/abs/2402.09959) | arxiv |  |
