@@ -1,6 +1,6 @@
 # FederatedRS
 A collection of research papers on Federated Recommender Systems.  
-| Publication Years | [2019](#2019) | [2020](#2020) | [2021](#2021) | [2022](#2022)| [2023](#2023) | [2024](#2024) |
+| Publication Years | [![2019](https://img.shields.io/badge/2019-blue?logo=awesomelists&labelColor=b31b1b)](#2019) | [![2020](https://img.shields.io/badge/2020-blue?logo=awesomelists&labelColor=b31b1b)](#2020) | [![2021](https://img.shields.io/badge/2021-blue?logo=awesomelists&labelColor=b31b1b)](#2021) | [![2022](https://img.shields.io/badge/2022-blue?logo=awesomelists&labelColor=b31b1b)](#2022)| [![2023](https://img.shields.io/badge/2023-blue?logo=awesomelists&labelColor=b31b1b)](#2023) | [![2024](https://img.shields.io/badge/2024-blue?logo=awesomelists&labelColor=b31b1b)](#2024) |
 |--------|--------|-----------|--------|--------|-----------|-----------|
 
 
