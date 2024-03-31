@@ -26,6 +26,7 @@ A collection of research papers on Federated Recommender Systems.
 | [When Federated Recommendation Meets Cold-Start Problem: Separating Item Attributes and User Interactions](https://arxiv.org/abs/2305.12650) | WWW | [![Github](https://img.shields.io/github/stars/Zhangcx19/IFedRec?style=flat)](https://github.com/Zhangcx19/IFedRec) |
 | [Poisoning Federated Recommender Systems with Fake Users](https://arxiv.org/pdf/2402.11637v1.pdf) | WWW |  |
 | [Prompt-enhanced Federated Content Representation Learning for Cross-domain Recommendation](https://arxiv.org/pdf/2401.14678.pdf) | WWW | [![Github](https://img.shields.io/github/stars/Ckano/PFCR?style=flat)](https://github.com/Ckano/PFCR) |
+| [Federated Conversational Recommender Systems](https://link.springer.com/chapter/10.1007/978-3-031-56069-9_4) | ECIR |  |
 | [User Consented Federated Recommender System Against Personalized Attribute Inference Attack](https://dl.acm.org/doi/abs/10.1145/3616855.3635830) | WSDM | [![Github](https://img.shields.io/github/stars/HKUST-KnowComp/UC-FedRec?style=flat)](https://github.com/HKUST-KnowComp/UC-FedRec) |
 | [No prejudice! Fair Federated Graph Neural Networks for Personalized Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/28950) | AAAI |   |
 | [FEDRKG: A Privacy-preserving Federated Recommendation Framework via Knowledge Graph Enhancement](https://link.springer.com/chapter/10.1007/978-981-99-9896-8_6) | GPC | [![Github](https://img.shields.io/github/stars/ttliu98/FedRKG?style=flat)](https://github.com/ttliu98/FedRKG) |
