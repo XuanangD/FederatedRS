@@ -9,6 +9,7 @@ A collection of research papers on Federated Recommender Systems.
 ### Journal Articles
 | Title  | Venue | Code |
 |--------|:--------:|:-----------:|
+| [Horizontal Federated Recommender System: A Survey](https://dl.acm.org/doi/abs/10.1145/3656165) | ACM Computing Surveys |  |
 | [A Survey on Federated Recommendation Systems](https://ieeexplore.ieee.org/abstract/document/10423793) |  IEEE Transactions on Neural Networks and Learning Systems |  |
 | [Marking the Pace: A Blockchain-Enhanced Privacy-Traceable Strategy for Federated Recommender Systems](https://ieeexplore.ieee.org/document/10308576)| IEEE Internet of Things Journal |  |
 | [HN3S: A Federated AutoEncoder framework for Collaborative Filtering via Hybrid Negative Sampling and Secret Sharing](https://www.sciencedirect.com/science/article/abs/pii/S0306457323003175) | Information Processing & Management | [![Github](https://img.shields.io/github/stars/LukeZane118/HN3S?style=flat)](https://github.com/LukeZane118/HN3S) |
