@@ -35,6 +35,7 @@ A collection of research papers on Federated Recommender Systems.
 ### Informal Publications
 | Title  | Venue | Code  |
 |--------|:--------:|:-----------:|
+| [Robust Federated Contrastive Recommender System against Model Poisoning Attack](https://arxiv.org/pdf/2403.20107.pdf) | arxiv |  |
 | [FedHCDR: Federated Cross-Domain Recommendation with Hypergraph Signal Decoupling](https://arxiv.org/pdf/2403.02630.pdf) | arxiv | [![Github](https://img.shields.io/github/stars/orion-orion/FedHCDR?style=flat)](https://github.com/orion-orion/FedHCDR) |
 | [Federated Recommendation via Hybrid Retrieval Augmented Generation](https://arxiv.org/pdf/2403.04256v1.pdf) | arxiv | [![Github](https://img.shields.io/github/stars/huiminzeng/GPT-FedRec?style=flat)](https://github.com/huiminzeng/GPT-FedRec) |
 | [Leveraging Federated Learning and Edge Computing for Recommendation Systems within Cloud Computing Networks](https://arxiv.org/pdf/2403.03165v1.pdf) | arxiv |  |
