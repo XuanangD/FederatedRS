@@ -9,6 +9,7 @@ A collection of research papers on Federated Recommender Systems.
 ### Journal Articles
 | Title  | Venue | Code |
 |--------|:--------:|:-----------:|
+| [FedCORE: Federated Learning for Cross-Organization Recommendation Ecosystem](https://ieeexplore.ieee.org/document/10443503) | IEEE Transactions on Knowledge and Data Engineering | [![Github](https://img.shields.io/github/stars/seek-up-well/FedCORE-code?style=flat)](https://github.com/seek-up-well/FedCORE-code) |
 | [Discrete Federated Multi-behavior Recommendation for Privacy-Preserving Heterogeneous One-Class Collaborative Filtering](https://dl.acm.org/doi/abs/10.1145/3652853) | ACM Transactions on Information Systems |  |
 | [Communication-Efficient Federated Neural Collaborative Filtering with Multi-Armed Bandits](https://dl.acm.org/doi/abs/10.1145/3651168) | ACM Transactions on Recommender Systems | [![Github](https://img.shields.io/github/stars/waqar-uestc/fncf_mab?style=flat)](https://github.com/waqar-uestc/fncf_mab) |
 | [Horizontal Federated Recommender System: A Survey](https://dl.acm.org/doi/abs/10.1145/3656165) | ACM Computing Surveys |  |
