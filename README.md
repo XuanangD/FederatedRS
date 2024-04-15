@@ -9,6 +9,8 @@ A collection of research papers on Federated Recommender Systems.
 ### Journal Articles
 | Title  | Venue | Code |
 |--------|:--------:|:-----------:|
+| [Discrete Federated Multi-behavior Recommendation for Privacy-Preserving Heterogeneous One-Class Collaborative Filtering](https://dl.acm.org/doi/abs/10.1145/3652853) | ACM Transactions on Information Systems |  |
+| [Communication-Efficient Federated Neural Collaborative Filtering with Multi-Armed Bandits](https://dl.acm.org/doi/abs/10.1145/3651168) | ACM Transactions on Recommender Systems | [![Github](https://img.shields.io/github/stars/waqar-uestc/fncf_mab?style=flat)](https://github.com/waqar-uestc/fncf_mab) |
 | [Horizontal Federated Recommender System: A Survey](https://dl.acm.org/doi/abs/10.1145/3656165) | ACM Computing Surveys |  |
 | [A Survey on Federated Recommendation Systems](https://ieeexplore.ieee.org/abstract/document/10423793) |  IEEE Transactions on Neural Networks and Learning Systems |  |
 | [Marking the Pace: A Blockchain-Enhanced Privacy-Traceable Strategy for Federated Recommender Systems](https://ieeexplore.ieee.org/document/10308576)| IEEE Internet of Things Journal |  |
