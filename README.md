@@ -9,6 +9,7 @@ A collection of research papers on Federated Recommender Systems.
 ### Journal Articles
 | Title  | Venue | Code |
 |--------|:--------:|:-----------:|
+| [Adaptive Clustering Based Personalized Federated Learning Framework for Next POI Recommendation With Location Noise](https://ieeexplore.ieee.org/document/10241965) | IEEE Transactions on Knowledge and Data Engineering | [![Github](https://img.shields.io/github/stars/Leavesy/CPF-POI?style=flat)](https://github.com/Leavesy/CPF-POI) |
 | [FedCORE: Federated Learning for Cross-Organization Recommendation Ecosystem](https://ieeexplore.ieee.org/document/10443503) | IEEE Transactions on Knowledge and Data Engineering | [![Github](https://img.shields.io/github/stars/seek-up-well/FedCORE-code?style=flat)](https://github.com/seek-up-well/FedCORE-code) |
 | [Discrete Federated Multi-behavior Recommendation for Privacy-Preserving Heterogeneous One-Class Collaborative Filtering](https://dl.acm.org/doi/abs/10.1145/3652853) | ACM Transactions on Information Systems |  |
 | [Communication-Efficient Federated Neural Collaborative Filtering with Multi-Armed Bandits](https://dl.acm.org/doi/abs/10.1145/3651168) | ACM Transactions on Recommender Systems | [![Github](https://img.shields.io/github/stars/waqar-uestc/fncf_mab?style=flat)](https://github.com/waqar-uestc/fncf_mab) |
@@ -30,10 +31,12 @@ A collection of research papers on Federated Recommender Systems.
 | [When Federated Recommendation Meets Cold-Start Problem: Separating Item Attributes and User Interactions](https://arxiv.org/abs/2305.12650) | WWW | [![Github](https://img.shields.io/github/stars/Zhangcx19/IFedRec?style=flat)](https://github.com/Zhangcx19/IFedRec) |
 | [Poisoning Federated Recommender Systems with Fake Users](https://arxiv.org/pdf/2402.11637v1.pdf) | WWW |  |
 | [Prompt-enhanced Federated Content Representation Learning for Cross-domain Recommendation](https://arxiv.org/pdf/2401.14678.pdf) | WWW | [![Github](https://img.shields.io/github/stars/Ckano/PFCR?style=flat)](https://github.com/Ckano/PFCR) |
+| [Towards Resource-Efficient and Secure Federated Multimedia Recommendation](https://ieeexplore.ieee.org/document/10448131) | ICASSP |  |
 | [Federated Conversational Recommender Systems](https://link.springer.com/chapter/10.1007/978-3-031-56069-9_4) | ECIR |  |
 | [User Consented Federated Recommender System Against Personalized Attribute Inference Attack](https://dl.acm.org/doi/abs/10.1145/3616855.3635830) | WSDM | [![Github](https://img.shields.io/github/stars/HKUST-KnowComp/UC-FedRec?style=flat)](https://github.com/HKUST-KnowComp/UC-FedRec) |
 | [No prejudice! Fair Federated Graph Neural Networks for Personalized Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/28950) | AAAI |   |
 | [FEDRKG: A Privacy-preserving Federated Recommendation Framework via Knowledge Graph Enhancement](https://link.springer.com/chapter/10.1007/978-981-99-9896-8_6) | GPC | [![Github](https://img.shields.io/github/stars/ttliu98/FedRKG?style=flat)](https://github.com/ttliu98/FedRKG) |
+| [Efficient and Reliable Federated Recommendation System in Temporal Scenarios](https://link.springer.com/chapter/10.1007/978-981-99-9896-8_7) | GPC |  |
 
 ### Informal Publications
 | Title  | Venue | Code  |
@@ -80,6 +83,8 @@ A collection of research papers on Federated Recommender Systems.
 ### Conference and Workshop Papers 
 | Title  | Venue | Code  |
 |--------|:--------:|:-----------:|
+| [Privacy-enhanced Lossless Federated Recommendation with client-selection](https://ieeexplore.ieee.org/document/10476059) | ICPADS |  |
+| [Wyze Rule: Federated Rule Dataset for Rule Recommendation Benchmarking](https://papers.nips.cc/paper_files/paper/2023/hash/02b9d1e6d1b5295a6f883969ddc1bbbd-Abstract-Datasets_and_Benchmarks.html) | NeurIPS | [![Github](https://img.shields.io/badge/Code-white?logo=codementor&labelColor=b31b1b)](https://huggingface.co/datasets/wyzelabs/RuleRecommendation) |
 | [Turning Privacy-preserving Mechanisms against Federated Learning](https://dl.acm.org/doi/abs/10.1145/3576915.3623114) | CCS |  |
 | [Heterogeneity-aware Cross-school Electives Recommendation: a Hybrid Federated Approach](https://ieeexplore.ieee.org/abstract/document/10411679) | ICDMW |  |
 | [FedRec+: Enhancing Privacy and Addressing Heterogeneity in Federated Recommendation Systems](https://ieeexplore.ieee.org/document/10313513) | Allerton |  |
