@@ -9,6 +9,7 @@ A collection of research papers on Federated Recommender Systems.
 ### Journal Articles
 | Title  | Venue | Code |
 |--------|:--------:|:-----------:|
+| [Towards fair and personalized federated recommendation](https://www.sciencedirect.com/science/article/pii/S0031320323009317) | Pattern Recognition |  |
 | [Adaptive Clustering Based Personalized Federated Learning Framework for Next POI Recommendation With Location Noise](https://ieeexplore.ieee.org/document/10241965) | IEEE Transactions on Knowledge and Data Engineering | [![Github](https://img.shields.io/github/stars/Leavesy/CPF-POI?style=flat)](https://github.com/Leavesy/CPF-POI) |
 | [DCI-PFGL: Decentralized Cross-Institutional Personalized Federated Graph Learning for IoT Service Recommendation](https://ieeexplore.ieee.org/document/10349125) | IEEE Internet of Things Journal |  |
 | [FedCORE: Federated Learning for Cross-Organization Recommendation Ecosystem](https://ieeexplore.ieee.org/document/10443503) | IEEE Transactions on Knowledge and Data Engineering | [![Github](https://img.shields.io/github/stars/seek-up-well/FedCORE-code?style=flat)](https://github.com/seek-up-well/FedCORE-code) |
@@ -23,6 +24,7 @@ A collection of research papers on Federated Recommender Systems.
 ### Conference and Workshop Papers 
 | Title  | Venue | Code  |
 |--------|:--------:|:-----------:|
+| [FedConPE: Efficient Federated Conversational Bandits with Heterogeneous Clients](http://arxiv.org/abs/2405.02881) | IJCAI |  |
 | [Hide Your Model: A Parameter Transmission-free Federated Recommender System](https://arxiv.org/pdf/2311.14968.pdf) | ICDE |  |
 | [HeteFedRec: Federated Recommender Systems with Model Heterogeneity](http://arxiv.org/abs/2307.12810) | ICDE |  |
 | [Federated Recommendation with Additive Personalization](https://arxiv.org/pdf/2301.09109v4.pdf) | ICLR |  |
