@@ -24,16 +24,18 @@ A collection of research papers on Federated Recommender Systems.
 ### Conference and Workshop Papers 
 | Title  | Venue | Code  |
 |--------|:--------:|:-----------:|
+| [Federated Adaptation for Foundation Model-based Recommendations](https://arxiv.org/pdf/2405.04840) | IJCAI | [![Github](https://img.shields.io/github/stars/Zhangcx19/IJCAI-24-FedPA?style=flat)](https://github.com/Zhangcx19/IJCAI-24-FedPA) |
 | [FedConPE: Efficient Federated Conversational Bandits with Heterogeneous Clients](http://arxiv.org/abs/2405.02881) | IJCAI |  |
 | [Hide Your Model: A Parameter Transmission-free Federated Recommender System](https://arxiv.org/pdf/2311.14968.pdf) | ICDE |  |
 | [HeteFedRec: Federated Recommender Systems with Model Heterogeneity](http://arxiv.org/abs/2307.12810) | ICDE |  |
 | [Federated Recommendation with Additive Personalization](https://arxiv.org/pdf/2301.09109v4.pdf) | ICLR |  |
-| [Towards Efficient Communication Federated Recommendation System via Low-rank Training](https://arxiv.org/pdf/2401.03748v1.pdf) | WWW | [![Github](https://img.shields.io/github/stars/NNHieu/CoLR-FedRec?style=flat)](https://github.com/NNHieu/CoLR-FedRec) |
-| [Towards Personalized Privacy: User-Governed Data Contribution for Federated Recommendation](https://arxiv.org/pdf/2401.17630.pdf) | WWW |  |
-| [Federated Heterogeneous Graph Neural Network for Privacy-preserving Recommendation](https://arxiv.org/pdf/2310.11730v1.pdf) | WWW |  |
-| [When Federated Recommendation Meets Cold-Start Problem: Separating Item Attributes and User Interactions](https://arxiv.org/abs/2305.12650) | WWW | [![Github](https://img.shields.io/github/stars/Zhangcx19/IFedRec?style=flat)](https://github.com/Zhangcx19/IFedRec) |
-| [Poisoning Federated Recommender Systems with Fake Users](https://arxiv.org/pdf/2402.11637v1.pdf) | WWW |  |
-| [Prompt-enhanced Federated Content Representation Learning for Cross-domain Recommendation](https://arxiv.org/pdf/2401.14678.pdf) | WWW | [![Github](https://img.shields.io/github/stars/Ckano/PFCR?style=flat)](https://github.com/Ckano/PFCR) |
+| [Co-clustering for Federated Recommender System](https://dl.acm.org/doi/10.1145/3589334.3645626) | WWW |  |
+| [Towards Efficient Communication Federated Recommendation System via Low-rank Training](https://dl.acm.org/doi/10.1145/3589334.3645702) | WWW | [![Github](https://img.shields.io/github/stars/NNHieu/CoLR-FedRec?style=flat)](https://github.com/NNHieu/CoLR-FedRec) |
+| [Towards Personalized Privacy: User-Governed Data Contribution for Federated Recommendation](https://dl.acm.org/doi/10.1145/3589334.3645690) | WWW |  |
+| [Federated Heterogeneous Graph Neural Network for Privacy-preserving Recommendation](https://dl.acm.org/doi/10.1145/3589334.3645693) | WWW |  |
+| [When Federated Recommendation Meets Cold-Start Problem: Separating Item Attributes and User Interactions](https://dl.acm.org/doi/10.1145/3589334.3645525) | WWW | [![Github](https://img.shields.io/github/stars/Zhangcx19/IFedRec?style=flat)](https://github.com/Zhangcx19/IFedRec) |
+| [Poisoning Federated Recommender Systems with Fake Users](https://dl.acm.org/doi/10.1145/3589334.3645492) | WWW |  |
+| [Prompt-enhanced Federated Content Representation Learning for Cross-domain Recommendation](https://dl.acm.org/doi/10.1145/3589334.3645337) | WWW | [![Github](https://img.shields.io/github/stars/Ckano/PFCR?style=flat)](https://github.com/Ckano/PFCR) |
 | [Towards Resource-Efficient and Secure Federated Multimedia Recommendation](https://ieeexplore.ieee.org/document/10448131) | ICASSP |  |
 | [Federated Conversational Recommender Systems](https://link.springer.com/chapter/10.1007/978-3-031-56069-9_4) | ECIR |  |
 | [User Consented Federated Recommender System Against Personalized Attribute Inference Attack](https://dl.acm.org/doi/abs/10.1145/3616855.3635830) | WSDM | [![Github](https://img.shields.io/github/stars/HKUST-KnowComp/UC-FedRec?style=flat)](https://github.com/HKUST-KnowComp/UC-FedRec) |
