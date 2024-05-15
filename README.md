@@ -16,6 +16,7 @@ A collection of research papers on Federated Recommender Systems.
 | [Discrete Federated Multi-behavior Recommendation for Privacy-Preserving Heterogeneous One-Class Collaborative Filtering](https://dl.acm.org/doi/abs/10.1145/3652853) | ACM Transactions on Information Systems |  |
 | [Communication-Efficient Federated Neural Collaborative Filtering with Multi-Armed Bandits](https://dl.acm.org/doi/abs/10.1145/3651168) | ACM Transactions on Recommender Systems | [![Github](https://img.shields.io/github/stars/waqar-uestc/fncf_mab?style=flat)](https://github.com/waqar-uestc/fncf_mab) |
 | [Horizontal Federated Recommender System: A Survey](https://dl.acm.org/doi/abs/10.1145/3656165) | ACM Computing Surveys |  |
+| [Federated Privacy-preserving Collaborative Filtering for On-Device Next App Prediction](https://link.springer.com/article/10.1007/s11257-024-09395-0) | User Modeling and User-Adapted Interaction |  |
 | [A Survey on Federated Recommendation Systems](https://ieeexplore.ieee.org/abstract/document/10423793) |  IEEE Transactions on Neural Networks and Learning Systems |  |
 | [Marking the Pace: A Blockchain-Enhanced Privacy-Traceable Strategy for Federated Recommender Systems](https://ieeexplore.ieee.org/document/10308576)| IEEE Internet of Things Journal |  |
 | [HN3S: A Federated AutoEncoder framework for Collaborative Filtering via Hybrid Negative Sampling and Secret Sharing](https://www.sciencedirect.com/science/article/abs/pii/S0306457323003175) | Information Processing & Management | [![Github](https://img.shields.io/github/stars/LukeZane118/HN3S?style=flat)](https://github.com/LukeZane118/HN3S) |
@@ -36,6 +37,7 @@ A collection of research papers on Federated Recommender Systems.
 | [When Federated Recommendation Meets Cold-Start Problem: Separating Item Attributes and User Interactions](https://dl.acm.org/doi/10.1145/3589334.3645525) | WWW | [![Github](https://img.shields.io/github/stars/Zhangcx19/IFedRec?style=flat)](https://github.com/Zhangcx19/IFedRec) |
 | [Poisoning Federated Recommender Systems with Fake Users](https://dl.acm.org/doi/10.1145/3589334.3645492) | WWW |  |
 | [Prompt-enhanced Federated Content Representation Learning for Cross-domain Recommendation](https://dl.acm.org/doi/10.1145/3589334.3645337) | WWW | [![Github](https://img.shields.io/github/stars/Ckano/PFCR?style=flat)](https://github.com/Ckano/PFCR) |
+| [FedDCSR: Federated Cross-domain Sequential Recommendation via Disentangled Representation Learning](https://epubs.siam.org/doi/abs/10.1137/1.9781611978032.62) | SDM | [![Github](https://img.shields.io/github/stars/orion-orion/FedDCSR?style=flat)](https://github.com/orion-orion/FedDCSR) |
 | [Towards Resource-Efficient and Secure Federated Multimedia Recommendation](https://ieeexplore.ieee.org/document/10448131) | ICASSP |  |
 | [Federated Conversational Recommender Systems](https://link.springer.com/chapter/10.1007/978-3-031-56069-9_4) | ECIR |  |
 | [User Consented Federated Recommender System Against Personalized Attribute Inference Attack](https://dl.acm.org/doi/abs/10.1145/3616855.3635830) | WSDM | [![Github](https://img.shields.io/github/stars/HKUST-KnowComp/UC-FedRec?style=flat)](https://github.com/HKUST-KnowComp/UC-FedRec) |
@@ -121,12 +123,11 @@ A collection of research papers on Federated Recommender Systems.
 |--------|:--------:|:-----------:|
 | [Heterogeneous federated collaborative filtering using FAIR: Federated Averaging in Random Subspaces](https://arxiv.org/pdf/2311.01722v1.pdf) | arxiv | [![Github](https://img.shields.io/github/stars/apd10/FLCF?style=flat)](https://github.com/apd10/FLCF) |
 | [FedFNN: Faster Training Convergence Through Update Predictions in Federated Recommender Systems](https://arxiv.org/pdf/2309.08635v1.pdf) | arxiv |  |
-| [FedDCSR: Federated Cross-domain Sequential Recommendation via Disentangled Representation Learning](https://arxiv.org/pdf/2309.08420v1.pdf) | arxiv |  |
 | [GNN4FR: A Lossless GNN-based Federated Recommendation Framework](https://arxiv.org/pdf/2308.01197v1.pdf) | arxiv |  |
 | [Community Detection Attack against Collaborative Learning-based Recommender Systems](https://arxiv.org/pdf/2306.08929v1.pdf) | arxiv |  |
 | [Graph-guided Personalization for Federated Recommendation](https://arxiv.org/abs/2305.07866) | arxiv |  |
 | [PerFedRec++: Enhancing Personalized Federated Recommendation with Self-Supervised Pre-Training](https://arxiv.org/pdf/2305.06622.pdf) | arxiv |  |
-| [Federated Privacy-preserving Collaborative Filtering for On-Device Next App Prediction](https://arxiv.org/abs/2303.04744v1) | arxiv |  |
+
 
 ## 2022 <a id="2022"></a>
 ### Journal Articles
