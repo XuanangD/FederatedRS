@@ -9,6 +9,7 @@ A collection of research papers on Federated Recommender Systems.
 ### Journal Articles
 | Title  | Venue | Code |
 |--------|:--------:|:-----------:|
+| [Recent advances and future challenges in federated recommender systems](https://link.springer.com/article/10.1007/s41060-023-00442-4) | International Journal of Data Science and Analytics |  |
 | [Towards fair and personalized federated recommendation](https://www.sciencedirect.com/science/article/pii/S0031320323009317) | Pattern Recognition |  |
 | [Adaptive Clustering Based Personalized Federated Learning Framework for Next POI Recommendation With Location Noise](https://ieeexplore.ieee.org/document/10241965) | IEEE Transactions on Knowledge and Data Engineering | [![Github](https://img.shields.io/github/stars/Leavesy/CPF-POI?style=flat)](https://github.com/Leavesy/CPF-POI) |
 | [DCI-PFGL: Decentralized Cross-Institutional Personalized Federated Graph Learning for IoT Service Recommendation](https://ieeexplore.ieee.org/document/10349125) | IEEE Internet of Things Journal |  |
