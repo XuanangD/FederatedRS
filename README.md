@@ -9,6 +9,8 @@ A collection of research papers on Federated Recommender Systems.
 ### Journal Articles
 | Title  | Venue | Code |
 |--------|:--------:|:-----------:|
+| [Semi-global sequential recommendation via EM-like federated training](https://www.sciencedirect.com/science/article/pii/S0957417424003257) | Expert Systems with Applications | [![Github](https://img.shields.io/github/stars/MuziLee-x/FedEM?style=flat)](https://github.com/MuziLee-x/FedEM) |
+| [Federated recommender systems based on deep learning: The experimental comparisons of deep learning algorithms and federated learning aggregation strategies](https://www.sciencedirect.com/science/article/pii/S0957417423029421) | Expert Systems with Applications |  |
 | [Recent advances and future challenges in federated recommender systems](https://link.springer.com/article/10.1007/s41060-023-00442-4) | International Journal of Data Science and Analytics |  |
 | [Towards fair and personalized federated recommendation](https://www.sciencedirect.com/science/article/pii/S0031320323009317) | Pattern Recognition |  |
 | [Adaptive Clustering Based Personalized Federated Learning Framework for Next POI Recommendation With Location Noise](https://ieeexplore.ieee.org/document/10241965) | IEEE Transactions on Knowledge and Data Engineering | [![Github](https://img.shields.io/github/stars/Leavesy/CPF-POI?style=flat)](https://github.com/Leavesy/CPF-POI) |
@@ -49,6 +51,7 @@ A collection of research papers on Federated Recommender Systems.
 ### Informal Publications
 | Title  | Venue | Code  |
 |--------|:--------:|:-----------:|
+| [Towards Fairness in Provably Communication-Efficient Federated Recommender Systems](http://arxiv.org/abs/2405.15788) | arxiv |  |
 | [Robust Federated Contrastive Recommender System against Model Poisoning Attack](https://arxiv.org/pdf/2403.20107.pdf) | arxiv |  |
 | [FedHCDR: Federated Cross-Domain Recommendation with Hypergraph Signal Decoupling](https://arxiv.org/pdf/2403.02630.pdf) | arxiv | [![Github](https://img.shields.io/github/stars/orion-orion/FedHCDR?style=flat)](https://github.com/orion-orion/FedHCDR) |
 | [Federated Recommendation via Hybrid Retrieval Augmented Generation](https://arxiv.org/pdf/2403.04256v1.pdf) | arxiv | [![Github](https://img.shields.io/github/stars/huiminzeng/GPT-FedRec?style=flat)](https://github.com/huiminzeng/GPT-FedRec) |
