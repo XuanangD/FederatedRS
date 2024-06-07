@@ -9,6 +9,7 @@ A collection of research papers on Federated Recommender Systems.
 ### Journal Articles
 | Title  | Venue | Code |
 |--------|:--------:|:-----------:|
+| [A federated recommendation algorithm based on user clustering and meta-learning](https://www.sciencedirect.com/science/article/pii/S1568494624002576) | Applied Soft Computing |  |
 | [Semi-global sequential recommendation via EM-like federated training](https://www.sciencedirect.com/science/article/pii/S0957417424003257) | Expert Systems with Applications | [![Github](https://img.shields.io/github/stars/MuziLee-x/FedEM?style=flat)](https://github.com/MuziLee-x/FedEM) |
 | [Federated recommender systems based on deep learning: The experimental comparisons of deep learning algorithms and federated learning aggregation strategies](https://www.sciencedirect.com/science/article/pii/S0957417423029421) | Expert Systems with Applications |  |
 | [Recent advances and future challenges in federated recommender systems](https://link.springer.com/article/10.1007/s41060-023-00442-4) | International Journal of Data Science and Analytics |  |
