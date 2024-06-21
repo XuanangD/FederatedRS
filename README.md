@@ -9,6 +9,8 @@ A collection of research papers on Federated Recommender Systems.
 ### Journal Articles
 | Title  | Venue | Code |
 |--------|:--------:|:-----------:|
+| [A Federated Social Recommendation Approach with Enhanced Hypergraph Neural Network](https://dl.acm.org/doi/abs/10.1145/3665931) | ACM Transactions on Intelligent Systems and Technology |  |
+| [Privacy-preserving Cross-domain Recommendation with Federated Graph Learning](https://dl.acm.org/doi/10.1145/3653448) | ACM Transactions on Information Systems |  |
 | [A federated recommendation algorithm based on user clustering and meta-learning](https://www.sciencedirect.com/science/article/pii/S1568494624002576) | Applied Soft Computing |  |
 | [Semi-global sequential recommendation via EM-like federated training](https://www.sciencedirect.com/science/article/pii/S0957417424003257) | Expert Systems with Applications | [![Github](https://img.shields.io/github/stars/MuziLee-x/FedEM?style=flat)](https://github.com/MuziLee-x/FedEM) |
 | [Federated recommender systems based on deep learning: The experimental comparisons of deep learning algorithms and federated learning aggregation strategies](https://www.sciencedirect.com/science/article/pii/S0957417423029421) | Expert Systems with Applications |  |
@@ -52,6 +54,7 @@ A collection of research papers on Federated Recommender Systems.
 ### Informal Publications
 | Title  | Venue | Code  |
 |--------|:--------:|:-----------:|
+| [PTF-FSR: A Parameter Transmission-Free Federated Sequential Recommender System](https://arxiv.org/pdf/2406.05387) | arxiv |  |
 | [Towards Fairness in Provably Communication-Efficient Federated Recommender Systems](http://arxiv.org/abs/2405.15788) | arxiv |  |
 | [Robust Federated Contrastive Recommender System against Model Poisoning Attack](https://arxiv.org/pdf/2403.20107.pdf) | arxiv |  |
 | [FedHCDR: Federated Cross-Domain Recommendation with Hypergraph Signal Decoupling](https://arxiv.org/pdf/2403.02630.pdf) | arxiv | [![Github](https://img.shields.io/github/stars/orion-orion/FedHCDR?style=flat)](https://github.com/orion-orion/FedHCDR) |
