@@ -9,6 +9,7 @@ A collection of research papers on Federated Recommender Systems.
 ### Journal Articles
 | Title  | Venue | Code |
 |--------|:--------:|:-----------:|
+| [Robust Privacy-Preserving Recommendation Systems Driven by Multimodal Federated Learning](https://ieeexplore.ieee.org/document/10562343) | IEEE Transactions on Neural Networks and Learning Systems |  |
 | [A Federated Social Recommendation Approach with Enhanced Hypergraph Neural Network](https://dl.acm.org/doi/abs/10.1145/3665931) | ACM Transactions on Intelligent Systems and Technology |  |
 | [Privacy-preserving Cross-domain Recommendation with Federated Graph Learning](https://dl.acm.org/doi/10.1145/3653448) | ACM Transactions on Information Systems |  |
 | [A federated recommendation algorithm based on user clustering and meta-learning](https://www.sciencedirect.com/science/article/pii/S1568494624002576) | Applied Soft Computing |  |
