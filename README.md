@@ -9,6 +9,7 @@ A collection of research papers on Federated Recommender Systems.
 ### Journal Articles
 | Title  | Venue | Code |
 |--------|:--------:|:-----------:|
+| [Federated Matrix Factorization Recommendation Based on Secret Sharing for Privacy Preserving](https://ieeexplore.ieee.org/abstract/document/10286450) | IEEE Transactions on Computational Social Systems |  |
 | [Robust Privacy-Preserving Recommendation Systems Driven by Multimodal Federated Learning](https://ieeexplore.ieee.org/document/10562343) | IEEE Transactions on Neural Networks and Learning Systems |  |
 | [A Federated Social Recommendation Approach with Enhanced Hypergraph Neural Network](https://dl.acm.org/doi/abs/10.1145/3665931) | ACM Transactions on Intelligent Systems and Technology |  |
 | [Privacy-preserving Cross-domain Recommendation with Federated Graph Learning](https://dl.acm.org/doi/10.1145/3653448) | ACM Transactions on Information Systems |  |
@@ -73,7 +74,6 @@ A collection of research papers on Federated Recommender Systems.
 | [Word2Vec-based efficient privacy-preserving shared representation learning for federated recommendation system in a cross-device setting](https://www.sciencedirect.com/science/article/pii/S0020025523013130) | Information Sciences |  |
 | [Federated Learning-based Personalized Recommendation Systems: An Overview on Security and Privacy Challenges](https://ieeexplore.ieee.org/abstract/document/10262054) | IEEE Transactions on Consumer Electronics |  |
 | [HFSA: A Semi-Asynchronous Hierarchical Federated Recommendation System in Smart City](https://ieeexplore.ieee.org/document/10149002) | IEEE Internet of Things Journal |  |
-| [Federated Matrix Factorization Recommendation Based on Secret Sharing for Privacy Preserving](https://ieeexplore.ieee.org/abstract/document/10286450) | IEEE Transactions on Computational Social Systems |  |
 | [Privacy-preserving graph convolution network for federated item recommendation](https://www.sciencedirect.com/science/article/pii/S000437022300142X) | Artificial Intelligence |  |
 | [Feynman: Federated Learning-Based Advertising for Ecosystems-Oriented Mobile Apps Recommendation](https://ieeexplore.ieee.org/document/10154552) | IEEE Transactions on Services Computing |  |
 | [Federated learning based driver recommendation for next generation transportation system](https://www.sciencedirect.com/science/article/pii/S0957417423004530) | Expert Systems with Applications |  |
