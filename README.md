@@ -9,6 +9,7 @@ A collection of research papers on Federated Recommender Systems.
 ### Journal Articles
 | Title  | Venue | Code |
 |--------|:--------:|:-----------:|
+| [PerFedRec++: Enhancing Personalized Federated Recommendation with Self-Supervised Pre-Training](https://dl.acm.org/doi/abs/10.1145/3664927) | ACM Transactions on Intelligent Systems and Technology |  |
 | [Federated Matrix Factorization Recommendation Based on Secret Sharing for Privacy Preserving](https://ieeexplore.ieee.org/abstract/document/10286450) | IEEE Transactions on Computational Social Systems |  |
 | [Robust Privacy-Preserving Recommendation Systems Driven by Multimodal Federated Learning](https://ieeexplore.ieee.org/document/10562343) | IEEE Transactions on Neural Networks and Learning Systems |  |
 | [A Federated Social Recommendation Approach with Enhanced Hypergraph Neural Network](https://dl.acm.org/doi/abs/10.1145/3665931) | ACM Transactions on Intelligent Systems and Technology |  |
@@ -56,6 +57,8 @@ A collection of research papers on Federated Recommender Systems.
 ### Informal Publications
 | Title  | Venue | Code  |
 |--------|:--------:|:-----------:|
+| [Beyond Similarity: Personalized Federated Recommendation with Composite Aggregation](https://arxiv.org/pdf/2406.03933) | arxiv | [![Github](https://img.shields.io/github/stars/hongleizhang/FedCA?style=flat)](https://github.com/hongleizhang/FedCA)  |
+| [Navigating the Future of Federated Recommendation Systems with Foundation Models](https://arxiv.org/pdf/2406.00004) | arxiv |  |
 | [PTF-FSR: A Parameter Transmission-Free Federated Sequential Recommender System](https://arxiv.org/pdf/2406.05387) | arxiv |  |
 | [Towards Fairness in Provably Communication-Efficient Federated Recommender Systems](http://arxiv.org/abs/2405.15788) | arxiv |  |
 | [Robust Federated Contrastive Recommender System against Model Poisoning Attack](https://arxiv.org/pdf/2403.20107.pdf) | arxiv |  |
@@ -135,7 +138,6 @@ A collection of research papers on Federated Recommender Systems.
 | [GNN4FR: A Lossless GNN-based Federated Recommendation Framework](https://arxiv.org/pdf/2308.01197v1.pdf) | arxiv |  |
 | [Community Detection Attack against Collaborative Learning-based Recommender Systems](https://arxiv.org/pdf/2306.08929v1.pdf) | arxiv |  |
 | [Graph-guided Personalization for Federated Recommendation](https://arxiv.org/abs/2305.07866) | arxiv |  |
-| [PerFedRec++: Enhancing Personalized Federated Recommendation with Self-Supervised Pre-Training](https://arxiv.org/pdf/2305.06622.pdf) | arxiv |  |
 
 
 ## 2022 <a id="2022"></a>
