@@ -9,6 +9,7 @@ A collection of research papers on Federated Recommender Systems.
 ### Journal Articles
 | Title  | Venue | Code |
 |--------|:--------:|:-----------:|
+| [FedKGRec: privacy-preserving federated knowledge graph aware recommender system](https://link.springer.com/article/10.1007/s10489-024-05634-4) | Applied Intelligence  | [![Github](https://img.shields.io/github/stars/zjfgh2015/FedKGRec?style=flat)](https://github.com/zjfgh2015/FedKGRec) |
 | [PerFedRec++: Enhancing Personalized Federated Recommendation with Self-Supervised Pre-Training](https://dl.acm.org/doi/abs/10.1145/3664927) | ACM Transactions on Intelligent Systems and Technology |  |
 | [Federated Matrix Factorization Recommendation Based on Secret Sharing for Privacy Preserving](https://ieeexplore.ieee.org/abstract/document/10286450) | IEEE Transactions on Computational Social Systems |  |
 | [Robust Privacy-Preserving Recommendation Systems Driven by Multimodal Federated Learning](https://ieeexplore.ieee.org/document/10562343) | IEEE Transactions on Neural Networks and Learning Systems |  |
