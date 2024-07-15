@@ -35,6 +35,8 @@ A collection of research papers on Federated Recommender Systems.
 ### Conference and Workshop Papers 
 | Title  | Venue | Code  |
 |--------|:--------:|:-----------:|
+| [ReFer: Retrieval-Enhanced Vertical Federated Recommendation for Full Set User Benefit](https://dl.acm.org/doi/10.1145/3626772.3657763) | SIGIR |  |
+| [Revisit Targeted Model Poisoning on Federated Recommendation: Optimize via Multi-objective Transport](https://dl.acm.org/doi/10.1145/3626772.3657764) | SIGIR |  |
 | [Federated Adaptation for Foundation Model-based Recommendations](https://arxiv.org/pdf/2405.04840) | IJCAI | [![Github](https://img.shields.io/github/stars/Zhangcx19/IJCAI-24-FedPA?style=flat)](https://github.com/Zhangcx19/IJCAI-24-FedPA) |
 | [FedConPE: Efficient Federated Conversational Bandits with Heterogeneous Clients](http://arxiv.org/abs/2405.02881) | IJCAI |  |
 | [Hide Your Model: A Parameter Transmission-free Federated Recommender System](https://arxiv.org/pdf/2311.14968.pdf) | ICDE |  |
