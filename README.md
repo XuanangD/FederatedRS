@@ -9,6 +9,7 @@ A collection of research papers on Federated Recommender Systems.
 ### Journal Articles
 | Title  | Venue | Code |
 |--------|:--------:|:-----------:|
+| [Multi-Party Federated Recommendation Based on Semi-Supervised Learning](https://ieeexplore.ieee.org/document/10336386) | IEEE Transactions on Big Data |  |
 | [FedKGRec: privacy-preserving federated knowledge graph aware recommender system](https://link.springer.com/article/10.1007/s10489-024-05634-4) | Applied Intelligence  | [![Github](https://img.shields.io/github/stars/zjfgh2015/FedKGRec?style=flat)](https://github.com/zjfgh2015/FedKGRec) |
 | [PerFedRec++: Enhancing Personalized Federated Recommendation with Self-Supervised Pre-Training](https://dl.acm.org/doi/abs/10.1145/3664927) | ACM Transactions on Intelligent Systems and Technology |  |
 | [Federated Matrix Factorization Recommendation Based on Secret Sharing for Privacy Preserving](https://ieeexplore.ieee.org/abstract/document/10286450) | IEEE Transactions on Computational Social Systems |  |
@@ -60,6 +61,7 @@ A collection of research papers on Federated Recommender Systems.
 ### Informal Publications
 | Title  | Venue | Code  |
 |--------|:--------:|:-----------:|
+| [Towards Personalized Federated Multi-scenario Multi-task Recommendation](https://arxiv.org/pdf/2406.18938) | arxiv |  |
 | [Beyond Similarity: Personalized Federated Recommendation with Composite Aggregation](https://arxiv.org/pdf/2406.03933) | arxiv | [![Github](https://img.shields.io/github/stars/hongleizhang/FedCA?style=flat)](https://github.com/hongleizhang/FedCA)  |
 | [Navigating the Future of Federated Recommendation Systems with Foundation Models](https://arxiv.org/pdf/2406.00004) | arxiv |  |
 | [PTF-FSR: A Parameter Transmission-Free Federated Sequential Recommender System](https://arxiv.org/pdf/2406.05387) | arxiv |  |
