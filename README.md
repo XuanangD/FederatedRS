@@ -40,9 +40,10 @@ A collection of research papers on Federated Recommender Systems.
 | [Revisit Targeted Model Poisoning on Federated Recommendation: Optimize via Multi-objective Transport](https://dl.acm.org/doi/10.1145/3626772.3657764) | SIGIR |  |
 | [Federated Adaptation for Foundation Model-based Recommendations](https://arxiv.org/pdf/2405.04840) | IJCAI | [![Github](https://img.shields.io/github/stars/Zhangcx19/IJCAI-24-FedPA?style=flat)](https://github.com/Zhangcx19/IJCAI-24-FedPA) |
 | [FedConPE: Efficient Federated Conversational Bandits with Heterogeneous Clients](http://arxiv.org/abs/2405.02881) | IJCAI |  |
-| [Hide Your Model: A Parameter Transmission-free Federated Recommender System](https://arxiv.org/pdf/2311.14968.pdf) | ICDE |  |
-| [HeteFedRec: Federated Recommender Systems with Model Heterogeneity](http://arxiv.org/abs/2307.12810) | ICDE |  |
-| [Federated Recommendation with Additive Personalization](https://arxiv.org/pdf/2301.09109v4.pdf) | ICLR |  |
+| [Preventing the Popular Item Embedding Based Attack in Federated Recommendations](https://ieeexplore.ieee.org/document/10597721) | ICDE |  |
+| [Hide Your Model: A Parameter Transmission-free Federated Recommender System](https://ieeexplore.ieee.org/document/10597708) | ICDE |  |
+| [HeteFedRec: Federated Recommender Systems with Model Heterogeneity](https://ieeexplore.ieee.org/document/10598074) | ICDE |  |
+| [Federated Recommendation with Additive Personalization](https://openreview.net/forum?id=xkXdE81mOK) | ICLR |  |
 | [Co-clustering for Federated Recommender System](https://dl.acm.org/doi/10.1145/3589334.3645626) | WWW |  |
 | [Towards Efficient Communication Federated Recommendation System via Low-rank Training](https://dl.acm.org/doi/10.1145/3589334.3645702) | WWW | [![Github](https://img.shields.io/github/stars/NNHieu/CoLR-FedRec?style=flat)](https://github.com/NNHieu/CoLR-FedRec) |
 | [Towards Personalized Privacy: User-Governed Data Contribution for Federated Recommendation](https://dl.acm.org/doi/10.1145/3589334.3645690) | WWW |  |
