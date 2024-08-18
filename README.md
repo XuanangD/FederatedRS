@@ -9,6 +9,7 @@ A collection of research papers on Federated Recommender Systems.
 ### Journal Articles
 | Title  | Venue | Code |
 |--------|:--------:|:-----------:|
+| [Federated Recommender System Based on Diffusion Augmentation and Guided Denoising](https://dl.acm.org/doi/abs/10.1145/3688570) | ACM Transactions on Information Systems |  |
 | [A personalized cross-domain recommendation with federated meta learning](https://link.springer.com/article/10.1007/s11042-024-18495-3) | Multimedia Tools and Applications |  |
 | [Multi-Party Federated Recommendation Based on Semi-Supervised Learning](https://ieeexplore.ieee.org/document/10336386) | IEEE Transactions on Big Data |  |
 | [FedKGRec: privacy-preserving federated knowledge graph aware recommender system](https://link.springer.com/article/10.1007/s10489-024-05634-4) | Applied Intelligence  | [![Github](https://img.shields.io/github/stars/zjfgh2015/FedKGRec?style=flat)](https://github.com/zjfgh2015/FedKGRec) |
