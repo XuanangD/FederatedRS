@@ -64,6 +64,7 @@ A collection of research papers on Federated Recommender Systems.
 ### Informal Publications
 | Title  | Venue | Code  |
 |--------|:--------:|:-----------:|
+| [Personalized Federated Collaborative Filtering: A Variational AutoEncoder Approach](https://arxiv.org/abs/2408.08931v1) | arxiv |  |
 | [Towards Personalized Federated Multi-scenario Multi-task Recommendation](https://arxiv.org/pdf/2406.18938) | arxiv |  |
 | [Beyond Similarity: Personalized Federated Recommendation with Composite Aggregation](https://arxiv.org/pdf/2406.03933) | arxiv | [![Github](https://img.shields.io/github/stars/hongleizhang/FedCA?style=flat)](https://github.com/hongleizhang/FedCA)  |
 | [Navigating the Future of Federated Recommendation Systems with Foundation Models](https://arxiv.org/pdf/2406.00004) | arxiv |  |
