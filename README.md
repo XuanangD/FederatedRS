@@ -38,6 +38,7 @@ A collection of research papers on Federated Recommender Systems.
 ### Conference and Workshop Papers 
 | Title  | Venue | Code  |
 |--------|:--------:|:-----------:|
+| [FedOCD: A One-Shot Federated Framework for Heterogeneous Cross-Domain Recommendation](https://link.springer.com/chapter/10.1007/978-981-97-7241-4_5) | APWeb | [![Github](https://img.shields.io/github/stars/AA-Ashley/FedOCD?style=flat)](https://github.com/AA-Ashley/FedOCD) |
 | [ReFer: Retrieval-Enhanced Vertical Federated Recommendation for Full Set User Benefit](https://dl.acm.org/doi/10.1145/3626772.3657763) | SIGIR |  |
 | [Revisit Targeted Model Poisoning on Federated Recommendation: Optimize via Multi-objective Transport](https://dl.acm.org/doi/10.1145/3626772.3657764) | SIGIR |  |
 | [Federated Adaptation for Foundation Model-based Recommendations](https://arxiv.org/pdf/2405.04840) | IJCAI | [![Github](https://img.shields.io/github/stars/Zhangcx19/IJCAI-24-FedPA?style=flat)](https://github.com/Zhangcx19/IJCAI-24-FedPA) |
