@@ -9,6 +9,8 @@ A collection of research papers on Federated Recommender Systems.
 ### Journal Articles
 | Title  | Venue | Code |
 |--------|:--------:|:-----------:|
+| [Defending Against Membership Inference Attack for Counterfactual Federated Recommendation with Differentially Private Representation Learning](https://ieeexplore.ieee.org/document/10662889) | IEEE Transactions on Information Forensics and Security |  |
+| [FedGST: An Efficient Federated Graph Neural Network for Spatio-temporal PoI Recommendation](https://dl.acm.org/doi/abs/10.1145/3694682) | ACM Transactions on Sensor Networks | [![Github](https://img.shields.io/github/stars/yushuowiki/FedGST?style=flat)](https://github.com/yushuowiki/FedGST) |
 | [Federated Recommender System Based on Diffusion Augmentation and Guided Denoising](https://dl.acm.org/doi/abs/10.1145/3688570) | ACM Transactions on Information Systems |  |
 | [A personalized cross-domain recommendation with federated meta learning](https://link.springer.com/article/10.1007/s11042-024-18495-3) | Multimedia Tools and Applications |  |
 | [Multi-Party Federated Recommendation Based on Semi-Supervised Learning](https://ieeexplore.ieee.org/document/10336386) | IEEE Transactions on Big Data |  |
@@ -65,6 +67,8 @@ A collection of research papers on Federated Recommender Systems.
 ### Informal Publications
 | Title  | Venue | Code  |
 |--------|:--------:|:-----------:|
+| [Federated Prototype-based Contrastive Learning for Privacy-Preserving Cross-domain Recommendation](https://arxiv.org/pdf/2409.03294) | arxiv |  |
+| [Federated User Preference Modeling for Privacy-Preserving Cross-Domain Recommendation](https://arxiv.org/pdf/2408.14689) | arxiv |  |
 | [Personalized Federated Collaborative Filtering: A Variational AutoEncoder Approach](https://arxiv.org/abs/2408.08931v1) | arxiv |  |
 | [Towards Personalized Federated Multi-scenario Multi-task Recommendation](https://arxiv.org/pdf/2406.18938) | arxiv |  |
 | [Beyond Similarity: Personalized Federated Recommendation with Composite Aggregation](https://arxiv.org/pdf/2406.03933) | arxiv | [![Github](https://img.shields.io/github/stars/hongleizhang/FedCA?style=flat)](https://github.com/hongleizhang/FedCA)  |
