@@ -67,6 +67,8 @@ A collection of research papers on Federated Recommender Systems.
 ### Informal Publications
 | Title  | Venue | Code  |
 |--------|:--------:|:-----------:|
+| [PDC-FRS: Privacy-preserving Data Contribution for Federated Recommender System](https://arxiv.org/pdf/2409.07773) | arxiv |  |
+| [DV-FSR: A Dual-View Target Attack Framework for Federated Sequential Recommendation](https://arxiv.org/pdf/2409.07500) | arxiv | [![Github](https://img.shields.io/github/stars/USTCAGI/DV-FSR?style=flat)](https://github.com/USTCAGI/DV-FSR)  |
 | [Federated Prototype-based Contrastive Learning for Privacy-Preserving Cross-domain Recommendation](https://arxiv.org/pdf/2409.03294) | arxiv |  |
 | [Federated User Preference Modeling for Privacy-Preserving Cross-Domain Recommendation](https://arxiv.org/pdf/2408.14689) | arxiv |  |
 | [Personalized Federated Collaborative Filtering: A Variational AutoEncoder Approach](https://arxiv.org/abs/2408.08931v1) | arxiv |  |
