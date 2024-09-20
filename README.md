@@ -40,6 +40,10 @@ A collection of research papers on Federated Recommender Systems.
 ### Conference and Workshop Papers 
 | Title  | Venue | Code  |
 |--------|:--------:|:-----------:|
+| [FedHCDR: Federated Cross-Domain Recommendation with Hypergraph Signal Decoupling](https://link.springer.com/chapter/10.1007/978-3-031-70341-6_21) | ECML/PKDD | [![Github](https://img.shields.io/github/stars/orion-orion/FedHCDR?style=flat)](https://github.com/orion-orion/FedHCDR) |
+| [Exploring Personalized Intents with Knowledge Graph for Federated Self-supervised Recommendation](https://link.springer.com/chapter/10.1007/978-981-97-5663-6_34)| ICIC |  |
+| [FedRecTID: A General Robust Federated Recommendation Framework Based on Target Items Detection](https://ieeexplore.ieee.org/document/10650323) | IJCNN |  |
+| [AeroRec: An Efficient On-Device Recommendation Framework using Federated Self-Supervised Knowledge Distillation](https://ieeexplore.ieee.org/document/10621240) | INFOCOM |  |
 | [FedOCD: A One-Shot Federated Framework for Heterogeneous Cross-Domain Recommendation](https://link.springer.com/chapter/10.1007/978-981-97-7241-4_5) | APWeb | [![Github](https://img.shields.io/github/stars/AA-Ashley/FedOCD?style=flat)](https://github.com/AA-Ashley/FedOCD) |
 | [ReFer: Retrieval-Enhanced Vertical Federated Recommendation for Full Set User Benefit](https://dl.acm.org/doi/10.1145/3626772.3657763) | SIGIR |  |
 | [Revisit Targeted Model Poisoning on Federated Recommendation: Optimize via Multi-objective Transport](https://dl.acm.org/doi/10.1145/3626772.3657764) | SIGIR |  |
@@ -78,7 +82,6 @@ A collection of research papers on Federated Recommender Systems.
 | [PTF-FSR: A Parameter Transmission-Free Federated Sequential Recommender System](https://arxiv.org/pdf/2406.05387) | arxiv |  |
 | [Towards Fairness in Provably Communication-Efficient Federated Recommender Systems](http://arxiv.org/abs/2405.15788) | arxiv |  |
 | [Robust Federated Contrastive Recommender System against Model Poisoning Attack](https://arxiv.org/pdf/2403.20107.pdf) | arxiv |  |
-| [FedHCDR: Federated Cross-Domain Recommendation with Hypergraph Signal Decoupling](https://arxiv.org/pdf/2403.02630.pdf) | arxiv | [![Github](https://img.shields.io/github/stars/orion-orion/FedHCDR?style=flat)](https://github.com/orion-orion/FedHCDR) |
 | [Federated Recommendation via Hybrid Retrieval Augmented Generation](https://arxiv.org/pdf/2403.04256v1.pdf) | arxiv | [![Github](https://img.shields.io/github/stars/huiminzeng/GPT-FedRec?style=flat)](https://github.com/huiminzeng/GPT-FedRec) |
 | [Leveraging Federated Learning and Edge Computing for Recommendation Systems within Cloud Computing Networks](https://arxiv.org/pdf/2403.03165v1.pdf) | arxiv |  |
 | [LLM-based Federated Recommendation](https://arxiv.org/abs/2402.09959) | arxiv |  |
