@@ -71,6 +71,7 @@ A collection of research papers on Federated Recommender Systems.
 ### Informal Publications
 | Title  | Venue | Code  |
 |--------|:--------:|:-----------:|
+| [FedSlate: A Federated Deep Reinforcement Learning Recommender System](https://arxiv.org/pdf/2409.14872v1) | arxiv | [![Github](https://img.shields.io/github/stars/TianYaDY/FedSlate?style=flat)](https://github.com/TianYaDY/FedSlate) |
 | [PDC-FRS: Privacy-preserving Data Contribution for Federated Recommender System](https://arxiv.org/pdf/2409.07773) | arxiv |  |
 | [DV-FSR: A Dual-View Target Attack Framework for Federated Sequential Recommendation](https://arxiv.org/pdf/2409.07500) | arxiv | [![Github](https://img.shields.io/github/stars/USTCAGI/DV-FSR?style=flat)](https://github.com/USTCAGI/DV-FSR)  |
 | [Federated Prototype-based Contrastive Learning for Privacy-Preserving Cross-domain Recommendation](https://arxiv.org/pdf/2409.03294) | arxiv |  |
