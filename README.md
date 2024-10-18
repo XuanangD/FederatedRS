@@ -40,6 +40,8 @@ A collection of research papers on Federated Recommender Systems.
 ### Conference and Workshop Papers 
 | Title  | Venue | Code  |
 |--------|:--------:|:-----------:|
+| [GPFedRec: Graph-Guided Personalization for Federated Recommendation](https://dl.acm.org/doi/10.1145/3637528.3671702) | KDD | [![Github](https://img.shields.io/github/stars/zhangcx19/gpfedrec?style=flat)](https://github.com/zhangcx19/gpfedrec) |
+| [FedLoCA: Low-Rank Coordinated Adaptation with Knowledge Decoupling for Federated Recommendations](https://dl.acm.org/doi/10.1145/3640457.3688112) | RecSys |  |
 | [FedHCDR: Federated Cross-Domain Recommendation with Hypergraph Signal Decoupling](https://link.springer.com/chapter/10.1007/978-3-031-70341-6_21) | ECML/PKDD | [![Github](https://img.shields.io/github/stars/orion-orion/FedHCDR?style=flat)](https://github.com/orion-orion/FedHCDR) |
 | [Exploring Personalized Intents with Knowledge Graph for Federated Self-supervised Recommendation](https://link.springer.com/chapter/10.1007/978-981-97-5663-6_34)| ICIC |  |
 | [FedRecTID: A General Robust Federated Recommendation Framework Based on Target Items Detection](https://ieeexplore.ieee.org/document/10650323) | IJCNN |  |
@@ -160,7 +162,6 @@ A collection of research papers on Federated Recommender Systems.
 | [FedFNN: Faster Training Convergence Through Update Predictions in Federated Recommender Systems](https://arxiv.org/pdf/2309.08635v1.pdf) | arxiv |  |
 | [GNN4FR: A Lossless GNN-based Federated Recommendation Framework](https://arxiv.org/pdf/2308.01197v1.pdf) | arxiv |  |
 | [Community Detection Attack against Collaborative Learning-based Recommender Systems](https://arxiv.org/pdf/2306.08929v1.pdf) | arxiv |  |
-| [Graph-guided Personalization for Federated Recommendation](https://arxiv.org/abs/2305.07866) | arxiv |  |
 
 
 ## 2022 <a id="2022"></a>
