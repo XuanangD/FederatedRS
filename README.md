@@ -40,6 +40,8 @@ A collection of research papers on Federated Recommender Systems.
 ### Conference and Workshop Papers 
 | Title  | Venue | Code  |
 |--------|:--------:|:-----------:|
+| [Efficient and robust regularized federated recommendation](https://dl.acm.org/doi/10.1145/3627673.3679682) | CIKM | [![Github](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/RFRec?style=flat)](https://github.com/Applied-Machine-Learning-Lab/RFRec) |
+| [EFVAE: Efficient federated variational autoencoder for collaborative filtering](https://dl.acm.org/doi/10.1145/3627673.3679818) | CIKM | [![Github](https://img.shields.io/github/stars/LukeZane118/EFVAE?style=flat)](https://github.com/LukeZane118/EFVAE) |
 | [GPFedRec: Graph-Guided Personalization for Federated Recommendation](https://dl.acm.org/doi/10.1145/3637528.3671702) | KDD | [![Github](https://img.shields.io/github/stars/zhangcx19/gpfedrec?style=flat)](https://github.com/zhangcx19/gpfedrec) |
 | [FedLoCA: Low-Rank Coordinated Adaptation with Knowledge Decoupling for Federated Recommendations](https://dl.acm.org/doi/10.1145/3640457.3688112) | RecSys |  |
 | [FedHCDR: Federated Cross-Domain Recommendation with Hypergraph Signal Decoupling](https://link.springer.com/chapter/10.1007/978-3-031-70341-6_21) | ECML/PKDD | [![Github](https://img.shields.io/github/stars/orion-orion/FedHCDR?style=flat)](https://github.com/orion-orion/FedHCDR) |
@@ -73,6 +75,7 @@ A collection of research papers on Federated Recommender Systems.
 ### Informal Publications
 | Title  | Venue | Code  |
 |--------|:--------:|:-----------:|
+| [P4GCN: Vertical federated social recommendation with privacy-preserving two-party graph convolution networks](http://arxiv.org/abs/2410.13905) | arxiv |  |
 | [FELLAS: Enhancing Federated Sequential Recommendation with LLM as External Services](https://arxiv.org/pdf/2410.04927) | arxiv |  |
 | [Federated Graph Learning for Cross-Domain Recommendation](https://arxiv.org/pdf/2410.08249v1) | arxiv |  |
 | [Personalized Item Embeddings in Federated Multimodal Recommendation](https://arxiv.org/pdf/2410.08478v1) | arxiv |  |
